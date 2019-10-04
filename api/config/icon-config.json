@@ -1,0 +1,20 @@
+{
+  "font": {
+    "ascent": 850,
+    "copyright": "Copyright (C) 2015 - {year} IcoFont",
+    "descent": -150,
+    "familyname": "Icofont",
+    "fontname": "Icofont",
+    "fullname": "Icofont",
+    "version": "1.0",
+    "weight": "Normal",
+    "code": 59392,
+    "updateCode": 61654
+  },
+  "meta": {
+    "author": "IcoFont",
+    "email": "icofont@mail.com",
+    "homepage": "https://icofont.com",
+    "license": "https://icofont.com/license"
+  }
+}
