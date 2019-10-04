@@ -3,7 +3,7 @@
 # dependencies
 /.pnp
 .pnp.js
-/public/global_packages
+
 # testing
 /coverage
 
@@ -17,6 +17,7 @@
 /api/node_modules
 /api/package-lock.json
 /api/yarn.lock
+/api/public/global_package
 
 # misc
 .DS_Store
