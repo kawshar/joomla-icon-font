@@ -7,7 +7,7 @@ const svgFontTemplate = _.template(
 		'<defs>\n' +
 		'<font id="<%= font.id %>" horiz-adv-x="<%= font.fontHeight %>" >\n' +
 		'<font-face' +
-		' font-family="<%= font.familyname %>"' +
+		' font-family="<%= font.fontfamily %>"' +
 		' font-weight="400"' +
 		' font-style="<%= font.style %>"' +
 		' units-per-em="<%= font.fontHeight	%>"' +
@@ -48,23 +48,23 @@ const singleSvgFontTemplate = _.template(
 
 var cssFontFile = _.template(
 	'/*! \n' +
-		'* @package IcoFont \n' +
+		'* @package <%= font.fontfamily %> \n' +
 		'* @version <%= font.version %> \n' +
-		'* @author IcoFont https://icofont.com \n' +
-		'* @copyright Copyright (c) 2015 - <%= font.copyright %> IcoFont \n' +
-		'* @license - https://icofont.com/license/\n' +
+		'* @author <%= font.author %> <%= font.url %> \n' +
+		'* @copyright <%= font.copyright %> \n' +
+		'* @license <%= font.license %> \n' +
 		'*/\n\n' +
 		'@font-face' +
 		'{ \n' +
-		'font-family: "<%= font.familyname %>";\n' +
+		'font-family: "<%= font.fontfamily %>";\n' +
 		'font-weight: <%= font.weight %>;\n' +
 		'font-style: "<%= font.style %>";\n' +
-		'src: url("./fonts/<%= font.fontname %>.woff2") format("woff2"),\n' +
-		'url("./fonts/<%= font.fontname %>.woff") format("woff");\n' +
+		'src: url("./fonts/<%= font.filename %>.woff2") format("woff2"),\n' +
+		'url("./fonts/<%= font.filename %>.woff") format("woff");\n' +
 		'}' +
 		'\n' +
-		'[class^="icofont-"], [class*=" icofont-"] { \n' +
-		"font-family: '<%= font.familyname %>' !important;\n" +
+		'[class^="<%= font.prefix %>-"], [class*=" <%= font.prefix %>-"] { \n' +
+		"font-family: '<%= font.fontfamily %>' !important;\n" +
 		'speak: none;\n' +
 		'font-style: normal;\n' +
 		'font-weight: normal;\n' +
@@ -84,129 +84,129 @@ var cssFontFile = _.template(
 		'}\n' +
 		'<% }); %>'+
 		`
-	[class^="icofont-"].duotone,
-	[class*=" icofont-"].duotone {
+	[class^="<%= font.prefix %>-"].duotone,
+	[class*=" <%= font.prefix %>-"].duotone {
 		position: relative;
 	}
-	[class^="icofont-"].duotone:before,
-	[class*=" icofont-"].duotone:before {
+	[class^="<%= font.prefix %>-"].duotone:before,
+	[class*=" <%= font.prefix %>-"].duotone:before {
 		position: absolute;
 		left: 0;
 		top: 0;
 	}
-	[class^="icofont-"].duotone:after,
-	[class*=" icofont-"].duotone:after {
+	[class^="<%= font.prefix %>-"].duotone:after,
+	[class*=" <%= font.prefix %>-"].duotone:after {
 		opacity: 0.4;
 	}
-	.icofont-xs {
+	.<%= font.prefix %>-xs {
 		font-size: .5em; 
 	}
 
-	.icofont-sm {
+	.<%= font.prefix %>-sm {
 		font-size: .75em; 
 	}
 
-	.icofont-md{
+	.<%= font.prefix %>-md{
 		font-size: 1.25em; 
 	}
 
-	.icofont-lg {
+	.<%= font.prefix %>-lg {
 		font-size: 1.5em;
 	}
 
-	.icofont-1x {
+	.<%= font.prefix %>-1x {
 		font-size: 1em; 
 	}
 
-	.icofont-2x {
+	.<%= font.prefix %>-2x {
 		font-size: 2em; 
 	}
 
-	.icofont-3x {
+	.<%= font.prefix %>-3x {
 		font-size: 3em; 
 	}
 
-	.icofont-4x {
+	.<%= font.prefix %>-4x {
 		font-size: 4em; 
 	}
 
-	.icofont-5x {
+	.<%= font.prefix %>-5x {
 		font-size: 5em; 
 	}
 
-	.icofont-6x {
+	.<%= font.prefix %>-6x {
 		font-size: 6em; 
 	}
 
-	.icofont-7x {
+	.<%= font.prefix %>-7x {
 		font-size: 7em; 
 	}
 
-	.icofont-8x {
+	.<%= font.prefix %>-8x {
 		font-size: 8em; 
 	}
 
-	.icofont-9x {
+	.<%= font.prefix %>-9x {
 		font-size: 9em; 
 	}
 
-	.icofont-10x {
+	.<%= font.prefix %>-10x {
 		font-size: 10em; 
 	}
 
-	.icofont-fw {
+	.<%= font.prefix %>-fw {
 		text-align: center;
 		width: 1.25em; 
 	}
 
-	.icofont-ul {
+	.<%= font.prefix %>-ul {
 		list-style-type: none;
 		padding-left: 0;
 		margin-left: 0; 
 	}
-	.icofont-ul > li {
+	.<%= font.prefix %>-ul > li {
 		position: relative;
 		line-height: 2em;
 	}
-	.icofont-ul > li .icofont{
+	.<%= font.prefix %>-ul > li .<%= font.prefix %>{
 		display: inline-block;
 		vertical-align: middle;
 	}
-	.icofont-border {
+	.<%= font.prefix %>-border {
 		border: solid 0.08em #f1f1f1;
 		border-radius: .1em;
 		padding: .2em .25em .15em; 
 	}
 
-	.icofont-pull-left {
+	.<%= font.prefix %>-pull-left {
 		float: left; 
 	}
 
-	.icofont-pull-right {
+	.<%= font.prefix %>-pull-right {
 		float: right; 
 	}
 
-	.icofont.icofont-pull-left {
+	.<%= font.prefix %>.<%= font.prefix %>-pull-left {
 		margin-right: .3em; 
 	}
 
-	.icofont.icofont-pull-right {
+	.<%= font.prefix %>.<%= font.prefix %>-pull-right {
 		margin-left: .3em; 
 	}
 
-	.icofont-spin {
-	-webkit-animation: icofont-spin 2s infinite linear;
-		animation: icofont-spin 2s infinite linear; 
+	.<%= font.prefix %>-spin {
+	-webkit-animation: <%= font.prefix %>-spin 2s infinite linear;
+		animation: <%= font.prefix %>-spin 2s infinite linear; 
 		display: inline-block;
 	}
 
-	.icofont-pulse {
-	-webkit-animation: icofont-spin 1s infinite steps(8);
-		animation: icofont-spin 1s infinite steps(8); 
+	.<%= font.prefix %>-pulse {
+	-webkit-animation: <%= font.prefix %>-spin 1s infinite steps(8);
+		animation: <%= font.prefix %>-spin 1s infinite steps(8); 
 		display: inline-block;
 	}
 
-	@-webkit-keyframes icofont-spin {
+	@-webkit-keyframes <%= font.prefix %>-spin {
 	0% {
 		-webkit-transform: rotate(0deg);
 				transform: rotate(0deg); }
@@ -215,7 +215,7 @@ var cssFontFile = _.template(
 				transform: rotate(360deg); } 
 	}
 
-	@keyframes icofont-spin {
+	@keyframes <%= font.prefix %>-spin {
 	0% {
 		-webkit-transform: rotate(0deg);
 				transform: rotate(0deg);
@@ -225,75 +225,54 @@ var cssFontFile = _.template(
 				transform: rotate(360deg); } 
 	}
 
-	.icofont-rotate-90 {
+	.<%= font.prefix %>-rotate-90 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
 	-webkit-transform: rotate(90deg);
 			transform: rotate(90deg); 
 	}
 
-	.icofont-rotate-180 {
+	.<%= font.prefix %>-rotate-180 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
 	-webkit-transform: rotate(180deg);
 			transform: rotate(180deg); 
 	}
 
-	.icofont-rotate-270 {
+	.<%= font.prefix %>-rotate-270 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
 	-webkit-transform: rotate(270deg);
 			transform: rotate(270deg); 
 	}
 
-	.icofont-flip-horizontal {
+	.<%= font.prefix %>-flip-horizontal {
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
 	-webkit-transform: scale(-1, 1);
 			transform: scale(-1, 1); 
 	}
 
-	.icofont-flip-vertical {
+	.<%= font.prefix %>-flip-vertical {
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
 	-webkit-transform: scale(1, -1);
 			transform: scale(1, -1); 
 	}
 			
-	.icofont-flip-horizontal.icofont-flip-vertical {
+	.<%= font.prefix %>-flip-horizontal.<%= font.prefix %>-flip-vertical {
 	-ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
 	-webkit-transform: scale(-1, -1);
 			transform: scale(-1, -1); 
 	}
 
-	:root .icofont-rotate-90,
-	:root .icofont-rotate-180,
-	:root .icofont-rotate-270,
-	:root .icofont-flip-horizontal,
-	:root .icofont-flip-vertical {
+	:root .<%= font.prefix %>-rotate-90,
+	:root .<%= font.prefix %>-rotate-180,
+	:root .<%= font.prefix %>-rotate-270,
+	:root .<%= font.prefix %>-flip-horizontal,
+	:root .<%= font.prefix %>-flip-vertical {
 	-webkit-filter: none;
 			filter: none; 
 			display: inline-block;
 	}
 
-	.icofont-inverse {
+	.<%= font.prefix %>-inverse {
 	color: #fff; 
-	}
-
-	.sr-only {
-		border: 0;
-		clip: rect(0, 0, 0, 0);
-		height: 1px;
-		margin: -1px;
-		overflow: hidden;
-		padding: 0;
-		position: absolute;
-		width: 1px; 
-	}
-
-	.sr-only-focusable:active,
-	.sr-only-focusable:focus {
-		clip: auto;
-		height: auto;
-		margin: 0;
-		overflow: visible;
-		position: static;
-		width: auto; 
 	}
 	`
 )
@@ -303,8 +282,8 @@ var exampleHtml = _.template(
 	<html>
 	<head>
 		<meta charset="utf-8">
-		<title>Examples | IcoFont</title>
-		<link rel="stylesheet" type="text/css" href="./icofont.min.css">
+		<title>Examples | <%= font.fontfamily %></title>
+		<link rel="stylesheet" type="text/css" href="./<%= font.filename %>.min.css">
 		<style type="text/css">
 			body {
 				margin: 0;
@@ -375,7 +354,7 @@ var exampleHtml = _.template(
 	<body>
 	<div class="header">
 		<div class="container">
-			<h1 class="ico-title"> IcoFont Icons </h1>
+			<h1 class="ico-title"> <%= font.fontFamily %> Icons </h1>
 		</div>
 	</div>
 	<div class="container">

@@ -1,0 +1,504 @@
+{
+  "font": {
+    "author": "Joomla",
+    "email": "admin@joomla.org",
+    "ascent": 850,
+    "descent": -150,
+    "code": 59392,
+    "updateCode": 61789,
+    "fontfamily": "JoomlaFont",
+    "prefix": "icon",
+    "filename": "joomla-fonts",
+    "packageName": "joomla",
+    "version": "4.0.0",
+    "weight": "Normal",
+    "style": "Regular",
+    "metadata": "Joomla Icons Font",
+    "copyright": "Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.",
+    "url": "https://joomla.org",
+    "license": "https://tm.joomla.org/trademark-license.html"
+  },
+  "glyphs": [
+    {
+      "code": "f129",
+      "id": "7ed5ef27-69bb-4eba-a2aa-fd25b7d706dc",
+      "name": "access-levels-secondary",
+      "css": "access-levels",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f12a",
+      "id": "001b514e-4002-4f45-aea3-43a26f0445bf",
+      "name": "access-levels",
+      "css": "access-levels",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f12b",
+      "id": "a0bbf766-c39d-450c-b6ff-f9febe018611",
+      "name": "accessibility-secondary",
+      "css": "accessibility",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f12c",
+      "id": "bc5d065b-2cef-423f-a082-fdaec2e0b946",
+      "name": "accessibility",
+      "css": "accessibility",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f12d",
+      "id": "d1471b98-6876-4ba3-98d2-862db7ad9203",
+      "name": "add-users-secondary",
+      "css": "add-users",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f12e",
+      "id": "0b2efdc8-aa52-43ad-b01d-92bb2583f92e",
+      "name": "add-users",
+      "css": "add-users",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f12f",
+      "id": "ecef9611-549f-4ee2-a48b-d0b16b49446d",
+      "name": "address-secondary",
+      "css": "address",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f130",
+      "id": "24ee5620-57bf-46e6-9038-2ac97a83cc1c",
+      "name": "address",
+      "css": "address",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f131",
+      "id": "1e165d55-38f5-4d93-a5c4-b68c185ba11b",
+      "name": "apply-edit-secondary",
+      "css": "apply-edit",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f132",
+      "id": "f955aa30-d8d1-4647-b0de-5b10142ba248",
+      "name": "apply-edit",
+      "css": "apply-edit",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f133",
+      "id": "7d672ff1-b8e1-4134-b93c-bcdb48ea0a59",
+      "name": "archive-secondary",
+      "css": "archive",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f134",
+      "id": "852b95e5-3384-4708-b5cc-cd1095957b93",
+      "name": "archive",
+      "css": "archive",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f135",
+      "id": "7fd7954d-a917-4e67-9374-cdc8ec2a9337",
+      "name": "arrow-first-secondary",
+      "css": "arrow-first",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f136",
+      "id": "8dccc363-0f13-41b6-b0f4-e95dfb52aff4",
+      "name": "arrow-first",
+      "css": "arrow-first",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f137",
+      "id": "815f41dc-199e-4463-a0de-d9f5233f5ad8",
+      "name": "arrow-last-secondary",
+      "css": "arrow-last",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f138",
+      "id": "eb56e198-8741-484a-8a85-076de79ada36",
+      "name": "arrow-last",
+      "css": "arrow-last",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f139",
+      "id": "c2244c56-b553-4a25-b74e-9636c2e612b0",
+      "name": "assending-secondary",
+      "css": "assending",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f13a",
+      "id": "fa91a754-3f5e-43a7-8364-ac36d8d65ce4",
+      "name": "assending",
+      "css": "assending",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f13b",
+      "id": "b65d671f-8534-4500-85c1-aa8f0f00e18a",
+      "name": "backward-2-reply-secondary",
+      "css": "backward-2-reply",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f13c",
+      "id": "c30a9748-e321-480d-9b6f-40c66af2684a",
+      "name": "backward-2-reply",
+      "css": "backward-2-reply",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f13d",
+      "id": "86a8799e-fddb-44ab-adbf-6ced06cdf343",
+      "name": "backward-secondary",
+      "css": "backward",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f13e",
+      "id": "2dc827fc-fe9f-4279-a053-1819088152df",
+      "name": "backward",
+      "css": "backward",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f13f",
+      "id": "73bb14e3-5cb2-42c6-b381-3e7bc241ac92",
+      "name": "bar-secondary",
+      "css": "bar",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f140",
+      "id": "5d524f97-d716-48da-a0b9-2490f3d2cf77",
+      "name": "bar",
+      "css": "bar",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f141",
+      "id": "87ef4e76-93a3-49bd-87ce-4630cd527b9b",
+      "name": "bookmark-secondary",
+      "css": "bookmark",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f142",
+      "id": "04a5dc24-1a8a-42cc-835f-1b770afc01c8",
+      "name": "briefcase-2-secondary",
+      "css": "briefcase-2",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f143",
+      "id": "1db084a6-53f1-4aeb-879d-f0fd920db1db",
+      "name": "briefcase-2",
+      "css": "briefcase-2",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f144",
+      "id": "456b10f9-0958-4192-86a6-06445281b047",
+      "name": "briefcase-secondary",
+      "css": "briefcase",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f145",
+      "id": "aa2ea288-b456-451f-97a0-6c65f28500f1",
+      "name": "briefcase",
+      "css": "briefcase",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f146",
+      "id": "c793a0fc-f6c1-40d9-bde7-6736c6e4fb82",
+      "name": "broadcast-connection-secondary",
+      "css": "broadcast-connection",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f147",
+      "id": "657e46e2-3892-48b5-b650-2262c7a96f5b",
+      "name": "broadcast-connection",
+      "css": "broadcast-connection",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f148",
+      "id": "ad21fe48-b622-48c0-90b0-7898ab5b35f0",
+      "name": "brush-secondary",
+      "css": "brush",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f149",
+      "id": "e0c31ac8-04b8-4f81-8195-77bf6b91c2bb",
+      "name": "brush",
+      "css": "brush",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f14a",
+      "id": "bab18a95-6ba8-477c-b4b3-db464f24bffc",
+      "name": "bug-secondary",
+      "css": "bug",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f14b",
+      "id": "e105d4fd-ddbe-4d5d-85dc-41111db196f7",
+      "name": "bug",
+      "css": "bug",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f14c",
+      "id": "52eee48f-4c9f-40ae-ade5-97f0ea432687",
+      "name": "card-secondary",
+      "css": "card",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f14d",
+      "id": "6a4b95cb-658b-489a-9df9-89eb3832ea4d",
+      "name": "card",
+      "css": "card",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f14e",
+      "id": "447e2cc9-1f86-4cb2-bdc3-b603e1b158a8",
+      "name": "cogs-secondary",
+      "css": "cogs",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f14f",
+      "id": "afc862d3-2b8b-46a7-b645-25e528d7d3e5",
+      "name": "cogs",
+      "css": "cogs",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f150",
+      "id": "92680245-f334-4f20-8f2d-65ce34da1276",
+      "name": "comment-secondary",
+      "css": "comment",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f151",
+      "id": "dbf7961d-04d2-47da-9943-b511aada3d4d",
+      "name": "comment",
+      "css": "comment",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f152",
+      "id": "b6060657-b0e7-4a50-9e69-fbc20bd6ba95",
+      "name": "compass-secondary",
+      "css": "compass",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f153",
+      "id": "c9d6f4aa-c4b9-4f43-9e19-602269bd9dd5",
+      "name": "compass",
+      "css": "compass",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f154",
+      "id": "60409625-0019-4b01-b0e1-54f46e0b2844",
+      "name": "contacts-secondary",
+      "css": "contacts",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f155",
+      "id": "b6e88204-5656-4d5f-b647-4a776d73ff8c",
+      "name": "contacts-version-secondary",
+      "css": "contacts-version",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f156",
+      "id": "9db5a60b-2848-4859-8729-273fa03231d0",
+      "name": "contacts-version",
+      "css": "contacts-version",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f157",
+      "id": "72c34e82-107e-44b5-938e-8c7d8f8fb406",
+      "name": "contacts",
+      "css": "contacts",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f158",
+      "id": "f46cd278-6793-4e2d-b488-92ae8557957a",
+      "name": "content-scalling-secondary",
+      "css": "content-scalling",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f159",
+      "id": "6cc3e5c0-264d-481c-89b7-a84829d70e5f",
+      "name": "content-scalling",
+      "css": "content-scalling",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f15a",
+      "id": "5a09e920-f4bc-49fa-9236-e6a63459d31d",
+      "name": "contract-secondary",
+      "css": "contract",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f15b",
+      "id": "d7782796-c821-487c-ad88-937b63b7f81d",
+      "name": "contract",
+      "css": "contract",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    },
+    {
+      "code": "f15c",
+      "id": "d56265af-0992-42a2-bb37-9d7fa45e4199",
+      "name": "cube-secondary",
+      "css": "cube",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "after"
+    },
+    {
+      "code": "f15d",
+      "id": "73386929-1cf9-42f5-bfc9-d50ec760fe3f",
+      "name": "cube",
+      "css": "cube",
+      "cat": "duotone-icon",
+      "duotone": true,
+      "assign": "before"
+    }
+  ],
+  "categories": [
+    "duotone-icon",
+    "singletone"
+  ]
+}

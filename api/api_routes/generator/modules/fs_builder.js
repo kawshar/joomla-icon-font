@@ -7,7 +7,7 @@ const FsEngine = {
 	uid: '',
 	publicPath: path.resolve('./public'),
 	srcPath: '',
-	packageName: 'icofont',
+	packageName: 'joomlafonts',
 	commonFolder: ['fonts'],
 	singleSvgInit: uid => {
 		module.exports.uid = uid
@@ -54,13 +54,13 @@ const FsEngine = {
 	 * **/
 
 	zipDir: () => {
-		const baseDir = module.exports.userFolder + '/icofont/'
+		const baseDir = module.exports.userFolder + '/'+ module.exports.packageName +'/'
 		const archive = archiver.create('zip', {})
-		const output = fs.createWriteStream(module.exports.userFolder + '/icofont.zip')
+		const output = fs.createWriteStream(module.exports.userFolder + '/'+ module.exports.packageName +'.zip')
 		archive.pipe(output)
 		archive.directory(baseDir, module.exports.packageName)
 		archive.finalize()
-		module.exports.userZipFolder = module.exports.userFolder + '/icofont.zip'
+		module.exports.userZipFolder = module.exports.userFolder + '/'+ module.exports.packageName +'.zip'
 	},
 
 	/*
@@ -69,15 +69,15 @@ const FsEngine = {
 	 */
 
 	moveFilesToDestination: () => {
-		const assets = path.join(module.exports.publicPath, 'icofont')
+		const assets = path.join(module.exports.publicPath, module.exports.packageName)
 		const downloadPath = path.join(module.exports.publicPath, 'download', 'global_package')
 		if (fs.existsSync(assets)) shell.rm('-rf', assets)
-		if (fs.existsSync(downloadPath + '/icofont.zip'))
-			shell.rm('-rf', downloadPath + '/icofont.zip')
+		if (fs.existsSync(downloadPath + '/'+ module.exports.packageName +'.zip'))
+			shell.rm('-rf', downloadPath + '/'+ module.exports.packageName +'.zip')
 
-		const baseDir = module.exports.userFolder + '/icofont/'
+		const baseDir = module.exports.userFolder + '/'+ module.exports.packageName +'/'
 		shell.mv(baseDir, assets)
-		shell.mv(module.exports.userFolder + '/icofont.zip', downloadPath)
+		shell.mv(module.exports.userFolder + '/'+ module.exports.packageName +'.zip', downloadPath)
 		shell.rm('-rf', module.exports.userFolder)
 	}
 }

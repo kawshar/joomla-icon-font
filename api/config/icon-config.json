@@ -1,20 +1,21 @@
 {
   "font": {
+    "author": "Joomla",
+    "email": "admin@joomla.org",
     "ascent": 850,
-    "copyright": "Copyright (C) 2015 - {year} IcoFont",
     "descent": -150,
-    "familyname": "Icofont",
-    "fontname": "Icofont",
-    "fullname": "Icofont",
-    "version": "1.0",
-    "weight": "Normal",
     "code": 59392,
-    "updateCode": 61654
-  },
-  "meta": {
-    "author": "IcoFont",
-    "email": "icofont@mail.com",
-    "homepage": "https://icofont.com",
-    "license": "https://icofont.com/license"
+    "updateCode": 61789,
+    "fontfamily": "JoomlaFont",
+    "prefix": "icon",
+    "filename": "joomla-fonts",
+    "packageName": "joomla",
+    "version": "4.0.0",
+    "weight": "Normal",
+    "style": "Regular",
+    "metadata": "Joomla Icons Font",
+    "copyright": "Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.",
+    "url": "https://joomla.org",
+    "license": "https://tm.joomla.org/trademark-license.html"
   }
 }

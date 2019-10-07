@@ -16,20 +16,18 @@ const Package = {
 		if (!fs.existsSync(fontDir)) {
 			res.status(403).end()
 		}
-		const cfg = JSON.parse(fs.readFileSync(path.resolve(configPath, 'ico-config.json'), 'utf8'))
+		const cfg = JSON.parse(fs.readFileSync(path.resolve(configPath, 'icons.json'), 'utf8'))
 		
-        let collection = module.exports.collectGlyphData(cfg, fontDir);
+		let collection = module.exports.collectGlyphData(cfg, fontDir);
+		IcoGenerator.font = Object.assign({}, IcoGenerator.font, cfg.font);
 		IcoGenerator.isSelfPackage = true
 		IcoGenerator.icons = collection.glyphs
 		IcoGenerator.generate() // Generator method will invoke the main functions
-		if (IcoGenerator.errors.error === true)
+		if (IcoGenerator.errors.error === true) {
 			// Check if generator has error after create css, fonts and svg
 			console.log('errors: ', IcoGenerator.errors.message) // eslint-disable-line no-console
+		}
 		IcoGenerator.fsEngine.zipDir() // Create zip file after create necessary file and folder
-		// Wait 00.5s for mounting the zip file
-		setTimeout(() => {
-			// IcoGenerator.fsEngine.moveFilesToDestination()
-        }, 500)
 		fs.writeFile(jsonWritePath, JSON.stringify(collection, null, 2), 'utf8', err => {
 			if (err) console.log('file write error:  ', err) // eslint-disable-line no-console
 		})
@@ -49,8 +47,7 @@ const Package = {
 			// Cleanup fields list
 			let glyphData = _.pick(glyph, ['css', 'name', 'duotone', 'assign', 'code', 'id', 'css-ext', 'cat'])
 			// Add more data for server config
-			glyphData.fontname = cfg.font.fontname
-
+			glyphData.filename = cfg.font.filename
 			glyphData.svg = {}
 			// load file & translate coordinates
 			let fileName = path.join(fontDir, glyph.cat, glyphData.name + '.svg')

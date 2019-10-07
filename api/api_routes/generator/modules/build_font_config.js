@@ -26,10 +26,15 @@ const IcoConfig = {
 			module.exports.updateConfigFile()
 		}
 	},
+	/**
+	 * Read base config file from icon-config.json
+	 */
 	readConfigFile: () => {
-		module.exports.config = JSON.parse(
+		const config = JSON.parse(
 			fs.readFileSync(path.resolve('./config/', 'icon-config.json'), 'utf8')
 		)
+		config.font.copyright = config.font.copyright.replace('{year}',new Date().getFullYear());
+		module.exports.config = config;
 	},
 	readCategoryDirectory: () => {
 		try {
@@ -60,11 +65,12 @@ const IcoConfig = {
 		 */
 		const storeGlyphs = (folderName, filename, filePath, isDuoton, type) => {
 			let glyph = {}
+			console.log("filename: ", filename, type)
 			let svg = ProcessSvg.convert(fs.readFileSync(filePath, 'utf8'))
 			// return fa
 			if( !svg.code ){
 				updateCode = updateCode+1
-				module.exports.updateSvgFile(updateCode, filePath, svg )
+				// module.exports.updateSvgFile(updateCode, filePath, svg )
 				glyph.code = updateCode.toString(16)
 			}else {
 				glyph.code = svg.code.toString(16)
@@ -108,13 +114,12 @@ const IcoConfig = {
 		return { css: filename, id: uuidv4() }
 	},
 	writeJsonConfig: () => {
-		const jsonWritePath = module.exports.configFolder + '/ico-config.json'
+		const jsonWritePath = module.exports.configFolder + '/icons.json'
 		const categories = module.exports.categoryDirs
 		const config = module.exports.config
 		const icons = module.exports.icons
 		let jsonIconObject = {
 			font: config.font,
-			meta: config.meta,
 			glyphs: icons,
 			categories: categories
 		}

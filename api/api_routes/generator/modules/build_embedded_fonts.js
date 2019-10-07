@@ -1,17 +1,16 @@
 const fs        = require('fs');
 const _         = require('lodash');
 const SvgPath   = require('svgpath');
-const moment    = require('moment')
-const uuidv4      = require('uuid/v4')
-const FsEngine  = require('./fs_builder')
+const uuidv4    = require('uuid/v4');
+const svg2ttf   = require('svg2ttf');
+const ttf2eot   = require('ttf2eot');
+const ttf2woff  = require('ttf2woff');
+const ttf2woff2 = require('ttf2woff2');
+const b64       = require('base64-js');
+const compressor    = require('node-minify');
+const cssbeautify   = require('cssbeautify');
+const FsEngine      = require('./fs_builder');
 const TemplateEngine = require('../template_engine/engine');
-const svg2ttf   = require('svg2ttf')
-const ttf2eot   = require('ttf2eot')
-const ttf2woff   = require('ttf2woff')
-const ttf2woff2 = require('ttf2woff2')
-const b64       = require('base64-js')
-const compressor = require('node-minify')
-const cssbeautify = require('cssbeautify')
 
 const IcoGenerator = {
     icons : [],
@@ -19,32 +18,17 @@ const IcoGenerator = {
         error: false,
         message : []
     },
-    ascent : 850,
-    descent : -150,
     font : {
-        prefix: 'icofont',
-        fontname: 'icofont',
-        id:'icofont',
-        familyname: 'IcoFont',
-        version: '1.0.1',
+        prefix: 'joomla',
+        filename: 'joomla',
+        fontfamily: 'JoomlaFont',
         weight: 'normal',
         copyrightStart: 2015,
-        copyright: moment().format('YYYY'),
+        copyright: '',
         style: 'Regular',
-        metadata: 'IcoFont Icons',
         ascent : 850,
         descent : -150,
         fontHeight : 850 - (-150),
-    },
-    CustomFont : {
-        ttfDataUri:'',
-        prefix: 'icofont',
-        fontname: 'custom_icofont',
-        familyname: 'custom_icofont',
-        weight: 'normal',
-        style: 'normal',
-        metadata: 'IcoFont Icons',
-        fontHeight : module.exports.ascent - module.exports.descent,
     },
     glyphs : [],
     uid : uuidv4(),
@@ -52,7 +36,7 @@ const IcoGenerator = {
     generate: ()=> {
         module.exports.init();
         module.exports.exportResource();
-        if(!fs.existsSync(module.exports.fsEngine.fontsFolder + '/icofont.svg'))
+        if(!fs.existsSync(module.exports.fsEngine.fontsFolder + '/'+ module.exports.font.filename +'.svg'))
             module.exports.errorLog("convert not possible, SVG file not exists!")
         else {
             module.exports.convertSvgToWebFont()
@@ -89,6 +73,7 @@ const IcoGenerator = {
             else 
                 FsEngine.srcPath = 'download'
 
+            FsEngine.packageName = module.exports.font.packageName
             module.exports.fsEngine = FsEngine.init(module.exports.uid, true);
             module.exports.renderTemplate();
         }else {
@@ -155,16 +140,16 @@ const IcoGenerator = {
         return true
     },
     exportSVG: () => {
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.svg', module.exports.svgTemplate, 'utf8');
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.svg', module.exports.svgTemplate, 'utf8');
         return true
     },
     exportCSS: () => {
-        fs.writeFileSync(module.exports.fsEngine.cssFolder + '/' + module.exports.font.fontname + '.css', module.exports.cssTemplate, 'utf8');
+        fs.writeFileSync(module.exports.fsEngine.cssFolder + '/' + module.exports.font.filename + '.css', module.exports.cssTemplate, 'utf8');
         return true
     },
     minifiedCss: () => {
-        const cssUrl = module.exports.fsEngine.cssFolder+'/'+ module.exports.font.fontname + '.css'
-        const cssUrlMinified = module.exports.fsEngine.cssFolder+'/'+ module.exports.font.fontname + '.min.css'
+        const cssUrl = module.exports.fsEngine.cssFolder+'/'+ module.exports.font.filename + '.css'
+        const cssUrlMinified = module.exports.fsEngine.cssFolder+'/'+ module.exports.font.filename + '.min.css'
         compressor.minify({
             compressor: 'clean-css',
             input: cssUrl,
@@ -195,23 +180,23 @@ const IcoGenerator = {
             module.exports.errorLog("exportExampleFile has problem! ");
     },
     svgToTtf: () => {
-        const ttf = svg2ttf(fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.svg', 'utf-8'), {});
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.ttf', new Buffer(ttf.buffer));
+        const ttf = svg2ttf(fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.svg', 'utf-8'), {});
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf', new Buffer(ttf.buffer));
         return true
     },
     ttfToEot: () => {
-        const input = fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.ttf');
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.eot', ttf2eot(input));
+        const input = fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf');
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.eot', ttf2eot(input));
         return true
     },
     ttfToWoff: () => {
-        const ttf = ttf2woff(fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.ttf'), {});
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.woff', new Buffer(ttf.buffer));
+        const ttf = ttf2woff(fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf'), {});
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.woff', new Buffer(ttf.buffer));
         return true;
     },
     ttfToWoff2: () => {
-        const input = fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.ttf');
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.fontname + '.woff2', ttf2woff2(input, {}));
+        const input = fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf');
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.woff2', ttf2woff2(input, {}));
         return true
     },
     
@@ -228,6 +213,7 @@ const IcoGenerator = {
     flashModule: () => {   
       module.exports.errors = { error: false, message: [] }
       module.exports.glyphs = []
+
     },
     errorLog: (error)=> {
         let errorMessage = module.exports.errors.message

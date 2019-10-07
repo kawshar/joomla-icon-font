@@ -32,7 +32,7 @@ router.post('/', function(req, res, next) {
 })
 
 /**
- * Generate JSON object from all svg file and store it in ico-config.json file
+ * Generate JSON object from all svg file and store it in icons.json file
  * Get config from master config file (config.json)
  * Return glyphs list
  */
@@ -101,7 +101,7 @@ router.post('/get_session', function(req, res, next) {
 })
 
 /**
- * Generate icofonts.json from main ico-config.json for view
+ * Generate icofonts.json from main icons.json for view
  * It will generate new package for newly added svg icon which contain css and fonts files
  * Move package folder to the public css and a zip version to the global_download folder for all users
  */
