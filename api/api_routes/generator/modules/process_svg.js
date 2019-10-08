@@ -1,9 +1,16 @@
-// const uuidv4 = require('uuid/v4')
 const Domparser = require('xmldom').DOMParser
 const _ = require('lodash')
 const SvgPath = require('svgpath')
 const notQuiteAttribute = require('./constant')
 
+
+const convertToString = (arr) => {
+	const p2s = /,?([achlmqrstvxz]),?/gi;
+	return arr.join(',').replace(p2s, '$1');
+}
+const valid = (val) => {
+  return !(typeof (val) !== 'number' || val == Infinity || val < 0);
+}
 // noinspection JSAnnotator
 const ProcessSvg = {
 	svgObj: null,
@@ -93,18 +100,14 @@ const ProcessSvg = {
 		}
 
 		let path = svg.getElementsByTagName('path')[0]
-		// let g = svg.getElementsByTagName('g')
-		let d = path.getAttribute('d')
-
 		let transform = ''
 
-		if (path.hasAttribute('transform')) {
+		if (path && path.hasAttribute('transform')) {
 			transform = path.getAttribute('transform')
 		}
 		let result = {
 			x: attr.x || 0,
 			y: attr.y || 0,
-			d: d,
 			transform: transform,
 			width: attr.width,
 			height: attr.height,
@@ -126,20 +129,6 @@ const ProcessSvg = {
 			return result
 		}
 
-		/* if ( (result.x !== 0 && viewBox[0] !== 0 && result.x !== viewBox[0]) ) {
-      result.error = new Error('Not implemented yet. Svg attr x not equals viewbox x');
-      // TODO: Need transform
-      return result;
-    }
-    if ( (result.y !== 0 && viewBox[1] !== 0 && result.y !== viewBox[1]) ) {
-      result.error = new Error('Not implemented yet. Svg attr y not equals viewbox y');
-      // TODO: Need transform
-      return result;
-    } */
-
-		/* if (viewBox[0]) { result.x = viewBox[0]; }
-    if (viewBox[1]) { result.y = viewBox[1]; } */
-
 		// viewBox is set and attrs not set
 		if (!result.width && !result.height) {
 			result.width = viewBox[2]
@@ -148,21 +137,114 @@ const ProcessSvg = {
 		}
 
 		return result
+	},
 
-		/* // viewBox and attrs are set and values on width and height are equals
-    if (viewBox[2] === result.width && viewBox[3] === result.height) {
-      return result;
-    }
-    // viewBox is set and one attr not set
-    if (!result.width || !result.height) {
-      result.error = new Error('Not implemented yet. Width and height must be set');
-      // TODO: Implement BBox. If width or height is setthan implement transform
-      return result;
-    }
-    // viewBox and attrs are set, but have different sizes. Need to transform image
-    result.error = new Error('Not implemented yet. Svg viewbox sizes are different with svg sizes');
-    // TODO: Implement transform
-    return result; */
+	/**
+	 * get the circle|ellipse drawn attributes
+	 */
+	getCircleDrawnAttr: (item, tag) => {
+		const num = 1.81; //Possibly the cubed root of 6, but 1.81 works best
+		let rx = +item.getAttribute('rx'),
+			ry = +item.getAttribute('ry'),
+			cx = +item.getAttribute('cx'),
+			cy = +item.getAttribute('cy');
+		if (tag == 'circle')
+		{
+			rx = ry = +item.getAttribute('r');
+		}
+
+		return convertToString([
+			['M', (cx - rx), (cy)],
+			['C', (cx - rx), (cy - ry / num), (cx - rx / num), (cy - ry), (cx), (cy - ry)],
+			['C', (cx + rx / num), (cy - ry), (cx + rx), (cy - ry / num), (cx + rx), (cy)],
+			['C', (cx + rx), (cy + ry / num), (cx + rx / num), (cy + ry), (cx), (cy + ry)],
+			['C', (cx - rx / num), (cy + ry), (cx - rx), (cy + ry / num), (cx - rx), (cy)],
+			['Z']
+		]);
+	},
+
+	/**
+	 * Get the rect drawn attributes
+	 * @param	item	element from the svg (react)
+	 * @param	rectAsArgs	Boolean. If true, rect roundings will be as arcs. Otherwise as cubics.
+	 */
+	getRectDrawnAttr: (item, rectAsArgs=false) => {
+		let rx = +item.getAttribute('rx'),
+			ry = +item.getAttribute('ry'),
+			x = item.getAttribute('x'),
+			y = item.getAttribute('y'),
+			w = item.getAttribute('width'),
+			h = item.getAttribute('height'),
+			d = '';
+
+      // Validity checks from http://www.w3.org/TR/SVG/shapes.html#RectElement:
+      // If neither ‘rx’ nor ‘ry’ are properly specified, then set both rx and ry to 0. (This will result in square corners.)
+      if (!valid(rx) && !valid(ry)) rx = ry = 0;
+      // Otherwise, if a properly specified value is provided for ‘rx’, but not for ‘ry’, then set both rx and ry to the value of ‘rx’.
+      else if (valid(rx) && !valid(ry)) ry = rx;
+      // Otherwise, if a properly specified value is provided for ‘ry’, but not for ‘rx’, then set both rx and ry to the value of ‘ry’.
+      else if (valid(ry) && !valid(rx)) rx = ry;
+      else
+      {
+        // If rx is greater than half of ‘width’, then set rx to half of ‘width’.
+        if (rx > w / 2) rx = w / 2;
+        // If ry is greater than half of ‘height’, then set ry to half of ‘height’.
+        if (ry > h / 2) ry = h / 2;
+      }
+
+      if (!rx && !ry)
+      {
+        d = convertToString([
+			['M', x, y],
+			['L', x + w, y],
+			['L', x + w, y + h],
+			['L', x, y + h],
+			['L', x, y],
+			['Z']
+		]);
+      }
+      else if (rectAsArgs)
+      {
+        d = convertToString([
+			['M', x + rx, y],
+			['H', x + w - rx],
+			['A', rx, ry, 0, 0, 1, x + w, y + ry],
+			['V', y + h - ry],
+			['A', rx, ry, 0, 0, 1, x + w - rx, y + h],
+			['H', x + rx],
+			['A', rx, ry, 0, 0, 1, x, y + h - ry],
+			['V', y + ry],
+			['A', rx, ry, 0, 0, 1, x + rx, y]
+			]);
+      	}
+      else
+      {
+    	const num = 2.19;
+		if (!ry) ry = rx
+        d = convertToString([
+				['M', x, y + ry],
+				['C', x, y + ry / num, x + rx / num, y, x + rx, y],
+				['L', x + w - rx, y],
+				['C', x + w - rx / num, y, x + w, y + ry / num, x + w, y + ry],
+				['L', x + w, y + h - ry],
+				['C', x + w, y + h - ry / num, x + w - rx / num, y + h, x + w - rx, y + h],
+				['L', x + rx, y + h],
+				['C', x + rx / num, y + h, x, y + h - ry / num, x, y + h - ry],
+				['L', x, y + ry],
+				['Z']
+			]);
+		  }
+		return d;
+	},
+	/**
+	 * Get line draw attribute
+	 */
+	getLineDrawAttr: (item) => {
+		const x1 = item.getAttribute('x1'),
+		y1 = item.getAttribute('y1');
+		x2 = item.getAttribute('x2');
+		y2 = item.getAttribute('y2');
+		return 'M' + x1 + ',' + y1 + 'L' + x2 + ',' + y2;
 	},
 
 	processTree: (node, ignoredTags, ignoredAttrs, parentTransforms, path) => {
@@ -193,26 +275,39 @@ const ProcessSvg = {
 				path = result.path
 				guaranteed = guaranteed && result.guaranteed
 			}
-
 			// Get d from supported tag, else return
 			let d = ''
 			switch (item.nodeName) {
 				case 'path':
 					d = item.getAttribute('d')
 					break
+				case 'polygon':
+					d = 'M' + item.getAttribute('points') + 'Z';
+					break;
+				case 'polyline':
+					d = 'M' + item.getAttribute('points');
+					break;
+				case 'line':
+					d = module.exports.getLineDrawAttr(item);
+					break;
+				case 'ellipse':
+				case 'circle':
+					d = module.exports.getCircleDrawnAttr(item, item.nodeName);
+					break;
+				case 'rect':
+					// d = module.exports.getRectDrawnAttr(item);
+					break;
 				case 'g':
 					break
 				default:
 					ignoredTags[item.nodeName] = true
 					return
 			}
-
 			let transformedPath = new SvgPath(d).transform(transforms).toString()
 			if (path !== '' && transformedPath !== '') {
 				guaranteed = false
 			}
 			path += transformedPath
-
 			// Check not supported attributes
 			_.each(item.attributes, function(item) {
 				if (notQuiteAttribute.attrs[item.nodeName]) {

@@ -1,3 +1,12 @@
+/**
+ * @package 	Icon Template Engine
+ * 
+ * @copyright   Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.
+ * @license     GNU General Public License version 2 or later; see LICENSE.txt
+ * 
+ * @since		4.0.0
+ */
+
 const _ = require('lodash')
 
 const svgFontTemplate = _.template(
@@ -42,8 +51,9 @@ const singleSvgFontTemplate = _.template(
 		'</svg>'
 )
 
-/*
- * CSS template
+/**
+ * Generate CSS template for all fonts based on font config and glyph list
+ * If icon is duotone then add extra class duotone other wise just add icon class with prefix
  */
 
 var cssFontFile = _.template(
@@ -275,8 +285,11 @@ var cssFontFile = _.template(
 	color: #fff; 
 	}
 	`
-)
-
+);
+/**
+ * 
+ * Example HTML generate code
+ */
 var exampleHtml = _.template(
 	`<!DOCTYPE html>
 	<html>

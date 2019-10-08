@@ -8,14 +8,24 @@ const shell = require('shelljs')
 const IcoConfig = {
 	rootPath: '',
 	packagePath: '',
-	targetFoler: '',
+	targetPackageFolder: '',
 	config: {},
 	categoryDirs: '',
 	icons: '',
 	configFolder: path.resolve('./config/'),
+
+	/**
+	 * Initate the engine for svg data collection
+	 * 
+	 * Resolve the path and targeted package folder
+	 * Read config file from config folder
+	 * List down all category directory from package folder
+	 * Collect icons from all category directory
+	 * If we found icon then store them in icon.json file and update the svg file with new code
+	 */
 	init: () => {
 		module.exports.rootPath = path.resolve('.')
-		module.exports.targetFoler = module.exports.rootPath + '/packages/'
+		module.exports.targetPackageFolder = module.exports.rootPath + '/packages/'
 		
 		module.exports.readConfigFile()
 		if (module.exports.readCategoryDirectory()) {
@@ -26,6 +36,7 @@ const IcoConfig = {
 			module.exports.updateConfigFile()
 		}
 	},
+
 	/**
 	 * Read base config file from icon-config.json
 	 */
@@ -36,9 +47,13 @@ const IcoConfig = {
 		config.font.copyright = config.font.copyright.replace('{year}',new Date().getFullYear());
 		module.exports.config = config;
 	},
+
+	/**
+	 * Read all directory from packages folder
+	 */
 	readCategoryDirectory: () => {
 		try {
-			const path = module.exports.targetFoler
+			const path = module.exports.targetPackageFolder
 			module.exports.categoryDirs = fs.readdirSync(path).filter(function(file) {
 				return fs.statSync(path + '/' + file).isDirectory()
 			})
@@ -65,12 +80,10 @@ const IcoConfig = {
 		 */
 		const storeGlyphs = (folderName, filename, filePath, isDuoton, type) => {
 			let glyph = {}
-			console.log("filename: ", filename, type)
 			let svg = ProcessSvg.convert(fs.readFileSync(filePath, 'utf8'))
-			// return fa
 			if( !svg.code ){
 				updateCode = updateCode+1
-				// module.exports.updateSvgFile(updateCode, filePath, svg )
+				module.exports.updateSvgFile(updateCode, filePath, svg )
 				glyph.code = updateCode.toString(16)
 			}else {
 				glyph.code = svg.code.toString(16)
@@ -89,7 +102,7 @@ const IcoConfig = {
 		 * Get svg files from each folder and collect path data
 		 */
 		categoryDirs.map(folderName => {
-			const iconPath = module.exports.targetFoler + folderName + '/'
+			const iconPath = module.exports.targetPackageFolder + folderName + '/'
 			const duotone = folderName.split('-')[0] === 'duotone'
 			fs.readdirSync(iconPath).map( file => {
 				const filename = file.substring(0, file.lastIndexOf('.'))
@@ -109,10 +122,11 @@ const IcoConfig = {
 		module.exports.icons = categories
 		
 	},
-	readSvg: svgFile => {
-		const filename = svgFile.substring(0, svgFile.lastIndexOf('.'))
-		return { css: filename, id: uuidv4() }
-	},
+
+	/**
+	 * Create icons.json file with all svg collections data
+	 * It will need in future for create glyphs icons
+	 */
 	writeJsonConfig: () => {
 		const jsonWritePath = module.exports.configFolder + '/icons.json'
 		const categories = module.exports.categoryDirs
@@ -127,6 +141,11 @@ const IcoConfig = {
 			if (err) console.log('ico-config file write error:  ', err) // eslint-disable-line no-console
 		})
 	},
+
+	/**
+	 * Update icon-config.json file with last updated code number
+	 * If we need to add new icon we will start generate code from update number
+	 */
 	updateConfigFile: () => {
 		const jsonWritePath = module.exports.configFolder + '/icon-config.json'
 		const jsonIconObject = module.exports.config
@@ -134,6 +153,14 @@ const IcoConfig = {
 			if (err) console.log('config file write error:  ', err) // eslint-disable-line no-console
 		})
 	},
+	/**
+	 * When first read svg path from svg file then clear the svg file with their attributes
+	 * Add extra code attribute that will resolve next time when build the fonts again
+	 * It will never lost the icon font code name
+	 * 
+	 * @example		content:"\f3bd"
+	 * 
+	 */
 	updateSvgFile: (code, iconPath, svg ) => {
 		svg.code = code
 		let newSvg = TemplateEngine.updateSvgTemplate({svg}) 
