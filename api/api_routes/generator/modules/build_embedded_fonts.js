@@ -181,7 +181,7 @@ const IcoGenerator = {
     },
     svgToTtf: () => {
         const ttf = svg2ttf(fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.svg', 'utf-8'), {});
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf', new Buffer(ttf.buffer));
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf', new Buffer.from(ttf.buffer));
         return true
     },
     ttfToEot: () => {
@@ -191,7 +191,7 @@ const IcoGenerator = {
     },
     ttfToWoff: () => {
         const ttf = ttf2woff(fs.readFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.ttf'), {});
-        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.woff', new Buffer(ttf.buffer));
+        fs.writeFileSync(module.exports.fsEngine.fontsFolder + '/' + module.exports.font.filename + '.woff', new Buffer.from(ttf.buffer));
         return true;
     },
     ttfToWoff2: () => {

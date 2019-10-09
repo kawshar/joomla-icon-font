@@ -129,12 +129,12 @@ const ProcessSvg = {
 			return result
 		}
 
-		// viewBox is set and attrs not set
-		if (!result.width && !result.height) {
-			result.width = viewBox[2]
-			result.height = viewBox[3]
-			return result
-		}
+		// // viewBox is set and attrs not set
+		// if (!result.width && !result.height) {
+		// 	result.width = viewBox[2]
+		// 	result.height = viewBox[3]
+		// 	return result
+		// }
 
 		return result
 	},
@@ -168,33 +168,39 @@ const ProcessSvg = {
 	 * @param	item	element from the svg (react)
 	 * @param	rectAsArgs	Boolean. If true, rect roundings will be as arcs. Otherwise as cubics.
 	 */
-	getRectDrawnAttr: (item, rectAsArgs=false) => {
+	getRectDrawnAttr: (item, rectAsArgs=true) => {
 		let rx = +item.getAttribute('rx'),
 			ry = +item.getAttribute('ry'),
 			x = item.getAttribute('x'),
 			y = item.getAttribute('y'),
 			w = item.getAttribute('width'),
-			h = item.getAttribute('height'),
-			d = '';
-
+			h = item.getAttribute('height');
+			if(!x) x=0;
+			if(!y) y=0;
+			if(!w) w=0;
+			if(!h) h=0;
+			x = Number(x);
+			y = Number(y);
+			w = Number(w);
+			h = Number(h);
       // Validity checks from http://www.w3.org/TR/SVG/shapes.html#RectElement:
       // If neither ‘rx’ nor ‘ry’ are properly specified, then set both rx and ry to 0. (This will result in square corners.)
-      if (!valid(rx) && !valid(ry)) rx = ry = 0;
+      if (!rx && !ry) rx = ry = 0;
       // Otherwise, if a properly specified value is provided for ‘rx’, but not for ‘ry’, then set both rx and ry to the value of ‘rx’.
-      else if (valid(rx) && !valid(ry)) ry = rx;
+      else if (rx && !ry) ry = rx;
       // Otherwise, if a properly specified value is provided for ‘ry’, but not for ‘rx’, then set both rx and ry to the value of ‘ry’.
-      else if (valid(ry) && !valid(rx)) rx = ry;
+      else if (ry && !rx) rx = ry;
       else
       {
         // If rx is greater than half of ‘width’, then set rx to half of ‘width’.
         if (rx > w / 2) rx = w / 2;
         // If ry is greater than half of ‘height’, then set ry to half of ‘height’.
         if (ry > h / 2) ry = h / 2;
-      }
-
-      if (!rx && !ry)
-      {
-        d = convertToString([
+	  }
+	  
+      if (rx < 1 && ry < 1)
+      { 
+        return convertToString([
 			['M', x, y],
 			['L', x + w, y],
 			['L', x + w, y + h],
@@ -205,7 +211,7 @@ const ProcessSvg = {
       }
       else if (rectAsArgs)
       {
-        d = convertToString([
+        return convertToString([
 			['M', x + rx, y],
 			['H', x + w - rx],
 			['A', rx, ry, 0, 0, 1, x + w, y + ry],
@@ -221,7 +227,7 @@ const ProcessSvg = {
       {
     	const num = 2.19;
 		if (!ry) ry = rx
-        d = convertToString([
+        return convertToString([
 				['M', x, y + ry],
 				['C', x, y + ry / num, x + rx / num, y, x + rx, y],
 				['L', x + w - rx, y],
@@ -234,7 +240,7 @@ const ProcessSvg = {
 				['Z']
 			]);
 		  }
-		return d;
+		
 	},
 	/**
 	 * Get line draw attribute
@@ -335,6 +341,7 @@ const ProcessSvg = {
 			id: '',
 			x: 0,
 			y: 0,
+			viewBox: '',
 			ignoredTags: [],
 			ignoredAttrs: [],
 			error: error,
@@ -357,6 +364,7 @@ const ProcessSvg = {
 		result.height = coords.height
 		result.x = coords.x
 		result.y = coords.y
+		result.viewBox = coords.viewBox
 		result.code = coords.code ? coords.code : ''
 		result.guaranteed = processed.guaranteed
 		result.ignoredTags = _.keys(processed.ignoredTags)
