@@ -97,6 +97,7 @@ const IcoGenerator = {
                 .toString(),
             css   : glyph.name,
             assign   : glyph.assign,
+            alias   : glyph.alias,
             duotone   : glyph.duotone,
             id    : glyph.id,
             name  : glyph.name,

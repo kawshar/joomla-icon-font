@@ -10,6 +10,7 @@ const IcoConfig = {
 	packagePath: '',
 	targetPackageFolder: '',
 	config: {},
+	alias: {},
 	categoryDirs: '',
 	icons: '',
 	configFolder: path.resolve('./config/'),
@@ -44,8 +45,12 @@ const IcoConfig = {
 		const config = JSON.parse(
 			fs.readFileSync(path.resolve('./config/', 'icon-config.json'), 'utf8')
 		)
+		const aliasIcons = JSON.parse(
+			fs.readFileSync(path.resolve('./config/', 'joomla-font-alias.json'), 'utf8')
+		)
 		config.font.copyright = config.font.copyright.replace('{year}',new Date().getFullYear());
 		module.exports.config = config;
+		module.exports.alias = aliasIcons;
 	},
 
 	/**
@@ -67,8 +72,9 @@ const IcoConfig = {
 	 */
 	readSvgIcons: () => {
 		const categoryDirs = module.exports.categoryDirs
-		const categories = []
+		const iconCollection = []
 		const fontConfig = { ...module.exports.config.font }
+		const alias = module.exports.alias
 		let updateCode = (fontConfig.updateCode ) ? fontConfig.updateCode : fontConfig.code-1
 
 		/**
@@ -80,22 +86,29 @@ const IcoConfig = {
 		 */
 		const storeGlyphs = (folderName, filename, filePath, isDuoton, type) => {
 			let glyph = {}
+			const cssClass = filename.replace('-secondary','')
 			let svg = ProcessSvg.convert(fs.readFileSync(filePath, 'utf8'))
+			if (!isDuoton && typeof alias[cssClass] !== 'undefined') {
+				glyph.alias = alias[cssClass].join(',');
+			}
+			
 			if( !svg.code ){
 				updateCode = updateCode+1
-				module.exports.updateSvgFile(updateCode, filePath, svg )
 				glyph.code = updateCode.toString(16)
+				svg.code = updateCode
+				module.exports.updateSvgFile(filePath, svg)
 			}else {
 				glyph.code = svg.code.toString(16)
 			}
+
 			glyph.id = uuidv4()
 			glyph.name = filename
-			glyph.css = filename.replace('-secondary','')
+			glyph.css = cssClass
 			glyph.cat = folderName
 			glyph.duotone = isDuoton
 			glyph.assign = type ? 'after' : 'before'
 			glyph.transform = svg.transform
-			categories.push(glyph)
+			iconCollection.push(glyph)
 		}
 
 		/**
@@ -119,7 +132,7 @@ const IcoConfig = {
 
 		fontConfig.updateCode = updateCode
 		module.exports.config.font = fontConfig
-		module.exports.icons = categories
+		module.exports.icons = iconCollection
 		
 	},
 
@@ -161,8 +174,7 @@ const IcoConfig = {
 	 * @example		content:"\f3bd"
 	 * 
 	 */
-	updateSvgFile: (code, iconPath, svg ) => {
-		svg.code = code
+	updateSvgFile: (iconPath, svg ) => {
 		let newSvg = TemplateEngine.updateSvgTemplate({svg}) 
 		shell.rm(iconPath)
 		fs.writeFileSync( iconPath, newSvg, 'utf8');

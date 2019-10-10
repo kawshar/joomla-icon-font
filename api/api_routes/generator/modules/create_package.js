@@ -72,7 +72,8 @@ const Package = {
 				duotone: glyphData.duotone,
 				code: glyphData.code,
 				svg: glyphData.svg,
-                cat: glyphData.cat
+                cat: glyphData.cat,
+                alias: glyph.alias,
 			}
 
 			if (configServer.categories[glyphData.cat]) {

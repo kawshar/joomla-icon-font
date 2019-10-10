@@ -88,12 +88,20 @@ var cssFontFile = _.template(
 		'-webkit-font-feature-settings: "liga";\n' +
 		'-webkit-font-smoothing: antialiased;\n' +
 		'}\n' +
-		'<% _.forEach(glyphs, function(glyph) { let duotone = glyph.duotone ? ".duotone" : "" %>' +
-		'<%= duotone %>.<%= font.prefix %>-<%= glyph.css %>:<%= glyph.assign %> {' +
-		'content: "\\<%= glyph.unicode %>";' +
-		'}\n' +
-		'<% }); %>'+
-		`
+		`<% _.forEach(glyphs, function(glyph) { 
+			let duotone = glyph.duotone ? ".duotone" : ""
+			let cssClass = '.'+font.prefix +'-'+ glyph.css + ':' + glyph.assign
+			if(glyph.alias) {
+				_.forEach( glyph.alias.split(','), function(al){
+					cssClass += ',.'+font.prefix +'-'+ al + ':' + glyph.assign
+				})
+			}
+		%>
+		<%= duotone %><%= cssClass %> {
+		content: "\\<%= glyph.unicode %>";
+		}\n
+		<% }); %>
+		
 	[class^="<%= font.prefix %>-"].duotone,
 	[class*=" <%= font.prefix %>-"].duotone {
 		position: relative;
@@ -374,7 +382,7 @@ var exampleHtml = _.template(
 		<ul class="iconlist">
 		<% _.forEach(glyphs, function(glyph){ 
 			if(glyph.assign === 'after') return;
-			var className = glyph.duotone ? 'duotone '+font.prefix+ '-' + glyph.css : font.prefix+ '-' + glyph.css
+			let className = glyph.duotone ? 'duotone '+font.prefix+ '-' + glyph.css : font.prefix+ '-' + glyph.css
 		%>
 		<li>
 			<div class="icon-holder">
@@ -382,6 +390,7 @@ var exampleHtml = _.template(
 					<i class="<%= className %>"></i>
 				</div> 
 				<span> <%= glyph.css %> </span>
+				<% if(glyph.alias) { %> <span class="alias"> Alias: <%= glyph.alias %> </span> <%}%>
 			</div>
 		</li>
 		<% }); %>
@@ -394,7 +403,14 @@ var exampleHtml = _.template(
 
 const updateSvgTemplate = _.template(
 	`<?xml version="1.0"?>
-	<svg xmlns="http://www.w3.org/2000/svg" width="<%= svg.width %>" height="<%= svg.height %>" viewbox="<%= svg.viewBox %>" code="<%= svg.code %>" <% if(svg.transform !== "") { %> transform="<%= svg.transform %>"<% } %>><path d="<%= svg.d %>"/></svg>
+	<svg xmlns="http://www.w3.org/2000/svg" 
+		width="<%= svg.width %>" 
+		height="<%= svg.height %>" 
+		viewbox="<%= svg.viewBox %>" 
+		code="<%= svg.code %>" 
+		<% if(svg.transform !== "") { %> transform="<%= svg.transform %>"<% } %>
+		><path d="<%= svg.d %>"/>
+	</svg>
 	`
 )
 
