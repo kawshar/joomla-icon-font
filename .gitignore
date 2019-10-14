@@ -18,7 +18,6 @@
 /api/package-lock.json
 /api/yarn.lock
 /api/public/global_package
-/api/packages
 /api/packages-backup
 # misc
 .DS_Store
