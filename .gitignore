@@ -17,6 +17,7 @@
 /api/node_modules
 /api/package-lock.json
 /api/yarn.lock
+/api/public
 /api/public/global_package
 /api/packages-backup
 # misc

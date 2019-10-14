@@ -21,7 +21,7 @@
   "glyphs": [
     {
       "code": "13ab2",
-      "id": "9191c7ef-2dc4-4ea8-ae98-b9e7936601fc",
+      "id": "639079f3-6567-410f-8715-e96f360792d6",
       "name": "access-levels-secondary",
       "css": "access-levels",
       "cat": "duotone-icon",
@@ -30,7 +30,7 @@
     },
     {
       "code": "13ab3",
-      "id": "ec2eaff6-ac6d-48fd-8779-7a15c5fb4c2e",
+      "id": "7af628a9-4200-4bb8-ae2b-db7bf1bc8900",
       "name": "access-levels",
       "css": "access-levels",
       "cat": "duotone-icon",
@@ -39,7 +39,7 @@
     },
     {
       "code": "13ab4",
-      "id": "a7db16a2-9496-4dfa-9765-36561aca4a18",
+      "id": "46ea964e-6a18-4fbc-bcf7-0959ad2b83ea",
       "name": "accessibility-secondary",
       "css": "accessibility",
       "cat": "duotone-icon",
@@ -48,7 +48,7 @@
     },
     {
       "code": "13ab5",
-      "id": "84f1e312-6ddf-40cd-b294-711e49a3325c",
+      "id": "d2cc5bb0-9e61-4660-a65b-d14fc8f675b3",
       "name": "accessibility",
       "css": "accessibility",
       "cat": "duotone-icon",
@@ -57,7 +57,7 @@
     },
     {
       "code": "13ab6",
-      "id": "9beae594-c964-4868-95b0-f2696d8c6cc8",
+      "id": "ef50d5d9-fe62-4eec-ab1d-fc5095996fa7",
       "name": "add-users-secondary",
       "css": "add-users",
       "cat": "duotone-icon",
@@ -66,7 +66,7 @@
     },
     {
       "code": "13ab7",
-      "id": "58974f1b-6737-4a9d-a8f6-d11021956acc",
+      "id": "25525004-1d81-47ef-b18d-8c21f866d467",
       "name": "add-users",
       "css": "add-users",
       "cat": "duotone-icon",
@@ -75,7 +75,7 @@
     },
     {
       "code": "13ab8",
-      "id": "cb41e89c-f7cd-4e38-a889-5c1bf30c60bd",
+      "id": "56bdb736-a852-462b-8348-ad88e76de570",
       "name": "address-secondary",
       "css": "address",
       "cat": "duotone-icon",
@@ -84,7 +84,7 @@
     },
     {
       "code": "13ab9",
-      "id": "0040b5e5-7a46-462a-a8b4-3f3a4969ed5d",
+      "id": "1fbc25da-c714-4a1e-8a09-19417cee69db",
       "name": "address",
       "css": "address",
       "cat": "duotone-icon",
@@ -93,7 +93,7 @@
     },
     {
       "code": "13aba",
-      "id": "f912ee60-c8fa-46c0-9d3f-59b2a6f88a5c",
+      "id": "ff9be6b2-d61c-4485-a60a-186cfdec1e2b",
       "name": "apply-secondary",
       "css": "apply",
       "cat": "duotone-icon",
@@ -102,7 +102,7 @@
     },
     {
       "code": "13abb",
-      "id": "70c0ac32-7d0c-4b7e-a7a6-c50c388c1b79",
+      "id": "c6601fbb-13ac-4ee5-9aa0-e5882dc9dfa3",
       "name": "apply",
       "css": "apply",
       "cat": "duotone-icon",
@@ -111,7 +111,7 @@
     },
     {
       "code": "13abc",
-      "id": "007f2d04-5994-425d-8f9e-4cd9f39c98f8",
+      "id": "50724310-86fc-4342-974d-14a4d5d6e94e",
       "name": "archive-secondary",
       "css": "archive",
       "cat": "duotone-icon",
@@ -120,7 +120,7 @@
     },
     {
       "code": "13abd",
-      "id": "2596705e-3d6a-4746-bde4-2f53eff3310a",
+      "id": "a5e1f8e6-2009-4345-a0c7-18efa0c2a0c0",
       "name": "archive",
       "css": "archive",
       "cat": "duotone-icon",
@@ -129,7 +129,7 @@
     },
     {
       "code": "13abe",
-      "id": "0eea5c40-27af-4735-b4fc-2d59ee603660",
+      "id": "a03b6a00-8419-48cf-830d-5b65b08a646c",
       "name": "arrow-first-secondary",
       "css": "arrow-first",
       "cat": "duotone-icon",
@@ -138,7 +138,7 @@
     },
     {
       "code": "13abf",
-      "id": "0b4f88e2-0cf9-4d8e-99c8-98acec09102f",
+      "id": "f5ac6ad5-07ce-43d5-873e-245567f3fa83",
       "name": "arrow-first",
       "css": "arrow-first",
       "cat": "duotone-icon",
@@ -147,7 +147,7 @@
     },
     {
       "code": "13ac0",
-      "id": "032a5498-3ced-419d-86b5-027e2a014402",
+      "id": "da8d0994-9df9-4913-a110-8aae562c0e47",
       "name": "arrow-last-secondary",
       "css": "arrow-last",
       "cat": "duotone-icon",
@@ -156,7 +156,7 @@
     },
     {
       "code": "13ac1",
-      "id": "25f5ff49-70ed-45ba-8b22-a13747d54587",
+      "id": "070a7d52-ead6-4c1a-a385-eb3855acc452",
       "name": "arrow-last",
       "css": "arrow-last",
       "cat": "duotone-icon",
@@ -165,7 +165,7 @@
     },
     {
       "code": "13ac2",
-      "id": "23a7378b-dcc1-4e57-a104-d0d685120c01",
+      "id": "7b895941-a4ce-4ed9-aed4-40e7363a0eb0",
       "name": "articles-secondary",
       "css": "articles",
       "cat": "duotone-icon",
@@ -174,7 +174,7 @@
     },
     {
       "code": "13ac3",
-      "id": "c3ecc148-7f73-4e90-9165-1d9455c0fa61",
+      "id": "db5e2156-d28a-4612-b148-ffcd36b3988c",
       "name": "articles",
       "css": "articles",
       "cat": "duotone-icon",
@@ -183,7 +183,7 @@
     },
     {
       "code": "13ac4",
-      "id": "3f9dbc82-ab77-4edb-9a4d-aa658d7cce7b",
+      "id": "8b66553d-03e6-4f70-a2e3-306e8424ccd1",
       "name": "ascending-secondary",
       "css": "ascending",
       "cat": "duotone-icon",
@@ -192,7 +192,7 @@
     },
     {
       "code": "13ac5",
-      "id": "93cdb702-c0b9-42e7-b55d-f393704066fa",
+      "id": "e99928a2-f4df-4979-bd8a-21dc2c7c22ff",
       "name": "ascending",
       "css": "ascending",
       "cat": "duotone-icon",
@@ -201,7 +201,7 @@
     },
     {
       "code": "13ac6",
-      "id": "4b2f1e3c-a90d-49a4-8780-1523a555b1b4",
+      "id": "3011598a-d617-492c-b6f5-08ba7f12297b",
       "name": "backward-secondary",
       "css": "backward",
       "cat": "duotone-icon",
@@ -210,7 +210,7 @@
     },
     {
       "code": "13ac7",
-      "id": "42b65608-a59b-4d18-a2f6-383d586c0450",
+      "id": "57bae13d-324c-4dfd-a574-f326483b5c0e",
       "name": "backward",
       "css": "backward",
       "cat": "duotone-icon",
@@ -219,7 +219,7 @@
     },
     {
       "code": "13ac8",
-      "id": "90c652ea-45c2-4761-b25f-1771f4f2066f",
+      "id": "484fecce-8bec-41f2-9f65-0f6fc926c586",
       "name": "bar-secondary",
       "css": "bar",
       "cat": "duotone-icon",
@@ -228,7 +228,7 @@
     },
     {
       "code": "13ac9",
-      "id": "d277dc8b-d2d1-46c0-b77f-b887f6824b35",
+      "id": "0dea84ec-8218-4a35-8c87-71c770c80387",
       "name": "bar",
       "css": "bar",
       "cat": "duotone-icon",
@@ -237,7 +237,7 @@
     },
     {
       "code": "13aca",
-      "id": "73842df9-19f4-4500-b237-5eacd6458483",
+      "id": "cc9f96dc-4100-487d-b9db-08e2586b198a",
       "name": "batch-secondary",
       "css": "batch",
       "cat": "duotone-icon",
@@ -246,7 +246,7 @@
     },
     {
       "code": "13acb",
-      "id": "d0e23745-19bc-441f-ab1c-991d22469d90",
+      "id": "87737ade-1d40-4c38-aa32-7f38899fab84",
       "name": "batch",
       "css": "batch",
       "cat": "duotone-icon",
@@ -255,7 +255,7 @@
     },
     {
       "code": "13acc",
-      "id": "1fbef046-000c-4f1f-b7f8-5c4c43dbf8b4",
+      "id": "05e6d6d0-c27f-42a6-9beb-4cf3b238ffdf",
       "name": "book-secondary",
       "css": "book",
       "cat": "duotone-icon",
@@ -264,7 +264,7 @@
     },
     {
       "code": "13acd",
-      "id": "66358fe7-48cd-48d2-bdd1-bea0d74b5da7",
+      "id": "6223a8a6-2786-42ac-b6ca-cb81622c52c8",
       "name": "book",
       "css": "book",
       "cat": "duotone-icon",
@@ -273,7 +273,7 @@
     },
     {
       "code": "13ace",
-      "id": "ed3c7f4c-bf94-45a7-ad71-f61dcf031121",
+      "id": "bb2953e2-b637-4936-9180-efeacbc4dfe9",
       "name": "bookmark-secondary",
       "css": "bookmark",
       "cat": "duotone-icon",
@@ -282,7 +282,7 @@
     },
     {
       "code": "13acf",
-      "id": "3035713d-526f-4d2d-b604-e5b2850672ed",
+      "id": "aee7f03e-ce26-4f66-9c44-0bd08271b69d",
       "name": "bookmark",
       "css": "bookmark",
       "cat": "duotone-icon",
@@ -291,7 +291,7 @@
     },
     {
       "code": "13ad0",
-      "id": "ed9f62bd-1c82-44a1-9ee2-2b393cc0e793",
+      "id": "5d441428-be53-4cb0-b0ab-0c3ef596608a",
       "name": "briefcase-alt-secondary",
       "css": "briefcase-alt",
       "cat": "duotone-icon",
@@ -300,7 +300,7 @@
     },
     {
       "code": "13ad1",
-      "id": "1bb8ad36-4f0f-4da2-bef9-16aca6299b40",
+      "id": "e0a566d7-609a-4ac2-b3cc-8aa1fc6152fe",
       "name": "briefcase-alt",
       "css": "briefcase-alt",
       "cat": "duotone-icon",
@@ -309,7 +309,7 @@
     },
     {
       "code": "13ad2",
-      "id": "f817e02f-2d13-4a25-b617-d2779508d7bf",
+      "id": "8c8db63b-1e5d-4dd5-afb7-467e806ec2f9",
       "name": "briefcase-secondary",
       "css": "briefcase",
       "cat": "duotone-icon",
@@ -318,7 +318,7 @@
     },
     {
       "code": "13ad3",
-      "id": "7e6b9f91-0317-4094-8951-e138eb843c7e",
+      "id": "67a8812c-f361-4d43-8311-2558741e89b2",
       "name": "briefcase",
       "css": "briefcase",
       "cat": "duotone-icon",
@@ -327,7 +327,7 @@
     },
     {
       "code": "13ad4",
-      "id": "a2fc6547-86c9-45c7-8f63-59d6021789f8",
+      "id": "b40f6cc4-9c43-4eb6-879a-cfc3974f7525",
       "name": "broadcast-secondary",
       "css": "broadcast",
       "cat": "duotone-icon",
@@ -336,7 +336,7 @@
     },
     {
       "code": "13ad5",
-      "id": "f6fb32b4-6cf3-44c6-8671-2f1b52f3f881",
+      "id": "a227c850-a075-45df-9041-29e4678dc6fd",
       "name": "broadcast",
       "css": "broadcast",
       "cat": "duotone-icon",
@@ -345,7 +345,7 @@
     },
     {
       "code": "13ad6",
-      "id": "f876059b-4123-40f5-87a6-f72d05a75c9f",
+      "id": "c3f72e81-36ac-4b1c-9373-0d9128a0351b",
       "name": "brush-secondary",
       "css": "brush",
       "cat": "duotone-icon",
@@ -354,7 +354,7 @@
     },
     {
       "code": "13ad7",
-      "id": "be882727-158c-4ddb-9dce-0f0d6ac735e4",
+      "id": "6f990f6a-2051-4c05-bddc-548042945941",
       "name": "brush",
       "css": "brush",
       "cat": "duotone-icon",
@@ -363,7 +363,7 @@
     },
     {
       "code": "13ad8",
-      "id": "bf802004-de46-43a0-9e06-dd4e0246c2da",
+      "id": "719ff6f2-4949-42e4-9994-231f73a94cc9",
       "name": "bug-secondary",
       "css": "bug",
       "cat": "duotone-icon",
@@ -372,7 +372,7 @@
     },
     {
       "code": "13ad9",
-      "id": "aeac465a-e484-4386-8bb2-41a8514cc131",
+      "id": "971a6df0-e01e-464e-a40b-93bc055768e9",
       "name": "bug",
       "css": "bug",
       "cat": "duotone-icon",
@@ -381,7 +381,7 @@
     },
     {
       "code": "13ada",
-      "id": "45989b08-a122-4771-a59c-d72ab4b6e141",
+      "id": "62f93ad1-6d6d-4d5f-bcd2-ba30045d05d1",
       "name": "calendar-secondary",
       "css": "calendar",
       "cat": "duotone-icon",
@@ -390,7 +390,7 @@
     },
     {
       "code": "13adb",
-      "id": "e6619857-5b0b-41d6-9943-369fd813c32c",
+      "id": "fad8bbf0-c6d5-437b-bb30-5d18bd41513c",
       "name": "calendar",
       "css": "calendar",
       "cat": "duotone-icon",
@@ -399,7 +399,7 @@
     },
     {
       "code": "13adc",
-      "id": "e025073a-4a16-4613-921d-915382e437d1",
+      "id": "63244dff-0e4e-410b-9311-27297dd7183f",
       "name": "camera-secondary",
       "css": "camera",
       "cat": "duotone-icon",
@@ -408,7 +408,7 @@
     },
     {
       "code": "13add",
-      "id": "74f1d4e7-21ba-441c-b9c5-5b07634d0d11",
+      "id": "45d1913f-f2b4-452f-a810-212342b3c190",
       "name": "camera",
       "css": "camera",
       "cat": "duotone-icon",
@@ -417,7 +417,7 @@
     },
     {
       "code": "13ade",
-      "id": "ce85d6ba-dc71-4f40-9e32-9568250caadb",
+      "id": "2684d95c-c6a6-463d-a444-0f9f1b594840",
       "name": "cart-secondary",
       "css": "cart",
       "cat": "duotone-icon",
@@ -426,7 +426,7 @@
     },
     {
       "code": "13adf",
-      "id": "14cfa335-fd00-4900-ada6-f053d14418a2",
+      "id": "9399c3ff-39a1-4bd9-bc45-48e73616ca37",
       "name": "cart",
       "css": "cart",
       "cat": "duotone-icon",
@@ -435,7 +435,7 @@
     },
     {
       "code": "13ae0",
-      "id": "889c2dde-1d2e-483b-b176-2e7a875ed740",
+      "id": "e3528a0c-6875-45f6-a85e-6185270d1834",
       "name": "category-secondary",
       "css": "category",
       "cat": "duotone-icon",
@@ -444,7 +444,7 @@
     },
     {
       "code": "13ae1",
-      "id": "ad62a3f2-c0e5-4549-9f17-678631ec0bd4",
+      "id": "6dc5c920-76b4-40c0-9997-22fe8910baf4",
       "name": "category",
       "css": "category",
       "cat": "duotone-icon",
@@ -453,7 +453,7 @@
     },
     {
       "code": "13ae2",
-      "id": "9af5b3bb-0d25-4de0-ad1c-5aaf4a0d0c04",
+      "id": "73868c61-06b6-4dc4-b68c-327abebc60bd",
       "name": "chart-secondary",
       "css": "chart",
       "cat": "duotone-icon",
@@ -462,7 +462,7 @@
     },
     {
       "code": "13ae3",
-      "id": "e84b4abf-3e1f-4479-92a4-902fb0937b52",
+      "id": "c938385e-e789-4abc-b6be-b12c3e6b1bf1",
       "name": "chart",
       "css": "chart",
       "cat": "duotone-icon",
@@ -471,7 +471,7 @@
     },
     {
       "code": "13ae4",
-      "id": "e5b30813-c419-4452-95a7-d19657370862",
+      "id": "a3faf9cd-9450-405a-b211-d22348b680bb",
       "name": "checkedout-secondary",
       "css": "checkedout",
       "cat": "duotone-icon",
@@ -480,7 +480,7 @@
     },
     {
       "code": "13ae5",
-      "id": "34199e9e-38e8-49cd-9d2b-9eb42807754a",
+      "id": "47acc4ff-dadb-4927-96e3-430482354332",
       "name": "checkedout",
       "css": "checkedout",
       "cat": "duotone-icon",
@@ -489,7 +489,7 @@
     },
     {
       "code": "13ae6",
-      "id": "5429df2b-a26f-418e-b851-73be15c9c471",
+      "id": "adcf9aa9-10b9-4105-a2ef-591245c7d3ca",
       "name": "click-secondary",
       "css": "click",
       "cat": "duotone-icon",
@@ -498,7 +498,7 @@
     },
     {
       "code": "13ae7",
-      "id": "d210ee0f-7bdd-4ef5-94c0-df7cd1e18081",
+      "id": "bf49483a-1b13-499f-a259-e05f2f6b073d",
       "name": "click",
       "css": "click",
       "cat": "duotone-icon",
@@ -507,7 +507,7 @@
     },
     {
       "code": "13ae8",
-      "id": "a89403bd-eb4e-400b-b9ea-40faa52e23ca",
+      "id": "d11764d3-177c-4edb-9ad6-898f24eef2ce",
       "name": "cogs-secondary",
       "css": "cogs",
       "cat": "duotone-icon",
@@ -516,7 +516,7 @@
     },
     {
       "code": "13ae9",
-      "id": "f5f47fc2-b194-422a-8594-d635833d8d9b",
+      "id": "3b1c3917-1b62-4422-8ea5-6e73cd775894",
       "name": "cogs",
       "css": "cogs",
       "cat": "duotone-icon",
@@ -525,7 +525,7 @@
     },
     {
       "code": "13aea",
-      "id": "3f408d51-68f6-4a61-9aff-081d08db6527",
+      "id": "48ed519b-c382-4c0c-aa2f-410cb83added",
       "name": "comment-secondary",
       "css": "comment",
       "cat": "duotone-icon",
@@ -534,7 +534,7 @@
     },
     {
       "code": "13aeb",
-      "id": "b453bc05-764c-4e08-9746-f9c1d0632d60",
+      "id": "934bf95a-1005-4446-a5cd-b94f8b604586",
       "name": "comment",
       "css": "comment",
       "cat": "duotone-icon",
@@ -543,7 +543,7 @@
     },
     {
       "code": "13aec",
-      "id": "5f003316-b734-4bce-b9f9-865db6c3ec27",
+      "id": "8acec906-4900-4054-8a78-4e206b04ffad",
       "name": "compass-secondary",
       "css": "compass",
       "cat": "duotone-icon",
@@ -552,7 +552,7 @@
     },
     {
       "code": "13aed",
-      "id": "c168e1ff-6704-47ea-abf6-59dd4367fbda",
+      "id": "a32b96f5-0c4a-461d-a624-0f5d4355a328",
       "name": "compass",
       "css": "compass",
       "cat": "duotone-icon",
@@ -561,7 +561,7 @@
     },
     {
       "code": "13aee",
-      "id": "35aa27e3-01c4-4594-af1e-804a56dbd5d1",
+      "id": "30453f94-65e9-4ff8-83c1-bb2598053646",
       "name": "components-secondary",
       "css": "components",
       "cat": "duotone-icon",
@@ -570,7 +570,7 @@
     },
     {
       "code": "13aef",
-      "id": "117c1231-c0fa-4f83-a1b7-bede0bf88fe1",
+      "id": "8d878fce-ed76-417b-bb74-d6361b7bda12",
       "name": "components",
       "css": "components",
       "cat": "duotone-icon",
@@ -579,7 +579,7 @@
     },
     {
       "code": "13af0",
-      "id": "861ea5e1-4c5c-4b54-8dd8-914ddd38dace",
+      "id": "f063af5f-c7cf-444e-8df7-eb058879ae97",
       "name": "contacts-alt-secondary",
       "css": "contacts-alt",
       "cat": "duotone-icon",
@@ -588,7 +588,7 @@
     },
     {
       "code": "13af1",
-      "id": "2e3d6ed8-a96a-4db0-ae0b-b22b9a7035e4",
+      "id": "2d2a81c0-c336-4b15-a813-3b69a281b654",
       "name": "contacts-alt",
       "css": "contacts-alt",
       "cat": "duotone-icon",
@@ -597,7 +597,7 @@
     },
     {
       "code": "13af2",
-      "id": "0705be8e-f7a8-453f-9217-23c335fa5058",
+      "id": "7586bfce-9a09-4ed6-8d5f-7574059e51cd",
       "name": "contacts-secondary",
       "css": "contacts",
       "cat": "duotone-icon",
@@ -606,7 +606,7 @@
     },
     {
       "code": "13af3",
-      "id": "3e66a0d2-9dcb-4315-ad88-f670b3c5b7d3",
+      "id": "e9d60420-6049-4265-8c0c-1937ea5c751d",
       "name": "contacts",
       "css": "contacts",
       "cat": "duotone-icon",
@@ -615,7 +615,7 @@
     },
     {
       "code": "13af4",
-      "id": "1641d02c-e5f7-4db0-8a3d-dd8048245159",
+      "id": "9a4e8aaa-eeb2-45a6-a201-4dbab4ddfc2f",
       "name": "content-scalling-secondary",
       "css": "content-scalling",
       "cat": "duotone-icon",
@@ -624,7 +624,7 @@
     },
     {
       "code": "13af5",
-      "id": "5797bff5-6b0e-410d-8aff-cd5084f3015c",
+      "id": "628fe317-ef28-4d58-bea1-464b80f17109",
       "name": "content-scalling",
       "css": "content-scalling",
       "cat": "duotone-icon",
@@ -633,7 +633,7 @@
     },
     {
       "code": "13af6",
-      "id": "4282fb93-8c26-44e7-aafa-bceff8399dc1",
+      "id": "bb1f5150-1b74-48b9-95f2-176bebdb9837",
       "name": "content-secondary",
       "css": "content",
       "cat": "duotone-icon",
@@ -642,7 +642,7 @@
     },
     {
       "code": "13af7",
-      "id": "d6c24791-e616-47af-9b7c-6e055e7e4155",
+      "id": "887952f5-1611-4b48-acdb-2a2011ae07d7",
       "name": "content",
       "css": "content",
       "cat": "duotone-icon",
@@ -651,7 +651,7 @@
     },
     {
       "code": "13af8",
-      "id": "c2d488b3-32c4-41e7-925a-09f6b73a6ab2",
+      "id": "04000b99-3e63-4970-9ecc-f3550db5c24b",
       "name": "contract-alt-secondary",
       "css": "contract-alt",
       "cat": "duotone-icon",
@@ -660,7 +660,7 @@
     },
     {
       "code": "13af9",
-      "id": "2fff8fa3-6422-47d1-9fc3-3b2d41074a06",
+      "id": "4de51df9-d4c6-438b-8111-6e26d2c85a44",
       "name": "contract-alt",
       "css": "contract-alt",
       "cat": "duotone-icon",
@@ -669,7 +669,7 @@
     },
     {
       "code": "13afa",
-      "id": "4b1433df-40b6-4ea5-a5a3-4d32759e2b05",
+      "id": "e5de23dd-474d-441c-8bde-328957e39fc2",
       "name": "credit-secondary",
       "css": "credit",
       "cat": "duotone-icon",
@@ -678,7 +678,7 @@
     },
     {
       "code": "13afb",
-      "id": "7dcaf6a1-7dda-459d-901b-eac8a2e67d7d",
+      "id": "3bde37fd-01c1-465b-affd-48889deeac4c",
       "name": "credit",
       "css": "credit",
       "cat": "duotone-icon",
@@ -687,7 +687,7 @@
     },
     {
       "code": "13afc",
-      "id": "3322faab-7644-4a13-b8fa-583f0839106b",
+      "id": "a9dc6964-a463-4033-ba64-b3d7cfae2005",
       "name": "cube-secondary",
       "css": "cube",
       "cat": "duotone-icon",
@@ -696,7 +696,7 @@
     },
     {
       "code": "13afd",
-      "id": "80605f5a-0811-4b40-9c44-3126592faa70",
+      "id": "d0418bd7-87d6-40e1-b96b-7fa955d27025",
       "name": "cube",
       "css": "cube",
       "cat": "duotone-icon",
@@ -705,7 +705,7 @@
     },
     {
       "code": "13afe",
-      "id": "c6a32f85-96e7-472f-a1ac-83bca6c31ebc",
+      "id": "3d39322d-684f-4895-aa8b-205bf16ceef7",
       "name": "dark-mode-secondary",
       "css": "dark-mode",
       "cat": "duotone-icon",
@@ -714,7 +714,7 @@
     },
     {
       "code": "13aff",
-      "id": "69cf9dc8-218a-42c0-b5e3-f6dd4a1dcd0e",
+      "id": "4e5f9d23-e239-4859-82ff-e20c42a82eef",
       "name": "dark-mode",
       "css": "dark-mode",
       "cat": "duotone-icon",
@@ -723,7 +723,7 @@
     },
     {
       "code": "13b00",
-      "id": "039d5226-fe27-4969-88a8-ec84f85446e1",
+      "id": "028ea17b-0cac-4456-a477-2e433a720522",
       "name": "dashboard-secondary",
       "css": "dashboard",
       "cat": "duotone-icon",
@@ -732,7 +732,7 @@
     },
     {
       "code": "13b01",
-      "id": "f2c1f4be-ff32-4a2c-9792-a3c0ee607ddc",
+      "id": "2d10e330-ae5a-453b-ac95-92ac5ffad1d4",
       "name": "dashboard",
       "css": "dashboard",
       "cat": "duotone-icon",
@@ -741,7 +741,7 @@
     },
     {
       "code": "13b02",
-      "id": "570d8834-8977-4cad-be1d-093e54b3b2b0",
+      "id": "b90b6598-939e-4088-9bdc-53a123cb0289",
       "name": "database-secondary",
       "css": "database",
       "cat": "duotone-icon",
@@ -750,7 +750,7 @@
     },
     {
       "code": "13b03",
-      "id": "e1062bd1-a80e-4ca5-820f-dc136966f913",
+      "id": "b8563467-3e7d-4823-b8e0-ba0a835dcbd0",
       "name": "database",
       "css": "database",
       "cat": "duotone-icon",
@@ -759,7 +759,7 @@
     },
     {
       "code": "13b04",
-      "id": "f61d84ac-675f-4a7f-a07f-47177b940e92",
+      "id": "d9b791ec-150a-403b-9316-cd9cfcafff7e",
       "name": "descending-secondary",
       "css": "descending",
       "cat": "duotone-icon",
@@ -768,7 +768,7 @@
     },
     {
       "code": "13b05",
-      "id": "0722abe2-3a1a-4961-972c-fd3c47c4311e",
+      "id": "61a4be79-6ebb-41ed-99ee-56071ab634b8",
       "name": "descending",
       "css": "descending",
       "cat": "duotone-icon",
@@ -777,7 +777,7 @@
     },
     {
       "code": "13b06",
-      "id": "bd7deb70-1ff5-4c5d-ae31-28b3cfa5ce3e",
+      "id": "a9de0e84-7746-40a6-b766-daa009165b26",
       "name": "disable-motion-secondary",
       "css": "disable-motion",
       "cat": "duotone-icon",
@@ -786,7 +786,7 @@
     },
     {
       "code": "13b07",
-      "id": "c6f56db7-873d-47d2-877b-432580b1b5f6",
+      "id": "84d8c733-03e4-4601-a867-534b7740ec9e",
       "name": "disable-motion",
       "css": "disable-motion",
       "cat": "duotone-icon",
@@ -795,7 +795,7 @@
     },
     {
       "code": "13b08",
-      "id": "99d10b2a-a0c5-4446-9a5d-d0c749941491",
+      "id": "1f50f3d8-f70b-4d8c-9c62-62c6c93c8fe3",
       "name": "download-secondary",
       "css": "download",
       "cat": "duotone-icon",
@@ -804,7 +804,7 @@
     },
     {
       "code": "13b09",
-      "id": "9fb99a19-e6cf-4864-b34c-e48ca2b3ab11",
+      "id": "5a9e6284-e55d-42ab-85e0-36c172fbd7f4",
       "name": "download",
       "css": "download",
       "cat": "duotone-icon",
@@ -813,7 +813,7 @@
     },
     {
       "code": "13b0a",
-      "id": "1e49bb59-2236-458a-b893-997b563e0bfd",
+      "id": "6ebe428b-aa13-4ff9-af94-ab7f2a0a9c18",
       "name": "envelope-badge-secondary",
       "css": "envelope-badge",
       "cat": "duotone-icon",
@@ -822,7 +822,7 @@
     },
     {
       "code": "13b0b",
-      "id": "46aa29b7-a4eb-4392-af93-6da0ec595ab1",
+      "id": "692b20d5-eb42-4547-8386-067896f7e538",
       "name": "envelope-badge",
       "css": "envelope-badge",
       "cat": "duotone-icon",
@@ -831,7 +831,7 @@
     },
     {
       "code": "13b0c",
-      "id": "7035a2f2-db61-4f75-a445-69039aac2520",
+      "id": "12be8bc3-f6cf-4c48-babd-87ff86f2696d",
       "name": "envelope-open-secondary",
       "css": "envelope-open",
       "cat": "duotone-icon",
@@ -840,7 +840,7 @@
     },
     {
       "code": "13b0d",
-      "id": "354b7917-56e2-4eb9-bfda-bd12e165a1b0",
+      "id": "dcef8b44-cdd7-46a1-973d-4e272944821f",
       "name": "envelope-open",
       "css": "envelope-open",
       "cat": "duotone-icon",
@@ -849,7 +849,7 @@
     },
     {
       "code": "13b0e",
-      "id": "b1e04820-e603-4837-bbfa-1c343d2d7c60",
+      "id": "e72ac66e-b0a3-466d-9f7d-02e779db7703",
       "name": "envelope-secondary",
       "css": "envelope",
       "cat": "duotone-icon",
@@ -858,7 +858,7 @@
     },
     {
       "code": "13b0f",
-      "id": "e7921530-d17c-4814-ad96-3bb5ba18fa9f",
+      "id": "57dd467d-2106-40dd-9a54-93f81e602119",
       "name": "envelope",
       "css": "envelope",
       "cat": "duotone-icon",
@@ -867,7 +867,7 @@
     },
     {
       "code": "13b10",
-      "id": "63ee77f1-bbcc-4473-8bad-5b70d1f185b3",
+      "id": "a7cd4c63-9a6a-42c5-9ca0-31ad97977a17",
       "name": "equalizer-secondary",
       "css": "equalizer",
       "cat": "duotone-icon",
@@ -876,7 +876,7 @@
     },
     {
       "code": "13b11",
-      "id": "f4b0244e-4f5f-431b-82c3-0686ae0f2ae0",
+      "id": "b465019b-52f7-49d5-a0c4-eafb2d007558",
       "name": "equalizer",
       "css": "equalizer",
       "cat": "duotone-icon",
@@ -885,7 +885,7 @@
     },
     {
       "code": "13b12",
-      "id": "b53bf211-2809-4f0c-b22e-53615602c5e2",
+      "id": "1665d554-b5de-4a3e-a61f-bac056fadc43",
       "name": "exit-secondary",
       "css": "exit",
       "cat": "duotone-icon",
@@ -894,7 +894,7 @@
     },
     {
       "code": "13b13",
-      "id": "3995385a-9cd8-45ca-91c8-8685b67048a5",
+      "id": "388bafb4-00a7-477f-bdd3-71b875b97519",
       "name": "exit",
       "css": "exit",
       "cat": "duotone-icon",
@@ -903,7 +903,7 @@
     },
     {
       "code": "13b14",
-      "id": "81002465-8a81-4c98-bfb8-b69de2a62fb9",
+      "id": "26a6f8ba-6e47-4d94-9114-a9e5f4973a00",
       "name": "expand-full-secondary",
       "css": "expand-full",
       "cat": "duotone-icon",
@@ -912,7 +912,7 @@
     },
     {
       "code": "13b15",
-      "id": "e2fdb301-7eba-465b-bdda-13206cd099de",
+      "id": "b57fc097-16d8-4c8b-b1cf-6b74a6a72103",
       "name": "expand-full",
       "css": "expand-full",
       "cat": "duotone-icon",
@@ -921,7 +921,7 @@
     },
     {
       "code": "13b16",
-      "id": "d14c7114-552b-4bfb-ad4b-c42a6fb6395e",
+      "id": "15ea6bf3-23f1-44be-afc8-848ead66ba5c",
       "name": "expand-secondary",
       "css": "expand",
       "cat": "duotone-icon",
@@ -930,7 +930,7 @@
     },
     {
       "code": "13b17",
-      "id": "47a427a6-bf23-46a5-81b1-4b56c4632fc6",
+      "id": "b2c02c80-6213-48df-bed5-2d697ae81720",
       "name": "expand",
       "css": "expand",
       "cat": "duotone-icon",
@@ -939,7 +939,7 @@
     },
     {
       "code": "13b18",
-      "id": "800bc1fc-ad24-46df-bd50-5478b5da2249",
+      "id": "42bbfff7-23e5-4283-aa44-fffc6e0ece32",
       "name": "eye-close-secondary",
       "css": "eye-close",
       "cat": "duotone-icon",
@@ -948,7 +948,7 @@
     },
     {
       "code": "13b19",
-      "id": "dd325253-b090-4abb-811d-67e5f59d27c0",
+      "id": "36493d52-b5c2-4eb1-bcdc-4b3539cddb26",
       "name": "eye-close",
       "css": "eye-close",
       "cat": "duotone-icon",
@@ -957,7 +957,7 @@
     },
     {
       "code": "13b1a",
-      "id": "f4555eb0-418a-42a9-a33b-be3f4dde7a95",
+      "id": "95829a55-a177-453b-8df0-4112ca6396f3",
       "name": "eye-open-secondary",
       "css": "eye-open",
       "cat": "duotone-icon",
@@ -966,7 +966,7 @@
     },
     {
       "code": "13b1b",
-      "id": "f1477888-b830-4706-bd42-ccedea5eca40",
+      "id": "9ec787a7-78bf-4068-854d-d78e5bdd8502",
       "name": "eye-open",
       "css": "eye-open",
       "cat": "duotone-icon",
@@ -975,7 +975,7 @@
     },
     {
       "code": "13b1c",
-      "id": "559e4b90-0fe4-492f-990f-15575c085f71",
+      "id": "01fcbf75-25cd-41c0-a52d-8d48c43a4058",
       "name": "feed-secondary",
       "css": "feed",
       "cat": "duotone-icon",
@@ -984,7 +984,7 @@
     },
     {
       "code": "13b1d",
-      "id": "e8df94f1-c1dd-473b-805f-bbb8b1da0f25",
+      "id": "bce2896e-a85d-4891-a6bb-22cf4e92f64a",
       "name": "feed",
       "css": "feed",
       "cat": "duotone-icon",
@@ -993,7 +993,7 @@
     },
     {
       "code": "13b1e",
-      "id": "563e7410-654a-4540-8860-9ee8e9e785a6",
+      "id": "1314fdce-39c7-442e-909c-7a9747555f60",
       "name": "field-group-secondary",
       "css": "field-group",
       "cat": "duotone-icon",
@@ -1002,7 +1002,7 @@
     },
     {
       "code": "13b1f",
-      "id": "d8fa96bd-a53f-43b7-b99f-fee272b7abd8",
+      "id": "99d3a903-efaf-4d9e-8098-9cf826461878",
       "name": "field-group",
       "css": "field-group",
       "cat": "duotone-icon",
@@ -1011,7 +1011,7 @@
     },
     {
       "code": "13b20",
-      "id": "bf467a1c-a0f8-4663-91a2-06927eb7d57b",
+      "id": "0a3fbbd3-360e-4e93-b824-e02484d64d07",
       "name": "fields-secondary",
       "css": "fields",
       "cat": "duotone-icon",
@@ -1020,7 +1020,7 @@
     },
     {
       "code": "13b21",
-      "id": "70b8a0d7-456f-4166-8f4f-b9585fae0174",
+      "id": "9f64187c-fe68-4dd1-87fb-7dc3c085c64b",
       "name": "fields",
       "css": "fields",
       "cat": "duotone-icon",
@@ -1029,7 +1029,7 @@
     },
     {
       "code": "13b22",
-      "id": "271e4c31-ca3f-4bb6-bea6-dc9d59116a31",
+      "id": "74794d00-1067-425e-b006-4cbc308469a7",
       "name": "file-add-secondary",
       "css": "file-add",
       "cat": "duotone-icon",
@@ -1038,7 +1038,7 @@
     },
     {
       "code": "13b23",
-      "id": "214da813-c99f-49c0-9da0-443cc9c39b72",
+      "id": "0574baba-3ac9-45e4-9ee6-73f3f03af4d2",
       "name": "file-add",
       "css": "file-add",
       "cat": "duotone-icon",
@@ -1047,7 +1047,7 @@
     },
     {
       "code": "13b24",
-      "id": "222a02db-6f4a-4e00-b3aa-5cecf77363d4",
+      "id": "43cc81b9-5004-43b6-823e-9764190fbb0e",
       "name": "file-check-secondary",
       "css": "file-check",
       "cat": "duotone-icon",
@@ -1056,7 +1056,7 @@
     },
     {
       "code": "13b25",
-      "id": "a3848ef0-b918-47cc-b0b6-a69fd5d2fa40",
+      "id": "64eaa49d-5d4c-416c-8df6-37f4176e8cf3",
       "name": "file-check",
       "css": "file-check",
       "cat": "duotone-icon",
@@ -1065,7 +1065,7 @@
     },
     {
       "code": "13b26",
-      "id": "8088fd3e-e5e4-4f6b-8d30-840ef79c902f",
+      "id": "b66c12dd-7923-4955-ad9e-c00b5c25df46",
       "name": "file-minus-secondary",
       "css": "file-minus",
       "cat": "duotone-icon",
@@ -1074,7 +1074,7 @@
     },
     {
       "code": "13cdd",
-      "id": "e9cf6cd8-5c71-4755-bbde-80c5b13be008",
+      "id": "c9f1b051-bbd0-4f5c-b345-ba5939d8a5ed",
       "name": "file-minus",
       "css": "file-minus",
       "cat": "duotone-icon",
@@ -1083,7 +1083,7 @@
     },
     {
       "code": "13b28",
-      "id": "cbd67908-dff8-4fa1-8338-a00b78efb74c",
+      "id": "a6d321dd-1c88-48d3-a35b-84daead117da",
       "name": "file-remove-secondary",
       "css": "file-remove",
       "cat": "duotone-icon",
@@ -1092,7 +1092,7 @@
     },
     {
       "code": "13b29",
-      "id": "34e7848b-ddbe-44d8-b6c6-dc2344db3bad",
+      "id": "378fb135-c0a5-431b-ba45-885d0326a03a",
       "name": "file-remove",
       "css": "file-remove",
       "cat": "duotone-icon",
@@ -1101,7 +1101,7 @@
     },
     {
       "code": "13b2a",
-      "id": "598388bb-7f41-4f92-9608-c2b69459f305",
+      "id": "5217a817-f156-4fdd-9ce1-838473b1948e",
       "name": "file-secondary",
       "css": "file",
       "cat": "duotone-icon",
@@ -1110,7 +1110,7 @@
     },
     {
       "code": "13b2b",
-      "id": "62ea5006-83c6-46a1-b160-3008b9cf6825",
+      "id": "5f9e67be-13cd-44ef-bcc3-62b23b6f7a67",
       "name": "file",
       "css": "file",
       "cat": "duotone-icon",
@@ -1119,7 +1119,7 @@
     },
     {
       "code": "13b2c",
-      "id": "6da0ab26-095a-45fd-98a8-52064b2752af",
+      "id": "b98fa24f-e273-4bf4-9ca9-b5ab7f651c78",
       "name": "first-secondary",
       "css": "first",
       "cat": "duotone-icon",
@@ -1128,7 +1128,7 @@
     },
     {
       "code": "13b2d",
-      "id": "3d453ac0-fd58-4995-9654-a7d474afaf96",
+      "id": "e65973c8-e73e-413d-ac8f-136540e115ff",
       "name": "first",
       "css": "first",
       "cat": "duotone-icon",
@@ -1137,7 +1137,7 @@
     },
     {
       "code": "13b2e",
-      "id": "7ca67d51-ba53-46e8-a386-6e98ccade9a3",
+      "id": "105ecbcc-9ac9-4d09-82c7-958f08e784d2",
       "name": "flag-secondary",
       "css": "flag",
       "cat": "duotone-icon",
@@ -1146,7 +1146,7 @@
     },
     {
       "code": "13b2f",
-      "id": "1cd02baa-4d20-4178-a978-9a381991f196",
+      "id": "2411cff9-e281-4049-82d4-92dd873b2df5",
       "name": "flag",
       "css": "flag",
       "cat": "duotone-icon",
@@ -1155,7 +1155,7 @@
     },
     {
       "code": "13b30",
-      "id": "5842124b-e71b-492a-a339-d49a571736a6",
+      "id": "40e7ca41-ab6f-4066-9ea3-91b7a5aae501",
       "name": "folder-close-secondary",
       "css": "folder-close",
       "cat": "duotone-icon",
@@ -1164,7 +1164,7 @@
     },
     {
       "code": "13b31",
-      "id": "1abf861c-db2d-4a23-a4ad-6bcc3cb1cf57",
+      "id": "e74cb7ed-541d-46e9-9c16-b28f063711b6",
       "name": "folder-close",
       "css": "folder-close",
       "cat": "duotone-icon",
@@ -1173,7 +1173,7 @@
     },
     {
       "code": "13b32",
-      "id": "ac98b8ee-8516-485a-a0af-eaf014a5b8be",
+      "id": "49a82a69-6291-4b5d-992b-4a3c34c20681",
       "name": "folder-open-secondary",
       "css": "folder-open",
       "cat": "duotone-icon",
@@ -1182,7 +1182,7 @@
     },
     {
       "code": "13b33",
-      "id": "bca53ce6-db9f-4d0c-b527-c51a27666aa4",
+      "id": "b343e7b8-0e48-4784-b5e3-d7caf919a450",
       "name": "folder-open",
       "css": "folder-open",
       "cat": "duotone-icon",
@@ -1191,7 +1191,7 @@
     },
     {
       "code": "13b34",
-      "id": "73ee412c-8310-41f0-8b0e-2900922c66e7",
+      "id": "f964c388-f669-46d0-afac-16cd15be3dfb",
       "name": "folder-plus-secondary",
       "css": "folder-plus",
       "cat": "duotone-icon",
@@ -1200,7 +1200,7 @@
     },
     {
       "code": "13b35",
-      "id": "d7a84849-7238-4ba8-804c-66878602c838",
+      "id": "25edef28-c4a8-4e42-a2e1-1cc8b330a7bf",
       "name": "folder-plus",
       "css": "folder-plus",
       "cat": "duotone-icon",
@@ -1209,7 +1209,7 @@
     },
     {
       "code": "13b36",
-      "id": "edf47f95-aa17-43fe-83fb-5d705cc37a33",
+      "id": "80ecfda4-cb23-487e-9eba-166683dc1d0a",
       "name": "folder-remove-secondary",
       "css": "folder-remove",
       "cat": "duotone-icon",
@@ -1218,7 +1218,7 @@
     },
     {
       "code": "13b37",
-      "id": "d5e6b222-bae1-4363-a0bd-31d0394856bf",
+      "id": "2f54327d-4db7-4bb1-9045-b53826ca5a55",
       "name": "folder-remove",
       "css": "folder-remove",
       "cat": "duotone-icon",
@@ -1227,7 +1227,7 @@
     },
     {
       "code": "13b38",
-      "id": "949ca0dd-585a-4892-8760-9655705299da",
+      "id": "9949f4dd-2e5e-45a2-8e2f-9fe6429e45e3",
       "name": "gift-secondary",
       "css": "gift",
       "cat": "duotone-icon",
@@ -1236,7 +1236,7 @@
     },
     {
       "code": "13b39",
-      "id": "ee41dcd6-54d9-417d-b272-660d7355df38",
+      "id": "b7ed9a70-4d8a-48b9-8bb9-0103a777812a",
       "name": "gift",
       "css": "gift",
       "cat": "duotone-icon",
@@ -1245,7 +1245,7 @@
     },
     {
       "code": "13b3a",
-      "id": "9cb49a99-c04d-4929-a2bf-4d2cde88ada7",
+      "id": "dd98aaec-3e23-466f-ba09-38da39b7c989",
       "name": "grayscale-secondary",
       "css": "grayscale",
       "cat": "duotone-icon",
@@ -1254,7 +1254,7 @@
     },
     {
       "code": "13b3b",
-      "id": "e581407d-b129-4041-9219-82a25006d826",
+      "id": "81dd0783-7008-44c9-860b-c14b9ed2b5aa",
       "name": "grayscale",
       "css": "grayscale",
       "cat": "duotone-icon",
@@ -1263,7 +1263,7 @@
     },
     {
       "code": "13b3c",
-      "id": "88e71b6f-08a4-4696-8cba-ce51c0a4d9d3",
+      "id": "fd288ca1-a448-43c1-9713-bc30e20845e9",
       "name": "grid-advance-secondary",
       "css": "grid-advance",
       "cat": "duotone-icon",
@@ -1272,7 +1272,7 @@
     },
     {
       "code": "13b3d",
-      "id": "96b0837f-2c58-4eaa-8e07-44fc5bb7db46",
+      "id": "e446b9cc-80c1-47f7-85fc-7bd33207ca41",
       "name": "grid-advance",
       "css": "grid-advance",
       "cat": "duotone-icon",
@@ -1281,7 +1281,7 @@
     },
     {
       "code": "13b3e",
-      "id": "7387f351-ddd9-4b90-9e1f-c3202b049913",
+      "id": "a91683d8-4ed5-42d5-babc-d12967d58127",
       "name": "groups-secondary",
       "css": "groups",
       "cat": "duotone-icon",
@@ -1290,7 +1290,7 @@
     },
     {
       "code": "13b3f",
-      "id": "87c3ae72-7b96-48e2-9fbd-4f887290771e",
+      "id": "5a53e8ec-149d-4bdd-8300-3ac01ffeda27",
       "name": "groups",
       "css": "groups",
       "cat": "duotone-icon",
@@ -1299,7 +1299,7 @@
     },
     {
       "code": "13b40",
-      "id": "0cfbf482-281a-4dbe-8774-00544c026b33",
+      "id": "8672a53e-57a9-4ccb-b362-288b5662e0d3",
       "name": "home-secondary",
       "css": "home",
       "cat": "duotone-icon",
@@ -1308,7 +1308,7 @@
     },
     {
       "code": "13b41",
-      "id": "c8ab9431-e4eb-41fe-9105-6df36da6affc",
+      "id": "9abb2d70-c587-4f78-8e72-dc32e4b6597e",
       "name": "home",
       "css": "home",
       "cat": "duotone-icon",
@@ -1317,7 +1317,7 @@
     },
     {
       "code": "13b42",
-      "id": "69d0b349-561b-418b-b88d-e0a6e42a7e16",
+      "id": "44794ceb-e4c7-437b-8cba-82bc77869ed3",
       "name": "increase-secondary",
       "css": "increase",
       "cat": "duotone-icon",
@@ -1326,7 +1326,7 @@
     },
     {
       "code": "13b43",
-      "id": "5fc2c54d-25f4-49da-9a59-b355449860e1",
+      "id": "7fb02755-9d26-4379-8379-31ad12519a60",
       "name": "increase",
       "css": "increase",
       "cat": "duotone-icon",
@@ -1335,7 +1335,7 @@
     },
     {
       "code": "13b44",
-      "id": "987c80d4-8df9-4b21-8d5e-71363ea86eda",
+      "id": "70ce98c9-c90c-452a-8c8e-f173d5c5d1ae",
       "name": "info-circle-secondary",
       "css": "info-circle",
       "cat": "duotone-icon",
@@ -1344,7 +1344,7 @@
     },
     {
       "code": "13b45",
-      "id": "af95956b-2cae-4d5a-8fad-54162ef4098a",
+      "id": "af87018a-ff09-4195-819f-8cae69892141",
       "name": "info-circle",
       "css": "info-circle",
       "cat": "duotone-icon",
@@ -1353,7 +1353,7 @@
     },
     {
       "code": "13b46",
-      "id": "e32cc3ab-7c5e-4ee3-8785-e400ff3f7367",
+      "id": "b7f499af-ebfc-4598-9398-89ce260f2f37",
       "name": "info-secondary",
       "css": "info",
       "cat": "duotone-icon",
@@ -1362,7 +1362,7 @@
     },
     {
       "code": "13b47",
-      "id": "0a22f9c4-51cd-447e-828f-ffba1d030268",
+      "id": "d974e8f8-1c17-4536-8589-253f2024754c",
       "name": "info",
       "css": "info",
       "cat": "duotone-icon",
@@ -1371,7 +1371,7 @@
     },
     {
       "code": "13b48",
-      "id": "5215dc36-d13e-4834-a6ed-06c87738d803",
+      "id": "cb159df6-0f0e-4cb1-b6cf-05bd4fefd06c",
       "name": "lamp-secondary",
       "css": "lamp",
       "cat": "duotone-icon",
@@ -1380,7 +1380,7 @@
     },
     {
       "code": "13b49",
-      "id": "e452effc-bfc7-4271-86ac-6c94b5fefed0",
+      "id": "a6786d1c-d354-48b2-9c69-4a5b6162ec89",
       "name": "lamp",
       "css": "lamp",
       "cat": "duotone-icon",
@@ -1389,7 +1389,7 @@
     },
     {
       "code": "13b4a",
-      "id": "aeb1e3d5-15a9-4da9-8265-0dc3b10925a3",
+      "id": "9cb6fadb-c469-40db-9192-851a21afcd88",
       "name": "last-secondary",
       "css": "last",
       "cat": "duotone-icon",
@@ -1398,7 +1398,7 @@
     },
     {
       "code": "13b4b",
-      "id": "3c90df10-fe95-4680-9f9c-22b45954c0a2",
+      "id": "35b9d8c1-822d-47b8-a4c4-a456157d179f",
       "name": "last",
       "css": "last",
       "cat": "duotone-icon",
@@ -1407,7 +1407,7 @@
     },
     {
       "code": "13b4c",
-      "id": "8c4cfe32-00c9-4ee2-9bf2-e1f5eb13ffe9",
+      "id": "16790b3b-e4dd-46d5-9db6-ef3f05a26b17",
       "name": "learn-secondary",
       "css": "learn",
       "cat": "duotone-icon",
@@ -1416,7 +1416,7 @@
     },
     {
       "code": "13b4d",
-      "id": "612fd921-f7e4-4304-8679-80b66ea27fee",
+      "id": "41c9adb9-6aa4-4710-a486-c929eedbe5d0",
       "name": "learn",
       "css": "learn",
       "cat": "duotone-icon",
@@ -1425,7 +1425,7 @@
     },
     {
       "code": "13b4e",
-      "id": "65f57e47-e705-4623-80b1-d85a8d0938a7",
+      "id": "1b4aa76e-a095-4d28-a08e-b81059bbc53e",
       "name": "link-secondary",
       "css": "link",
       "cat": "duotone-icon",
@@ -1434,7 +1434,7 @@
     },
     {
       "code": "13b4f",
-      "id": "e3e94b8d-86e4-45a3-8150-72732888e1b1",
+      "id": "0c4f1a28-0d2c-4b3e-9d32-511ab3925667",
       "name": "link",
       "css": "link",
       "cat": "duotone-icon",
@@ -1443,7 +1443,7 @@
     },
     {
       "code": "13b50",
-      "id": "5664e52a-ecac-4fbe-8636-d0bb2b98e1e0",
+      "id": "bc02c446-4dd2-4dbe-bc3a-6117cdcca7a8",
       "name": "list-secondary",
       "css": "list",
       "cat": "duotone-icon",
@@ -1452,7 +1452,7 @@
     },
     {
       "code": "13b51",
-      "id": "04bb0965-30a4-4cea-a646-4651bcd84e1b",
+      "id": "8b90538b-c025-4372-98a9-9fa5dd192d3f",
       "name": "list-thin-secondary",
       "css": "list-thin",
       "cat": "duotone-icon",
@@ -1461,7 +1461,7 @@
     },
     {
       "code": "13b52",
-      "id": "8cca8330-b2fb-4247-9dbe-fbf4a67d6613",
+      "id": "3348b990-929d-4d7f-ac1c-2306cb5f3b81",
       "name": "list-thin",
       "css": "list-thin",
       "cat": "duotone-icon",
@@ -1470,7 +1470,7 @@
     },
     {
       "code": "13b53",
-      "id": "7deebb2c-6fb9-4785-8d24-4f7aa03046ca",
+      "id": "921fb564-52aa-4d84-b88a-90a6e0cef603",
       "name": "list",
       "css": "list",
       "cat": "duotone-icon",
@@ -1479,7 +1479,7 @@
     },
     {
       "code": "13b54",
-      "id": "9b3348a6-a137-4262-bf48-33a578078e9f",
+      "id": "926537ca-7bf4-48e5-ae40-45a0eb772491",
       "name": "location-alt-secondary",
       "css": "location-alt",
       "cat": "duotone-icon",
@@ -1488,7 +1488,7 @@
     },
     {
       "code": "13b55",
-      "id": "a8476ef5-6b91-4bec-96c7-504fdbf63992",
+      "id": "3aeb2da5-ab26-4d7a-961a-1b369f258ca3",
       "name": "location-alt",
       "css": "location-alt",
       "cat": "duotone-icon",
@@ -1497,7 +1497,7 @@
     },
     {
       "code": "13b56",
-      "id": "41165fa0-e34f-4957-99c6-390491e30c60",
+      "id": "07ea44a2-8e0d-43fb-a1fa-303677e9e202",
       "name": "location-secondary",
       "css": "location",
       "cat": "duotone-icon",
@@ -1506,7 +1506,7 @@
     },
     {
       "code": "13b57",
-      "id": "7d809b43-60a4-4c89-a58f-93ddd7ed5072",
+      "id": "52f75266-0dbb-49a3-b843-80739563d7ee",
       "name": "location",
       "css": "location",
       "cat": "duotone-icon",
@@ -1515,7 +1515,7 @@
     },
     {
       "code": "13b58",
-      "id": "4e51abd9-d637-4572-8964-d3f7ea04406b",
+      "id": "86548174-759d-46f2-8068-10392100cc81",
       "name": "lock-secondary",
       "css": "lock",
       "cat": "duotone-icon",
@@ -1524,7 +1524,7 @@
     },
     {
       "code": "13b59",
-      "id": "0ca3832c-6a3b-446f-95e4-e5068151a90c",
+      "id": "661107ef-9f2b-45bf-8d76-e7b04ad38d53",
       "name": "lock",
       "css": "lock",
       "cat": "duotone-icon",
@@ -1533,7 +1533,7 @@
     },
     {
       "code": "13b5a",
-      "id": "b496c7ed-065e-4c8b-9105-f3b1d2a5a139",
+      "id": "8b7d3eba-d971-4efb-9426-61b43880b78e",
       "name": "loop-secondary",
       "css": "loop",
       "cat": "duotone-icon",
@@ -1542,7 +1542,7 @@
     },
     {
       "code": "13b5b",
-      "id": "107a27d2-ad92-4c6e-8bd6-bbc6c083582c",
+      "id": "eb4ca05d-9633-409f-a0ee-8a17ae8c4ae3",
       "name": "loop",
       "css": "loop",
       "cat": "duotone-icon",
@@ -1551,7 +1551,7 @@
     },
     {
       "code": "13b5c",
-      "id": "f742df1d-2cae-4dba-a595-e988eebb9ea8",
+      "id": "1309db42-e931-4e02-8db8-210cf628c10b",
       "name": "manage-secondary",
       "css": "manage",
       "cat": "duotone-icon",
@@ -1560,7 +1560,7 @@
     },
     {
       "code": "13b5d",
-      "id": "2dc2c69c-0c4c-476e-857c-e5ac65fd49ab",
+      "id": "37d34a1b-4c78-4457-a6c0-ca6d6fe37d9b",
       "name": "manage-user-secondary",
       "css": "manage-user",
       "cat": "duotone-icon",
@@ -1569,7 +1569,7 @@
     },
     {
       "code": "13b5e",
-      "id": "6526269d-8394-494b-99f7-6ea5c54f9952",
+      "id": "1c824ad4-b882-4c6a-90b2-9c443d5b43d8",
       "name": "manage-user",
       "css": "manage-user",
       "cat": "duotone-icon",
@@ -1578,7 +1578,7 @@
     },
     {
       "code": "13b5f",
-      "id": "e413c0d2-b173-46f2-83d7-c44682e5b034",
+      "id": "b8e23831-b0fa-4ef1-9a9e-8b0894664286",
       "name": "manage",
       "css": "manage",
       "cat": "duotone-icon",
@@ -1587,7 +1587,7 @@
     },
     {
       "code": "13b60",
-      "id": "0a68becb-bbe2-4df9-ab31-48a64f563d5d",
+      "id": "49c534b1-1a16-4781-b2cf-6523fdf70832",
       "name": "mass-mail-secondary",
       "css": "mass-mail",
       "cat": "duotone-icon",
@@ -1596,7 +1596,7 @@
     },
     {
       "code": "13b61",
-      "id": "90903232-62fd-4f09-8477-20087d4b6613",
+      "id": "df80a427-e652-4a93-9f85-8f9e34370795",
       "name": "mass-mail",
       "css": "mass-mail",
       "cat": "duotone-icon",
@@ -1605,7 +1605,7 @@
     },
     {
       "code": "13b62",
-      "id": "bb52c291-8b37-4551-8e9c-b68351b2b1d6",
+      "id": "8d5ec076-6e8e-4025-b4ad-690e8d760efc",
       "name": "media-secondary",
       "css": "media",
       "cat": "duotone-icon",
@@ -1614,7 +1614,7 @@
     },
     {
       "code": "13b63",
-      "id": "f444f01f-8b50-4538-9670-a6889e55f160",
+      "id": "90ef6a53-e672-4664-9f81-33e50dd653a9",
       "name": "media",
       "css": "media",
       "cat": "duotone-icon",
@@ -1623,7 +1623,7 @@
     },
     {
       "code": "13b64",
-      "id": "810a6118-f003-48a3-8b91-b2728ab11e77",
+      "id": "d8a4e992-6e40-4b67-9520-8f1d763b78b5",
       "name": "menu-secondary",
       "css": "menu",
       "cat": "duotone-icon",
@@ -1632,7 +1632,7 @@
     },
     {
       "code": "13b65",
-      "id": "d4d2362a-4db7-42b9-9b60-36acdc1fb32b",
+      "id": "e3f9e989-d22e-4083-bd3b-de3b3c9337b7",
       "name": "menu",
       "css": "menu",
       "cat": "duotone-icon",
@@ -1641,7 +1641,7 @@
     },
     {
       "code": "13b66",
-      "id": "5da31ffe-24c2-4263-9ab7-17e0a7661423",
+      "id": "d762a214-c4fd-4262-98ec-39a6f0cc2705",
       "name": "messaging-secondary",
       "css": "messaging",
       "cat": "duotone-icon",
@@ -1650,7 +1650,7 @@
     },
     {
       "code": "13b67",
-      "id": "0ff745e3-57ba-4a22-97ff-25422719f54a",
+      "id": "f89151eb-ea3b-4c4c-9de6-32355cc056f8",
       "name": "messaging",
       "css": "messaging",
       "cat": "duotone-icon",
@@ -1659,7 +1659,7 @@
     },
     {
       "code": "13b68",
-      "id": "895d7738-e48f-4382-8695-6d7aedcf1c89",
+      "id": "d3803690-d267-49f8-8812-cf19a5c0c7e0",
       "name": "modules-secondary",
       "css": "modules",
       "cat": "duotone-icon",
@@ -1668,7 +1668,7 @@
     },
     {
       "code": "13b69",
-      "id": "817be440-55af-46d1-bfc3-401a8bf88338",
+      "id": "677548e2-9fe6-4a07-b7a2-a2b9343e288f",
       "name": "modules",
       "css": "modules",
       "cat": "duotone-icon",
@@ -1677,7 +1677,7 @@
     },
     {
       "code": "13b6a",
-      "id": "50b987d4-5cd8-47f0-80f0-bde89875e7de",
+      "id": "08058e2d-c853-4bf3-a736-06ac15529e31",
       "name": "mouse-pointer-highlighter-secondary",
       "css": "mouse-pointer-highlighter",
       "cat": "duotone-icon",
@@ -1686,7 +1686,7 @@
     },
     {
       "code": "13b6b",
-      "id": "1d8e1a06-a975-4a19-9fa0-096d4723b942",
+      "id": "bd9da51b-d314-452b-9bd1-d97b99ff690a",
       "name": "mouse-pointer-highlighter",
       "css": "mouse-pointer-highlighter",
       "cat": "duotone-icon",
@@ -1695,7 +1695,7 @@
     },
     {
       "code": "13b6c",
-      "id": "812a3528-be04-44e8-97c7-5e04bd023695",
+      "id": "dfd88eff-f27e-442b-8b38-a34a6461a6b1",
       "name": "move-secondary",
       "css": "move",
       "cat": "duotone-icon",
@@ -1704,7 +1704,7 @@
     },
     {
       "code": "13b6d",
-      "id": "87dfd6eb-55c7-4655-8775-24ab99f484be",
+      "id": "0c5d6ebf-ef88-4265-b939-43ab7d8d9f0c",
       "name": "move",
       "css": "move",
       "cat": "duotone-icon",
@@ -1713,7 +1713,7 @@
     },
     {
       "code": "13b6e",
-      "id": "b4fa9906-5d89-4a55-b0c5-e3a571085dd0",
+      "id": "41418103-addd-4d84-a0d2-b5508d748830",
       "name": "multilingual-secondary",
       "css": "multilingual",
       "cat": "duotone-icon",
@@ -1722,7 +1722,7 @@
     },
     {
       "code": "13b6f",
-      "id": "ba67466a-3c3b-42a5-a91f-f657a1cd4e56",
+      "id": "ae4a2934-f20e-49de-af57-61f0e108a2f6",
       "name": "multilingual",
       "css": "multilingual",
       "cat": "duotone-icon",
@@ -1731,7 +1731,7 @@
     },
     {
       "code": "13b70",
-      "id": "dc57e7ef-0bd8-48fa-86fb-c3f72773d1b3",
+      "id": "bceb9269-b858-4dbd-81b5-d18a509e2d75",
       "name": "new-tab-alt-secondary",
       "css": "new-tab-alt",
       "cat": "duotone-icon",
@@ -1740,7 +1740,7 @@
     },
     {
       "code": "13b71",
-      "id": "38d5da0f-f4ce-4634-81c2-7c3b4da8def9",
+      "id": "fb62f03e-ac7e-4814-b708-c714423dfd55",
       "name": "new-tab-alt",
       "css": "new-tab-alt",
       "cat": "duotone-icon",
@@ -1749,7 +1749,7 @@
     },
     {
       "code": "13b72",
-      "id": "32be3d03-aef5-4983-b034-271f00eecff8",
+      "id": "d36fc0d2-9aec-4b20-b656-d47f609e9ba4",
       "name": "next-secondary",
       "css": "next",
       "cat": "duotone-icon",
@@ -1758,7 +1758,7 @@
     },
     {
       "code": "13b73",
-      "id": "bcfd4e69-773a-485b-9675-51edc048ceaa",
+      "id": "c5c82f6b-f452-4ad1-acd7-643a509ae75d",
       "name": "next",
       "css": "next",
       "cat": "duotone-icon",
@@ -1767,7 +1767,7 @@
     },
     {
       "code": "13b74",
-      "id": "6a761523-f2c9-4c95-9640-497c59953192",
+      "id": "c9578c58-2365-495e-922b-b070e176717b",
       "name": "notification-circle-secondary",
       "css": "notification-circle",
       "cat": "duotone-icon",
@@ -1776,7 +1776,7 @@
     },
     {
       "code": "13b75",
-      "id": "04eb2e5c-cb60-40a8-99d8-c2694af910b0",
+      "id": "38e51e96-b8cd-4d53-833c-8e52cc2b8ab7",
       "name": "notification-circle",
       "css": "notification-circle",
       "cat": "duotone-icon",
@@ -1785,7 +1785,7 @@
     },
     {
       "code": "13b76",
-      "id": "f1b22f10-0e48-4eed-92f3-24b311f7192a",
+      "id": "e1e24b2a-9f35-46b1-b208-0d83b4b866d7",
       "name": "notification-secondary",
       "css": "notification",
       "cat": "duotone-icon",
@@ -1794,7 +1794,7 @@
     },
     {
       "code": "13b77",
-      "id": "8c7a41e6-a982-4af8-92df-c694481ebfaa",
+      "id": "93f80a7a-6850-4c49-9443-d9c9d00eaff4",
       "name": "notification",
       "css": "notification",
       "cat": "duotone-icon",
@@ -1803,7 +1803,7 @@
     },
     {
       "code": "13b78",
-      "id": "b32e2913-c36d-435e-a5fd-98882835c8f4",
+      "id": "781d1318-95d3-482b-a72a-99fef888fe5a",
       "name": "paint-brush-secondary",
       "css": "paint-brush",
       "cat": "duotone-icon",
@@ -1812,7 +1812,7 @@
     },
     {
       "code": "13b79",
-      "id": "ff992d94-e7b8-442e-b5a1-109b2fddaf43",
+      "id": "89d369f0-5dc1-43a8-bd63-039055151b95",
       "name": "paint-brush",
       "css": "paint-brush",
       "cat": "duotone-icon",
@@ -1821,7 +1821,7 @@
     },
     {
       "code": "13b7a",
-      "id": "498bfed4-b78b-4bb4-b4ed-5d4712f66525",
+      "id": "e2815844-78f3-4271-8a28-f3186c249c90",
       "name": "pause-secondary",
       "css": "pause",
       "cat": "duotone-icon",
@@ -1830,7 +1830,7 @@
     },
     {
       "code": "13b7b",
-      "id": "fab81639-316d-44a5-8b5f-73d3c6aa3244",
+      "id": "7d66fdc9-0617-4e12-bb6b-59251c58b61e",
       "name": "pause",
       "css": "pause",
       "cat": "duotone-icon",
@@ -1839,7 +1839,7 @@
     },
     {
       "code": "13b7c",
-      "id": "9db3f07f-964b-4ba9-90fb-7b9ffd7cc63f",
+      "id": "e6f0b1d4-fcae-40ae-949d-bf802ca1ebf5",
       "name": "pencil-secondary",
       "css": "pencil",
       "cat": "duotone-icon",
@@ -1848,7 +1848,7 @@
     },
     {
       "code": "13b7d",
-      "id": "a93d9036-47dc-4d5c-9f12-f1b7219ed89d",
+      "id": "b35b25ad-faa4-451c-8871-f7d8c702b0d2",
       "name": "pencil",
       "css": "pencil",
       "cat": "duotone-icon",
@@ -1857,7 +1857,7 @@
     },
     {
       "code": "13b7e",
-      "id": "ac2b0ba8-b0b5-44f0-b0bd-8a303878912d",
+      "id": "fe4463a4-c502-45dc-b3a6-62fc97105997",
       "name": "phone-secondary",
       "css": "phone",
       "cat": "duotone-icon",
@@ -1866,7 +1866,7 @@
     },
     {
       "code": "13b7f",
-      "id": "b155c93e-61e3-4c2a-b6d2-ad7abb93762c",
+      "id": "3be35412-747b-47a3-85ff-ab987a0bbbc1",
       "name": "phone",
       "css": "phone",
       "cat": "duotone-icon",
@@ -1875,7 +1875,7 @@
     },
     {
       "code": "13b80",
-      "id": "e723d983-4a43-4790-a2bf-ff43a9b20b57",
+      "id": "7a835f62-917c-482e-ba37-7b2dea2d1c17",
       "name": "pictures-secondary",
       "css": "pictures",
       "cat": "duotone-icon",
@@ -1884,7 +1884,7 @@
     },
     {
       "code": "13b81",
-      "id": "6112fc59-ba61-4289-b551-d6c5b0a2a19f",
+      "id": "ee1c3007-2907-4b67-906d-f6c5a963f59b",
       "name": "pictures",
       "css": "pictures",
       "cat": "duotone-icon",
@@ -1893,7 +1893,7 @@
     },
     {
       "code": "13b82",
-      "id": "39ef7414-8b87-4cd5-aea5-cebd45ec34fb",
+      "id": "ea50f63d-92ae-4db8-b8a7-f81e5c5cd19d",
       "name": "pie-secondary",
       "css": "pie",
       "cat": "duotone-icon",
@@ -1902,7 +1902,7 @@
     },
     {
       "code": "13b83",
-      "id": "702c5695-1dd9-4509-8cb7-51ef15d3e12b",
+      "id": "0b754d51-6d41-4659-ad2e-c1898eeff4cc",
       "name": "pie",
       "css": "pie",
       "cat": "duotone-icon",
@@ -1911,7 +1911,7 @@
     },
     {
       "code": "13b84",
-      "id": "204aa2d2-db28-417b-8ec5-e20ade502613",
+      "id": "d04e56a0-27b1-43d4-b89e-058b9080bb7e",
       "name": "pin-secondary",
       "css": "pin",
       "cat": "duotone-icon",
@@ -1920,7 +1920,7 @@
     },
     {
       "code": "13b85",
-      "id": "5409ce12-589d-4b97-b866-9004afb68d62",
+      "id": "67d0cf33-c519-4f01-825d-2a467a52ae55",
       "name": "pin",
       "css": "pin",
       "cat": "duotone-icon",
@@ -1929,7 +1929,7 @@
     },
     {
       "code": "13b86",
-      "id": "fdcf1504-72f5-4529-b41a-bd75af3fd7e3",
+      "id": "e6700836-0729-49f0-9f65-d3157c0c3724",
       "name": "play-circle-secondary",
       "css": "play-circle",
       "cat": "duotone-icon",
@@ -1938,7 +1938,7 @@
     },
     {
       "code": "13b87",
-      "id": "2fd57086-1e40-4130-b232-63ba45a8fec8",
+      "id": "6c4ebad6-d94b-472d-8600-150e3d7317b1",
       "name": "play-circle",
       "css": "play-circle",
       "cat": "duotone-icon",
@@ -1947,7 +1947,7 @@
     },
     {
       "code": "13b88",
-      "id": "d3036c42-7c3c-41a6-ab1c-e8a2462b8a48",
+      "id": "b2bd2918-5c57-4558-a4ee-17a327220157",
       "name": "plugins-secondary",
       "css": "plugins",
       "cat": "duotone-icon",
@@ -1956,7 +1956,7 @@
     },
     {
       "code": "13b89",
-      "id": "a937d8de-622b-4ba1-941f-8337065f1e27",
+      "id": "46ae5394-dac8-47bd-940e-ab314986e16f",
       "name": "plugins",
       "css": "plugins",
       "cat": "duotone-icon",
@@ -1965,7 +1965,7 @@
     },
     {
       "code": "13b8a",
-      "id": "9b7518c6-bd83-4a73-8e0c-e3016b9baa95",
+      "id": "2a11fbb6-a337-48b6-a37e-38a7d425a60e",
       "name": "plus-circle-secondary",
       "css": "plus-circle",
       "cat": "duotone-icon",
@@ -1974,7 +1974,7 @@
     },
     {
       "code": "13b8b",
-      "id": "e8613717-09d0-474e-bce9-b162ff695f24",
+      "id": "b2754cf2-e3aa-4fb1-86cc-9287f4b4cc10",
       "name": "plus-circle",
       "css": "plus-circle",
       "cat": "duotone-icon",
@@ -1983,7 +1983,7 @@
     },
     {
       "code": "13b8c",
-      "id": "69243e22-faf5-49c1-93e2-1ce6f25499a9",
+      "id": "d67bc95d-2365-497f-b196-48d609f1586f",
       "name": "previous-secondary",
       "css": "previous",
       "cat": "duotone-icon",
@@ -1992,7 +1992,7 @@
     },
     {
       "code": "13b8d",
-      "id": "f35271ec-0efa-422e-87c6-50ebf0290f98",
+      "id": "5c04b1b2-cf5b-4515-850c-f477111bd0d8",
       "name": "previous",
       "css": "previous",
       "cat": "duotone-icon",
@@ -2001,7 +2001,7 @@
     },
     {
       "code": "13b8e",
-      "id": "a7e2098b-661d-4107-897d-19b2f93b771b",
+      "id": "decda3df-1a1d-465d-bb65-2568b4503fc9",
       "name": "print-secondary",
       "css": "print",
       "cat": "duotone-icon",
@@ -2010,7 +2010,7 @@
     },
     {
       "code": "13b8f",
-      "id": "0e3e6a8f-0da6-4f54-b346-5aaddd320ba3",
+      "id": "6034290c-2b4f-430e-8405-ecab16b5489f",
       "name": "print",
       "css": "print",
       "cat": "duotone-icon",
@@ -2019,7 +2019,7 @@
     },
     {
       "code": "13b90",
-      "id": "8a6fb5ad-b63a-4cb3-97ee-678a379f3846",
+      "id": "60406e4d-691d-446f-80aa-4a7c382464b1",
       "name": "privacy-secondary",
       "css": "privacy",
       "cat": "duotone-icon",
@@ -2028,7 +2028,7 @@
     },
     {
       "code": "13b91",
-      "id": "13e2af47-d32b-41f2-90ce-dd4968ddba78",
+      "id": "c63b5817-a104-4bc1-8c35-08c0fe0e84e0",
       "name": "privacy",
       "css": "privacy",
       "cat": "duotone-icon",
@@ -2037,7 +2037,7 @@
     },
     {
       "code": "13b92",
-      "id": "7b46500b-2e1a-4cc4-b505-e8831c4c8834",
+      "id": "b552c471-76b9-43c3-8eb8-f9d627518310",
       "name": "publish-secondary",
       "css": "publish",
       "cat": "duotone-icon",
@@ -2046,7 +2046,7 @@
     },
     {
       "code": "13b93",
-      "id": "c6cf45a5-e650-48a7-ba2e-5157f610fb96",
+      "id": "d1d2647e-2551-4cac-87f0-5ce126bcc9a6",
       "name": "publish",
       "css": "publish",
       "cat": "duotone-icon",
@@ -2055,7 +2055,7 @@
     },
     {
       "code": "13b94",
-      "id": "c4177dd5-82a9-4fe0-8b77-6ca4ee52c86a",
+      "id": "42cbf78a-b756-4823-9d07-45a784761982",
       "name": "purge-secondary",
       "css": "purge",
       "cat": "duotone-icon",
@@ -2064,7 +2064,7 @@
     },
     {
       "code": "13b95",
-      "id": "79d5dd44-5786-44ef-87f8-5bdd5e31bf34",
+      "id": "a77e2331-97eb-41ab-a4d7-4d603b0a36e3",
       "name": "purge",
       "css": "purge",
       "cat": "duotone-icon",
@@ -2073,7 +2073,7 @@
     },
     {
       "code": "13b96",
-      "id": "ee3b2607-d219-423c-8c84-e3ea201b2d06",
+      "id": "bc094aed-786b-4146-8b16-2511075db1ec",
       "name": "question-sign-circle-secondary",
       "css": "question-sign-circle",
       "cat": "duotone-icon",
@@ -2082,7 +2082,7 @@
     },
     {
       "code": "13b97",
-      "id": "20eaeae0-3865-4c23-94b1-bc4d3758ab79",
+      "id": "715f6617-b05f-463a-a72f-37671ff76c3c",
       "name": "question-sign-circle",
       "css": "question-sign-circle",
       "cat": "duotone-icon",
@@ -2091,7 +2091,7 @@
     },
     {
       "code": "13b98",
-      "id": "d1eb9af5-11f9-4e98-aea5-d922beb193b3",
+      "id": "7611f5f2-6776-4f92-8add-63bb7975247a",
       "name": "quote-left-secondary",
       "css": "quote-left",
       "cat": "duotone-icon",
@@ -2100,7 +2100,7 @@
     },
     {
       "code": "13b99",
-      "id": "2785df97-f3ca-430d-951f-22aacdf576da",
+      "id": "b48ffa7a-d83c-4331-bf22-38046de65ca4",
       "name": "quote-left",
       "css": "quote-left",
       "cat": "duotone-icon",
@@ -2109,7 +2109,7 @@
     },
     {
       "code": "13b9a",
-      "id": "c5764b0b-774a-4f10-917f-c0a32543b7a8",
+      "id": "228a0c3d-b786-40b7-8e50-d7890f5e4b7e",
       "name": "quote-right-secondary",
       "css": "quote-right",
       "cat": "duotone-icon",
@@ -2118,7 +2118,7 @@
     },
     {
       "code": "13b9b",
-      "id": "c87f9d06-7740-460b-8ebb-430912f7c03c",
+      "id": "8389d1ea-5697-4ad9-a84e-0a22a8ad88ac",
       "name": "quote-right",
       "css": "quote-right",
       "cat": "duotone-icon",
@@ -2127,7 +2127,7 @@
     },
     {
       "code": "13b9c",
-      "id": "13a6988c-ccb9-4f7f-9a3e-a8965947c881",
+      "id": "2519795e-8199-4e50-84ba-7f3a13411351",
       "name": "radio-checked-secondary",
       "css": "radio-checked",
       "cat": "duotone-icon",
@@ -2136,7 +2136,7 @@
     },
     {
       "code": "13b9d",
-      "id": "59dc300f-53f3-4f73-956f-b7b89df02ec3",
+      "id": "f299eb02-0727-4a19-bb5b-8bfd288abc84",
       "name": "radio-checked",
       "css": "radio-checked",
       "cat": "duotone-icon",
@@ -2145,7 +2145,7 @@
     },
     {
       "code": "13b9e",
-      "id": "d13ffcde-8fee-455b-90e3-fd00105bad50",
+      "id": "1d8aad31-4c9a-46c6-9e10-618003d9d151",
       "name": "rebuild-secondary",
       "css": "rebuild",
       "cat": "duotone-icon",
@@ -2154,7 +2154,7 @@
     },
     {
       "code": "13b9f",
-      "id": "3b136a86-7994-4169-91a8-14ceba6ee89d",
+      "id": "69e66377-7b83-4b68-8665-b48195a5cb3c",
       "name": "rebuild",
       "css": "rebuild",
       "cat": "duotone-icon",
@@ -2163,7 +2163,7 @@
     },
     {
       "code": "13ba0",
-      "id": "b25f9555-258b-4b24-89e9-7fa3af71aa8e",
+      "id": "6b2496b3-ebfa-4a23-a7e0-b158790cbde9",
       "name": "repeat-secondary",
       "css": "repeat",
       "cat": "duotone-icon",
@@ -2172,7 +2172,7 @@
     },
     {
       "code": "13ba1",
-      "id": "dd62a627-bf2b-4431-b3f8-df9f18a172d7",
+      "id": "bc89c7dc-6de1-47ec-913c-5a63bcaaec58",
       "name": "repeat",
       "css": "repeat",
       "cat": "duotone-icon",
@@ -2181,7 +2181,7 @@
     },
     {
       "code": "13ba2",
-      "id": "4f69713d-2666-41f2-ac53-9f7c1057102b",
+      "id": "eb5d46fb-f73b-4dd0-81d8-bb712ec66fb9",
       "name": "reply-secondary",
       "css": "reply",
       "cat": "duotone-icon",
@@ -2190,7 +2190,7 @@
     },
     {
       "code": "13ba3",
-      "id": "9187d2f9-1df0-4b4c-9248-5b9f4e0619af",
+      "id": "dd1574d3-eec3-4cb7-830a-bbbc78d998fa",
       "name": "reply",
       "css": "reply",
       "cat": "duotone-icon",
@@ -2199,7 +2199,7 @@
     },
     {
       "code": "13ba4",
-      "id": "4e961fab-a0bf-4414-8bfa-2e8747ec3ba9",
+      "id": "d0d1b6ff-3dec-4104-921e-159b1096e715",
       "name": "save-secondary",
       "css": "save",
       "cat": "duotone-icon",
@@ -2208,7 +2208,7 @@
     },
     {
       "code": "13ba5",
-      "id": "5ad27417-9acf-428b-b083-74a0b2809cbd",
+      "id": "1dfa9957-f115-47ae-9be4-12fe11f29e44",
       "name": "save",
       "css": "save",
       "cat": "duotone-icon",
@@ -2217,7 +2217,7 @@
     },
     {
       "code": "13ba6",
-      "id": "0857a7d0-4ad6-4700-9f18-a029aac2333c",
+      "id": "e1bbe258-64a9-4611-8e1c-25c0d7d3dbbe",
       "name": "scissors-secondary",
       "css": "scissors",
       "cat": "duotone-icon",
@@ -2226,7 +2226,7 @@
     },
     {
       "code": "13ba7",
-      "id": "83643fd1-7b46-42d5-bc0e-b8b55311be28",
+      "id": "4c89d0d3-825b-4aa9-ad8e-137637d092de",
       "name": "scissors",
       "css": "scissors",
       "cat": "duotone-icon",
@@ -2235,7 +2235,7 @@
     },
     {
       "code": "13ba8",
-      "id": "91575f28-3c8b-46bc-bca3-73e2dcde9370",
+      "id": "4c8431c5-30b9-4b9d-91e3-234f8956361f",
       "name": "screen-secondary",
       "css": "screen",
       "cat": "duotone-icon",
@@ -2244,7 +2244,7 @@
     },
     {
       "code": "13ba9",
-      "id": "b069e3e7-d20d-4e4a-b832-7f5d5698c0f6",
+      "id": "94589188-ed6d-4d67-b420-ca5863b94305",
       "name": "screen",
       "css": "screen",
       "cat": "duotone-icon",
@@ -2253,7 +2253,7 @@
     },
     {
       "code": "13baa",
-      "id": "040c7ca1-c891-4f91-93db-c890242a8c94",
+      "id": "d0dbc797-b373-4997-b1be-dd5cf76dbd61",
       "name": "screwdriver-secondary",
       "css": "screwdriver",
       "cat": "duotone-icon",
@@ -2262,7 +2262,7 @@
     },
     {
       "code": "13bab",
-      "id": "445f67b3-61fa-40e8-b824-335282834c21",
+      "id": "bc19473a-bd7c-4ad4-8963-15afea09d3fa",
       "name": "screwdriver",
       "css": "screwdriver",
       "cat": "duotone-icon",
@@ -2271,7 +2271,7 @@
     },
     {
       "code": "13bac",
-      "id": "250d3a0b-0f45-4540-851f-2c11b0a4c7c0",
+      "id": "7699d297-0ff5-43f8-be8b-1c777317529f",
       "name": "share-alt-secondary",
       "css": "share-alt",
       "cat": "duotone-icon",
@@ -2280,7 +2280,7 @@
     },
     {
       "code": "13bad",
-      "id": "2fdeb0b1-b605-450c-8d5f-8ccbda0e3287",
+      "id": "f8a40bce-ad7f-4b83-8c84-d2401bbb37d6",
       "name": "share-alt",
       "css": "share-alt",
       "cat": "duotone-icon",
@@ -2289,7 +2289,7 @@
     },
     {
       "code": "13bae",
-      "id": "e43a997c-2d60-4d37-96bd-cf67b01fbf7a",
+      "id": "b8da58c7-3e88-4013-9964-7c71a45cb4da",
       "name": "shield-secondary",
       "css": "shield",
       "cat": "duotone-icon",
@@ -2298,7 +2298,7 @@
     },
     {
       "code": "13baf",
-      "id": "a15372cc-741d-47cf-b30c-1cebb22faed5",
+      "id": "d6c79c7d-218e-47f7-9420-1f479f862cf9",
       "name": "shield",
       "css": "shield",
       "cat": "duotone-icon",
@@ -2307,7 +2307,7 @@
     },
     {
       "code": "13bb0",
-      "id": "5a39f5d7-df52-45d2-b9b2-1ee54cb19f7d",
+      "id": "50d691ff-71c4-447f-9ccd-ac17051a4776",
       "name": "shuffle-secondary",
       "css": "shuffle",
       "cat": "duotone-icon",
@@ -2316,7 +2316,7 @@
     },
     {
       "code": "13bb1",
-      "id": "c7b3c43e-2b10-408f-8cce-49fdc937add7",
+      "id": "a7d113e8-f904-4829-aad2-2edeaec27c72",
       "name": "shuffle",
       "css": "shuffle",
       "cat": "duotone-icon",
@@ -2325,7 +2325,7 @@
     },
     {
       "code": "13bb2",
-      "id": "ba14a879-e3a6-4501-97de-9023e9e5d715",
+      "id": "a243c82a-7c07-403a-a83c-43dd1c7c8188",
       "name": "sign-in-secondary",
       "css": "sign-in",
       "cat": "duotone-icon",
@@ -2334,7 +2334,7 @@
     },
     {
       "code": "13bb3",
-      "id": "78db17d6-44e7-4aba-a0ea-dec5a25e27b8",
+      "id": "4cf239a5-08b4-4d4b-9293-752fd11cbf48",
       "name": "sign-in",
       "css": "sign-in",
       "cat": "duotone-icon",
@@ -2343,7 +2343,7 @@
     },
     {
       "code": "13bb4",
-      "id": "02a1659c-0433-4bb5-aa76-da0f86e48368",
+      "id": "24a4bf19-8b54-4de8-b53e-5b7550f46499",
       "name": "sign-out-secondary",
       "css": "sign-out",
       "cat": "duotone-icon",
@@ -2352,7 +2352,7 @@
     },
     {
       "code": "13bb5",
-      "id": "88266e68-1518-437e-93c2-7c40ebf59440",
+      "id": "f83973bd-6fea-40e4-9977-9e7b137bd9eb",
       "name": "sign-out",
       "css": "sign-out",
       "cat": "duotone-icon",
@@ -2361,7 +2361,7 @@
     },
     {
       "code": "13bb6",
-      "id": "adad33ad-35f1-47ea-ae91-45877fd77162",
+      "id": "d005566d-530f-4dea-b227-4906420d4849",
       "name": "smart-search-secondary",
       "css": "smart-search",
       "cat": "duotone-icon",
@@ -2370,7 +2370,7 @@
     },
     {
       "code": "13bb7",
-      "id": "670afc70-184a-4bf2-ae86-827bb2dfa279",
+      "id": "bce5181c-51b7-423a-b0fe-ea0552c09507",
       "name": "smart-search",
       "css": "smart-search",
       "cat": "duotone-icon",
@@ -2379,7 +2379,7 @@
     },
     {
       "code": "13bb8",
-      "id": "69f81010-5877-4459-b45c-844951759bea",
+      "id": "1001b1ba-7151-4447-aa7e-425a18af6bc7",
       "name": "smiley-neutral-secondary",
       "css": "smiley-neutral",
       "cat": "duotone-icon",
@@ -2388,7 +2388,7 @@
     },
     {
       "code": "13bb9",
-      "id": "de74ccbe-6920-41cd-9635-d4939105ba50",
+      "id": "d0d306bc-ab18-49c5-884f-6d682d2515d3",
       "name": "smiley-neutral",
       "css": "smiley-neutral",
       "cat": "duotone-icon",
@@ -2397,7 +2397,7 @@
     },
     {
       "code": "13bba",
-      "id": "07dc7de9-1b2c-4ec9-9557-d36bc0591d56",
+      "id": "b5032ab6-fcc6-4b41-ae35-84264c8e1082",
       "name": "smiley-sad-secondary",
       "css": "smiley-sad",
       "cat": "duotone-icon",
@@ -2406,7 +2406,7 @@
     },
     {
       "code": "13bbb",
-      "id": "f4ea3bdf-ec9d-4214-b733-4aa3057c6a3c",
+      "id": "7a9f5bb4-9ef0-45a3-930a-29ff7a4746f1",
       "name": "smiley-sad",
       "css": "smiley-sad",
       "cat": "duotone-icon",
@@ -2415,7 +2415,7 @@
     },
     {
       "code": "13bbc",
-      "id": "f3f1631e-ca59-4070-9be5-04580a9c82ab",
+      "id": "baacb711-3941-46c2-a0f5-4e94c12d89a7",
       "name": "smiley-secondary",
       "css": "smiley",
       "cat": "duotone-icon",
@@ -2424,7 +2424,7 @@
     },
     {
       "code": "13bbd",
-      "id": "fc3e84c9-edf4-4204-94cb-5451806b532a",
+      "id": "34155348-87dc-4c78-9e24-bef4d57d71a7",
       "name": "smiley",
       "css": "smiley",
       "cat": "duotone-icon",
@@ -2433,7 +2433,7 @@
     },
     {
       "code": "13bbe",
-      "id": "151da85a-cc76-4c07-a430-b392b88d4460",
+      "id": "cfeea764-df12-433c-aa01-3481d4805efe",
       "name": "step-forward-secondary",
       "css": "step-forward",
       "cat": "duotone-icon",
@@ -2442,7 +2442,7 @@
     },
     {
       "code": "13bbf",
-      "id": "23117a16-6d1c-4032-a2c0-27344394ce5b",
+      "id": "1e268d8a-fd22-4f37-b9d7-a949ba0ab82b",
       "name": "step-forward",
       "css": "step-forward",
       "cat": "duotone-icon",
@@ -2451,7 +2451,7 @@
     },
     {
       "code": "13bc0",
-      "id": "1c0483c7-00fe-431f-811e-7ec229477599",
+      "id": "d05ed274-c205-4acc-aca7-b0407a5e498c",
       "name": "stop-secondary",
       "css": "stop",
       "cat": "duotone-icon",
@@ -2460,7 +2460,7 @@
     },
     {
       "code": "13bc1",
-      "id": "c55c515e-09c5-45c8-913f-49715355918f",
+      "id": "4fb0da1a-a669-4827-a3fa-4a7bbfbf8092",
       "name": "stop",
       "css": "stop",
       "cat": "duotone-icon",
@@ -2469,7 +2469,7 @@
     },
     {
       "code": "13bc2",
-      "id": "99083a12-e53f-4058-8bda-a3142206b216",
+      "id": "b77e313a-8d75-440c-becb-49c49099f7d7",
       "name": "support-secondary",
       "css": "support",
       "cat": "duotone-icon",
@@ -2478,7 +2478,7 @@
     },
     {
       "code": "13bc3",
-      "id": "b685626f-4326-4835-b314-bcb9373bc2af",
+      "id": "aa71c91f-a93c-4ae6-afc7-2ac1cc2ecf08",
       "name": "support",
       "css": "support",
       "cat": "duotone-icon",
@@ -2487,7 +2487,7 @@
     },
     {
       "code": "13bc4",
-      "id": "0f4cdcc9-fe15-46eb-a8dc-3f19cd94e34e",
+      "id": "7d769c29-556a-4800-8379-de0cfa3000b1",
       "name": "table-secondary",
       "css": "table",
       "cat": "duotone-icon",
@@ -2496,7 +2496,7 @@
     },
     {
       "code": "13bc5",
-      "id": "61763593-0341-498d-a152-065ffa112c2c",
+      "id": "9f160501-4724-4059-ae06-c90cf89729ab",
       "name": "table",
       "css": "table",
       "cat": "duotone-icon",
@@ -2505,7 +2505,7 @@
     },
     {
       "code": "13bc6",
-      "id": "fe0c9ae2-ad45-47e2-8628-a80d0273ef1d",
+      "id": "5504dcb4-193d-4279-a2af-42b238f55269",
       "name": "tag-double-secondary",
       "css": "tag-double",
       "cat": "duotone-icon",
@@ -2514,7 +2514,7 @@
     },
     {
       "code": "13bc7",
-      "id": "2a27d40f-26eb-4336-9d8f-eb064697d9d2",
+      "id": "adb8298e-9c3f-4579-bb73-5b33fdc305b3",
       "name": "tag-double",
       "css": "tag-double",
       "cat": "duotone-icon",
@@ -2523,7 +2523,7 @@
     },
     {
       "code": "13bc8",
-      "id": "e11fcddd-0cc7-47fb-a01a-744502a82399",
+      "id": "34460f9e-1dca-41e2-a81c-3fca2e7933ce",
       "name": "tags-squared-secondary",
       "css": "tags-squared",
       "cat": "duotone-icon",
@@ -2532,7 +2532,7 @@
     },
     {
       "code": "13bc9",
-      "id": "bdd141fc-3382-478f-82bb-2fc1f5f68ded",
+      "id": "0cec8e7a-8495-4f7f-a579-614e9a7bb353",
       "name": "tags-squared",
       "css": "tags-squared",
       "cat": "duotone-icon",
@@ -2541,7 +2541,7 @@
     },
     {
       "code": "13bca",
-      "id": "ab30923b-ec85-42e0-812c-3810c044d290",
+      "id": "19b19387-0225-4be0-9c5f-f47a7c7f317b",
       "name": "tags-trio-secondary",
       "css": "tags-trio",
       "cat": "duotone-icon",
@@ -2550,7 +2550,7 @@
     },
     {
       "code": "13bcb",
-      "id": "f5136ab0-62cb-4475-bb42-49e1539d0ad1",
+      "id": "90ff3868-b09e-4119-81b3-61272a8768b3",
       "name": "tags-trio",
       "css": "tags-trio",
       "cat": "duotone-icon",
@@ -2559,7 +2559,7 @@
     },
     {
       "code": "13bcc",
-      "id": "2444e050-9198-44fb-ab71-6098104729c1",
+      "id": "adeb2bba-4832-42c1-b9cc-ab4bba98a7a5",
       "name": "thumbs-down-secondary",
       "css": "thumbs-down",
       "cat": "duotone-icon",
@@ -2568,7 +2568,7 @@
     },
     {
       "code": "13bcd",
-      "id": "7cac2fe8-8f0a-4586-9020-f3de3c834a36",
+      "id": "7abd5cef-1e7d-4490-bdf5-6695d5abcd03",
       "name": "thumbs-down",
       "css": "thumbs-down",
       "cat": "duotone-icon",
@@ -2577,7 +2577,7 @@
     },
     {
       "code": "13bce",
-      "id": "6772e3fb-2ba1-4918-9593-7319f1186402",
+      "id": "b3e2ca90-f13c-4688-bc8b-82856597b594",
       "name": "thumbs-up-secondary",
       "css": "thumbs-up",
       "cat": "duotone-icon",
@@ -2586,7 +2586,7 @@
     },
     {
       "code": "13bcf",
-      "id": "521f4cf1-2bb4-4553-bda4-340c8099aece",
+      "id": "b896e835-f725-4d98-8ab4-5735358d473d",
       "name": "thumbs-up",
       "css": "thumbs-up",
       "cat": "duotone-icon",
@@ -2595,7 +2595,7 @@
     },
     {
       "code": "13bd0",
-      "id": "a5c82eb0-7798-4485-b4a5-a5d7209acd25",
+      "id": "4d18641c-50a3-460b-9b95-f767d995dbe1",
       "name": "tree-secondary",
       "css": "tree",
       "cat": "duotone-icon",
@@ -2604,7 +2604,7 @@
     },
     {
       "code": "13bd1",
-      "id": "8d4f5b38-f448-498c-8b42-de2d7149443a",
+      "id": "e8bd1bd9-7f34-46f2-9cd8-f1efa2fd898f",
       "name": "tree",
       "css": "tree",
       "cat": "duotone-icon",
@@ -2613,7 +2613,7 @@
     },
     {
       "code": "13bd2",
-      "id": "9bf7551b-d7fa-4c1e-82ba-5422e73711a3",
+      "id": "767be1b2-864f-4516-b20a-21d00e62479c",
       "name": "unlock-secondary",
       "css": "unlock",
       "cat": "duotone-icon",
@@ -2622,7 +2622,7 @@
     },
     {
       "code": "13bd3",
-      "id": "d49729d3-ed63-4bef-97f2-1b7db7d87c65",
+      "id": "b99c784b-eab2-474c-87ca-084c91856734",
       "name": "unlock",
       "css": "unlock",
       "cat": "duotone-icon",
@@ -2631,7 +2631,7 @@
     },
     {
       "code": "13bd4",
-      "id": "305f0648-8732-4b68-9a18-e1397b67490c",
+      "id": "43547828-311a-460c-b2bc-cef1ddb587bf",
       "name": "unpublish-secondary",
       "css": "unpublish",
       "cat": "duotone-icon",
@@ -2640,7 +2640,7 @@
     },
     {
       "code": "13bd5",
-      "id": "029583e1-3186-4d1b-9497-0234b6b638a4",
+      "id": "dc5180b2-37b4-408a-a04c-b6a80bcf40ab",
       "name": "user-activity-log-secondary",
       "css": "user-activity-log",
       "cat": "duotone-icon",
@@ -2649,7 +2649,7 @@
     },
     {
       "code": "13bd6",
-      "id": "162bfb40-6111-4ee1-95fd-dd36faeb5f67",
+      "id": "1bdc2e12-b3e6-4b4a-a4aa-de0ad4ac89df",
       "name": "user-activity-log",
       "css": "user-activity-log",
       "cat": "duotone-icon",
@@ -2658,7 +2658,7 @@
     },
     {
       "code": "13bd7",
-      "id": "9cba3e90-b374-4b66-9eed-9d6d0330f0e5",
+      "id": "40e8ac37-957b-423e-ad89-ea5e695a33d8",
       "name": "user-notes-secondary",
       "css": "user-notes",
       "cat": "duotone-icon",
@@ -2667,7 +2667,7 @@
     },
     {
       "code": "13bd8",
-      "id": "66e83c6f-9eca-4965-bfc2-a4c84fe472fb",
+      "id": "0a1b4c69-6ac3-4686-bc37-c8685121126c",
       "name": "user-notes",
       "css": "user-notes",
       "cat": "duotone-icon",
@@ -2676,7 +2676,7 @@
     },
     {
       "code": "13bd9",
-      "id": "edcc22fd-bbe9-432c-a9f8-ec462b9cf648",
+      "id": "5ee19f96-30f7-48ce-bed2-8eff80bee4e9",
       "name": "users-secondary",
       "css": "users",
       "cat": "duotone-icon",
@@ -2685,7 +2685,7 @@
     },
     {
       "code": "13bda",
-      "id": "c3d136ae-c185-417d-bcad-a5b9a25518a5",
+      "id": "1c530f89-b041-426c-9848-f31101703a62",
       "name": "users",
       "css": "users",
       "cat": "duotone-icon",
@@ -2694,7 +2694,7 @@
     },
     {
       "code": "13bdb",
-      "id": "463001a1-c0fb-4174-a7bc-a2337702b507",
+      "id": "64464cb2-3f46-4c2d-ae01-232d613fac51",
       "name": "vcard-secondary",
       "css": "vcard",
       "cat": "duotone-icon",
@@ -2703,7 +2703,7 @@
     },
     {
       "code": "13bdc",
-      "id": "e35cec2c-2839-4a3a-9b79-6276e22b0493",
+      "id": "4769c3e8-ff92-46f5-8ed9-f25571d754c7",
       "name": "vcard",
       "css": "vcard",
       "cat": "duotone-icon",
@@ -2712,7 +2712,7 @@
     },
     {
       "code": "13bdd",
-      "id": "6696f8a8-1885-458a-9e11-fba57ebe212d",
+      "id": "206749ed-b3c8-4d94-8d19-35b6e14c695f",
       "name": "video-secondary",
       "css": "video",
       "cat": "duotone-icon",
@@ -2721,7 +2721,7 @@
     },
     {
       "code": "13bde",
-      "id": "72ba3e35-7c45-41d7-a661-148b2c9a6fb3",
+      "id": "a25cf7c2-d7f3-4f26-ac5a-09fbb97518d2",
       "name": "video",
       "css": "video",
       "cat": "duotone-icon",
@@ -2730,7 +2730,7 @@
     },
     {
       "code": "13bdf",
-      "id": "2e3e1477-2102-49f1-b2af-a162ff52ef58",
+      "id": "9cfa8991-090c-4f7c-b098-f276e19ed7cf",
       "name": "wand-secondary",
       "css": "wand",
       "cat": "duotone-icon",
@@ -2739,7 +2739,7 @@
     },
     {
       "code": "13be0",
-      "id": "ddc944e7-dc0b-46d1-a05e-77130f61f341",
+      "id": "48a70e26-54c8-4d55-b36d-5a2bf19b8c6b",
       "name": "wand",
       "css": "wand",
       "cat": "duotone-icon",
@@ -2748,7 +2748,7 @@
     },
     {
       "code": "13be1",
-      "id": "eb152c26-7608-45d8-86cc-3de485392efa",
+      "id": "1a2b18c1-1e05-4740-ac39-d96090d927d3",
       "name": "workflows-secondary",
       "css": "workflows",
       "cat": "duotone-icon",
@@ -2757,7 +2757,7 @@
     },
     {
       "code": "13be2",
-      "id": "e0465e9d-99ac-4b9e-9f2e-c0e7b33e26e9",
+      "id": "76847187-276d-4fc7-8f26-f70b0db4e97a",
       "name": "workflows",
       "css": "workflows",
       "cat": "duotone-icon",
@@ -2766,7 +2766,7 @@
     },
     {
       "code": "13be3",
-      "id": "460ab69c-093b-45ba-827a-2a21164d4172",
+      "id": "a1c2a43f-135b-43f5-887a-f4881928aa9e",
       "name": "wrench-secondary",
       "css": "wrench",
       "cat": "duotone-icon",
@@ -2775,7 +2775,7 @@
     },
     {
       "code": "13be4",
-      "id": "1fc7a2d4-92ee-4512-bff8-6f6709c9add4",
+      "id": "79e8afbe-143a-4062-afc5-6285f1289f2c",
       "name": "wrench",
       "css": "wrench",
       "cat": "duotone-icon",
@@ -2784,7 +2784,7 @@
     },
     {
       "code": "13be5",
-      "id": "519d8165-f624-48b5-9096-21902aa54f78",
+      "id": "53c46713-bf96-44f2-8742-2836d1b112d0",
       "name": "Increase-contrast",
       "css": "Increase-contrast",
       "cat": "singletone",
@@ -2793,7 +2793,7 @@
     },
     {
       "code": "13be6",
-      "id": "7cec45e7-36cb-4435-99f2-150fae9efc9c",
+      "id": "56fc8229-175f-4b53-8e4c-3b32acf27e0b",
       "name": "access-levels",
       "css": "access-levels",
       "cat": "singletone",
@@ -2802,7 +2802,7 @@
     },
     {
       "code": "13be7",
-      "id": "4c531d22-0041-4c3b-a78e-a9d73e129994",
+      "id": "b994340d-30cf-46db-9985-762f84fe2833",
       "name": "accessibility",
       "css": "accessibility",
       "cat": "singletone",
@@ -2811,7 +2811,7 @@
     },
     {
       "code": "13be8",
-      "id": "b1802a5b-5620-4f28-a1ae-6439fc84a856",
+      "id": "5100e46f-6d74-499f-a916-b2748faa7be3",
       "name": "add-users",
       "css": "add-users",
       "cat": "singletone",
@@ -2820,7 +2820,7 @@
     },
     {
       "code": "13be9",
-      "id": "1ec92d2d-5eb3-4571-a3cd-406bf919f58e",
+      "id": "32697548-4d91-4cb0-b384-fa927df2e899",
       "name": "address",
       "css": "address",
       "cat": "singletone",
@@ -2830,7 +2830,7 @@
     {
       "alias": "arrow-down-3",
       "code": "13bed",
-      "id": "f4032649-2dd7-41f5-a6af-64c9401c73f6",
+      "id": "29930f42-4709-49ea-a8ff-c58c4b692e0c",
       "name": "angle-down",
       "css": "angle-down",
       "cat": "singletone",
@@ -2840,7 +2840,7 @@
     {
       "alias": "arrow-left-3",
       "code": "13bf2",
-      "id": "8780777b-a7a1-4b55-b310-43da2d64c8bd",
+      "id": "130433f6-76af-4fdf-b057-583f7ff68441",
       "name": "angle-left",
       "css": "angle-left",
       "cat": "singletone",
@@ -2850,7 +2850,7 @@
     {
       "alias": "arrow-right-4",
       "code": "13bf6",
-      "id": "318e7e98-3f80-4f55-a6e5-bfc6b57741af",
+      "id": "e023ca7c-7ef2-4786-a97b-77bfc7931eb7",
       "name": "angle-right",
       "css": "angle-right",
       "cat": "singletone",
@@ -2860,7 +2860,7 @@
     {
       "alias": "arrow-up-4",
       "code": "13bf9",
-      "id": "d4e9239d-4356-4675-946a-6a4aec97ab31",
+      "id": "8e2dfd86-814a-43a5-98e2-368734eb4893",
       "name": "angle-up",
       "css": "angle-up",
       "cat": "singletone",
@@ -2870,7 +2870,7 @@
     {
       "alias": "edit,pencil",
       "code": "13bea",
-      "id": "29c86458-9733-4bf5-a2f1-7664dbedbfd3",
+      "id": "a2da2ef8-242e-45df-8c93-286da7f95bcf",
       "name": "apply",
       "css": "apply",
       "cat": "singletone",
@@ -2880,7 +2880,7 @@
     {
       "alias": "drawer-2",
       "code": "13beb",
-      "id": "1f5e47a2-55b2-44e2-9259-93559170f349",
+      "id": "dbc1f0f7-ed2a-4dd2-8ded-4f07f44b4550",
       "name": "archive",
       "css": "archive",
       "cat": "singletone",
@@ -2890,7 +2890,7 @@
     {
       "alias": "arrow-down-2",
       "code": "13bec",
-      "id": "3ce95946-950f-4c50-a9ae-f8924d4658bc",
+      "id": "c5648e44-88fa-4950-ab61-9715ed7460e8",
       "name": "arrow-down",
       "css": "arrow-down",
       "cat": "singletone",
@@ -2899,7 +2899,7 @@
     },
     {
       "code": "13bef",
-      "id": "b9a6150a-a7d1-4f1b-87b8-2d02bf5be1a0",
+      "id": "516fba67-81d6-4303-904c-937c9e206ae4",
       "name": "arrow-first",
       "css": "arrow-first",
       "cat": "singletone",
@@ -2908,7 +2908,7 @@
     },
     {
       "code": "13bf0",
-      "id": "41c41172-d267-448f-815f-fa8cea3128d7",
+      "id": "c96ecb1d-c406-4cdd-b8be-d255fba18bed",
       "name": "arrow-last",
       "css": "arrow-last",
       "cat": "singletone",
@@ -2918,7 +2918,7 @@
     {
       "alias": "arrow-left-2",
       "code": "13bf1",
-      "id": "71f6697c-239c-477b-9039-fbdc7f712678",
+      "id": "8941eea7-6061-41dd-92ec-4013f6c3903e",
       "name": "arrow-left",
       "css": "arrow-left",
       "cat": "singletone",
@@ -2928,7 +2928,7 @@
     {
       "alias": "arrow-right-2",
       "code": "13bf4",
-      "id": "b8941b68-cc8a-4d3d-9e7a-8b32a3241997",
+      "id": "7a2856a8-0cb8-4dba-a506-4e899c157baf",
       "name": "arrow-right",
       "css": "arrow-right",
       "cat": "singletone",
@@ -2938,7 +2938,7 @@
     {
       "alias": "arrow-up-2",
       "code": "13bf7",
-      "id": "95219811-401b-46c9-83ec-f906f0bf7a10",
+      "id": "4cab954e-94ed-4454-aee6-054c92070c2f",
       "name": "arrow-up",
       "css": "arrow-up",
       "cat": "singletone",
@@ -2947,7 +2947,7 @@
     },
     {
       "code": "13bfa",
-      "id": "f54f9d0f-c39b-4963-b4d0-245587c4caf4",
+      "id": "9cad9ab9-9b60-4bd6-806e-0aa19cdae0e2",
       "name": "articles",
       "css": "articles",
       "cat": "singletone",
@@ -2957,7 +2957,7 @@
     {
       "alias": "sort-down",
       "code": "13bfb",
-      "id": "368f1583-5688-43ad-9618-ba6708a26eb2",
+      "id": "bb3d1d69-93d5-411e-8d7c-2d7079339082",
       "name": "ascending",
       "css": "ascending",
       "cat": "singletone",
@@ -2967,7 +2967,7 @@
     {
       "alias": "paperclip,flag-2",
       "code": "13bfc",
-      "id": "f4f3237f-e211-4fd0-bc6b-18228dc5a967",
+      "id": "361c03f5-e08b-41d5-9cb0-389d888bfc6a",
       "name": "attachment",
       "css": "attachment",
       "cat": "singletone",
@@ -2976,7 +2976,7 @@
     },
     {
       "code": "13bfd",
-      "id": "648cd112-c2da-407e-8b63-3bd2a982af13",
+      "id": "b90d1db7-9a78-49f3-af1b-cdaf9d215cf0",
       "name": "backward",
       "css": "backward",
       "cat": "singletone",
@@ -2986,7 +2986,7 @@
     {
       "alias": "chart-bar,equalizer-2",
       "code": "13bfe",
-      "id": "2162a921-4ed1-4177-84ae-37de00d59189",
+      "id": "062cc074-9e59-4c9d-923b-e83c6db9cf01",
       "name": "bar",
       "css": "bar",
       "cat": "singletone",
@@ -2996,7 +2996,7 @@
     {
       "alias": "menu-3",
       "code": "13bff",
-      "id": "214503ab-6a44-400f-b0aa-35452acb68a6",
+      "id": "d4de4fd9-4fca-4b2a-8677-8ad4230a91e7",
       "name": "bars",
       "css": "bars",
       "cat": "singletone",
@@ -3006,7 +3006,7 @@
     {
       "alias": "bucket",
       "code": "13c00",
-      "id": "a7a94be4-41ad-4635-a4d9-3547c2287580",
+      "id": "11f9e501-88b0-4105-8869-d158fbb8c140",
       "name": "basket",
       "css": "basket",
       "cat": "singletone",
@@ -3015,7 +3015,7 @@
     },
     {
       "code": "13c01",
-      "id": "94992cbc-87d8-40d4-b851-e1f2be21f532",
+      "id": "bc80053d-908d-45a2-8f53-dd6d93ff1df6",
       "name": "batch",
       "css": "batch",
       "cat": "singletone",
@@ -3024,7 +3024,7 @@
     },
     {
       "code": "13c02",
-      "id": "ce391aaa-638a-45e3-b0e0-a260d05ee413",
+      "id": "02e4bb94-b191-4d39-92ea-ed24600ecd16",
       "name": "big-black-cursor",
       "css": "big-black-cursor",
       "cat": "singletone",
@@ -3033,7 +3033,7 @@
     },
     {
       "code": "13c03",
-      "id": "678eb515-2b2a-4539-acbb-dc657b76de3f",
+      "id": "6ceb2232-2e46-4dc6-979c-113c3d7cf971",
       "name": "big-white-cursor",
       "css": "big-white-cursor",
       "cat": "singletone",
@@ -3043,7 +3043,7 @@
     {
       "alias": "library",
       "code": "13c04",
-      "id": "0d67aea7-ceb2-4bdc-b61a-60840b11e1d8",
+      "id": "b16deda3-d48a-451a-9bd7-ee9d46add593",
       "name": "book",
       "css": "book",
       "cat": "singletone",
@@ -3052,7 +3052,7 @@
     },
     {
       "code": "13c05",
-      "id": "65b0eb7f-6aa0-490b-9e6e-4876e71d3026",
+      "id": "9111abb4-e0b5-4a52-91c8-7f1e8155d505",
       "name": "bookmark",
       "css": "bookmark",
       "cat": "singletone",
@@ -3061,7 +3061,7 @@
     },
     {
       "code": "13c06",
-      "id": "83c67d34-1db9-49f5-9838-9efd0707e3c4",
+      "id": "abeeba5e-4fc2-4a70-a65c-65a85d8baaa1",
       "name": "box-add",
       "css": "box-add",
       "cat": "singletone",
@@ -3070,7 +3070,7 @@
     },
     {
       "code": "13c07",
-      "id": "9302d2ce-460c-4488-ac47-cd6bb7c3b77f",
+      "id": "3056db1c-260f-4072-bb7d-ded036b4799f",
       "name": "box-remove",
       "css": "box-remove",
       "cat": "singletone",
@@ -3080,7 +3080,7 @@
     {
       "alias": "briefcase-2",
       "code": "13c08",
-      "id": "aad6e026-a4b5-4ba9-837d-234082a26a25",
+      "id": "15b52f0c-b06f-4842-8354-ba963934188e",
       "name": "briefcase-alt",
       "css": "briefcase-alt",
       "cat": "singletone",
@@ -3089,7 +3089,7 @@
     },
     {
       "code": "13c09",
-      "id": "3c698219-283e-4daa-91a1-3a0a80f93b3f",
+      "id": "58fd4ac7-61f6-4eb5-b083-c10e6599068d",
       "name": "briefcase",
       "css": "briefcase",
       "cat": "singletone",
@@ -3099,7 +3099,7 @@
     {
       "alias": "connection,wifi",
       "code": "13c0a",
-      "id": "88748f56-41aa-4162-addf-3ae3afb850a9",
+      "id": "069f6c0a-c8d4-4b6a-a1b3-58ab4e858f6c",
       "name": "broadcast",
       "css": "broadcast",
       "cat": "singletone",
@@ -3109,7 +3109,7 @@
     {
       "alias": "paint-brush",
       "code": "13c0b",
-      "id": "77c36586-9fb8-4772-aa8a-5f42cd7177c9",
+      "id": "5fd0c2b4-6693-4f26-9ca5-db004de3cdd7",
       "name": "brush",
       "css": "brush",
       "cat": "singletone",
@@ -3119,7 +3119,7 @@
     {
       "alias": "quote-3",
       "code": "13c0c",
-      "id": "69548a06-3291-40bf-856d-9e01dd58cf0c",
+      "id": "9758ffd6-c0be-488e-a1e9-fe35cbe7eb37",
       "name": "bubble-quote",
       "css": "bubble-quote",
       "cat": "singletone",
@@ -3128,7 +3128,7 @@
     },
     {
       "code": "13c0d",
-      "id": "97c9b640-0427-4093-8e31-f82d184e93d7",
+      "id": "97f2213f-f686-4e5e-8af6-93db8b5e1b0d",
       "name": "bug",
       "css": "bug",
       "cat": "singletone",
@@ -3137,7 +3137,7 @@
     },
     {
       "code": "13c0e",
-      "id": "c0a8ee9f-01cc-4046-b3a1-c980bf326b73",
+      "id": "7eeefc34-5690-4aee-bbe8-0a34b391b743",
       "name": "calendar-version",
       "css": "calendar-version",
       "cat": "singletone",
@@ -3146,7 +3146,7 @@
     },
     {
       "code": "13c0f",
-      "id": "cc587ee3-6384-479e-ac4a-f9864ae26343",
+      "id": "05ec0807-1977-4d82-a2cb-d8c4cdb0d41b",
       "name": "calendar",
       "css": "calendar",
       "cat": "singletone",
@@ -3155,7 +3155,7 @@
     },
     {
       "code": "13c10",
-      "id": "5e5904e9-f4c6-4d61-baff-5acaacd6242a",
+      "id": "a2c5c63a-2fd4-4749-b31b-c38679e7d54f",
       "name": "camera",
       "css": "camera",
       "cat": "singletone",
@@ -3164,7 +3164,7 @@
     },
     {
       "code": "13c11",
-      "id": "944fdc4f-5f5a-4b9b-abf3-9b1a5a5a5ae2",
+      "id": "a7f43a21-77d8-4d41-b07c-e0f914e44f8b",
       "name": "cancel-circle",
       "css": "cancel-circle",
       "cat": "singletone",
@@ -3174,7 +3174,7 @@
     {
       "alias": "arrow-down-4",
       "code": "13bee",
-      "id": "b262fb3b-a0c0-4bd3-a9c5-2181288945b0",
+      "id": "535d9d8b-92e2-4daa-9d26-7aa22742c068",
       "name": "caret-down",
       "css": "caret-down",
       "cat": "singletone",
@@ -3184,7 +3184,7 @@
     {
       "alias": "arrow-left-4",
       "code": "13bf3",
-      "id": "6791725c-4c9b-42af-a30e-2caa7fa7f1e9",
+      "id": "7c531db7-e380-416c-a08e-7a61b3ffb2e7",
       "name": "caret-left",
       "css": "caret-left",
       "cat": "singletone",
@@ -3194,7 +3194,7 @@
     {
       "alias": "arrow-right-3",
       "code": "13bf5",
-      "id": "11dda2f6-2539-4944-9f51-269d6e7a987a",
+      "id": "9ec5eff0-a69a-4aad-bc04-cc927065fa21",
       "name": "caret-right",
       "css": "caret-right",
       "cat": "singletone",
@@ -3204,7 +3204,7 @@
     {
       "alias": "arrow-up-3",
       "code": "13bf8",
-      "id": "c3510a5c-231f-4e01-9933-8e47d82f82d3",
+      "id": "44eb9adc-f79a-4451-a11f-adb3c2a0d196",
       "name": "caret-up",
       "css": "caret-up",
       "cat": "singletone",
@@ -3214,7 +3214,7 @@
     {
       "alias": "menu-2",
       "code": "13c1e",
-      "id": "a905ca78-ced7-4a14-a28e-3103b2f72994",
+      "id": "8c0c3bfb-6e7c-492d-a233-9bbe15b64abf",
       "name": "caret-v",
       "css": "caret-v",
       "cat": "singletone",
@@ -3224,7 +3224,7 @@
     {
       "alias": "shopping",
       "code": "13c12",
-      "id": "0e3e8828-ecc3-4ade-b207-733cc3c29198",
+      "id": "f343d0e2-693d-41ab-a8d8-aab51722df2e",
       "name": "cart",
       "css": "cart",
       "cat": "singletone",
@@ -3233,7 +3233,7 @@
     },
     {
       "code": "13c13",
-      "id": "06b719e3-970a-4178-b5ac-4673322df694",
+      "id": "6f5b6467-b258-4fed-8843-adfc113ced3e",
       "name": "category",
       "css": "category",
       "cat": "singletone",
@@ -3242,7 +3242,7 @@
     },
     {
       "code": "13c14",
-      "id": "5c71457d-2ebf-4aa7-8667-6788e8cae2d9",
+      "id": "f38082f7-49be-40e0-8355-21f8d7d8b345",
       "name": "chart",
       "css": "chart",
       "cat": "singletone",
@@ -3251,7 +3251,7 @@
     },
     {
       "code": "13c15",
-      "id": "a5e7e8e5-daf8-4d1e-8558-c5bd7d020bb9",
+      "id": "62c66c1f-910c-4db6-bea1-9c27092d158a",
       "name": "checkbox-checked",
       "css": "checkbox-checked",
       "cat": "singletone",
@@ -3260,7 +3260,7 @@
     },
     {
       "code": "13c16",
-      "id": "f3caa89d-e5da-49ba-afc7-e54cc1e56222",
+      "id": "126e1bad-fde7-4bc8-90c6-ba6a02cbb23d",
       "name": "checkbox-partial",
       "css": "checkbox-partial",
       "cat": "singletone",
@@ -3269,7 +3269,7 @@
     },
     {
       "code": "13c17",
-      "id": "09a1970b-b1d8-4ed8-8572-d9dfc8cef9cc",
+      "id": "c8d4255d-54f2-40f9-bac8-f1c978ecd92c",
       "name": "checkbox-unchecked",
       "css": "checkbox-unchecked",
       "cat": "singletone",
@@ -3279,7 +3279,7 @@
     {
       "alias": "lock,locked,secure",
       "code": "13c18",
-      "id": "7d4c6b73-5b9f-44cb-9828-5290770fbd6d",
+      "id": "053add1d-4b9f-49ec-b386-02bed27aeb22",
       "name": "checkedout",
       "css": "checkedout",
       "cat": "singletone",
@@ -3288,7 +3288,7 @@
     },
     {
       "code": "13c19",
-      "id": "0153e3d5-98ea-489e-ac21-0a45249de42b",
+      "id": "10f283ad-57fe-4c37-a38d-8009bf0a16e3",
       "name": "checkinmark",
       "css": "checkinmark",
       "cat": "singletone",
@@ -3298,7 +3298,7 @@
     {
       "alias": "downarrow",
       "code": "13c1a",
-      "id": "fbd33b66-7170-4aa5-b7e9-9bb75a758528",
+      "id": "0e4a4d9b-554c-49d2-a5de-28768e4e446f",
       "name": "chevron-down",
       "css": "chevron-down",
       "cat": "singletone",
@@ -3308,7 +3308,7 @@
     {
       "alias": "leftarrow",
       "code": "13c1b",
-      "id": "1480fe65-99e0-4cbd-9aec-512521d9d464",
+      "id": "eefef5aa-f7a0-4f25-bd3c-b3872f90de9f",
       "name": "chevron-left",
       "css": "chevron-left",
       "cat": "singletone",
@@ -3318,7 +3318,7 @@
     {
       "alias": "rightarrow",
       "code": "13c1c",
-      "id": "eaf3207d-dc30-4fc8-9432-37f17036c598",
+      "id": "80a853c2-4a5c-4dbe-b049-4072faa0d6ab",
       "name": "chevron-right",
       "css": "chevron-right",
       "cat": "singletone",
@@ -3328,7 +3328,7 @@
     {
       "alias": "uparrow",
       "code": "13c1d",
-      "id": "7b10e26a-e9dc-4a32-9a5e-628ce4d32dbf",
+      "id": "9df45ad3-9029-47fa-8e64-608225414838",
       "name": "chevron-up",
       "css": "chevron-up",
       "cat": "singletone",
@@ -3337,7 +3337,7 @@
     },
     {
       "code": "13c1f",
-      "id": "64846655-1107-42a6-acbf-826abb2458af",
+      "id": "1ce7392b-76ad-4c48-804b-edfa4f84b3ef",
       "name": "circle",
       "css": "circle",
       "cat": "singletone",
@@ -3346,7 +3346,7 @@
     },
     {
       "code": "13c20",
-      "id": "0cb31e17-3e31-451c-b717-f10e7c4d65de",
+      "id": "e864339f-0df8-483b-8a04-18d0fb1ef52f",
       "name": "click",
       "css": "click",
       "cat": "singletone",
@@ -3356,7 +3356,7 @@
     {
       "alias": "clock-2",
       "code": "13c21",
-      "id": "01261935-75d0-449a-866c-9b44a081bccd",
+      "id": "5f880e3b-61ee-4499-b1ec-c740412ac69e",
       "name": "clock-alt",
       "css": "clock-alt",
       "cat": "singletone",
@@ -3365,7 +3365,7 @@
     },
     {
       "code": "13c22",
-      "id": "624a1906-6e8a-4f77-a117-0a851d1a00d5",
+      "id": "a391a988-acf0-4550-a661-292d85bfd1bb",
       "name": "clock",
       "css": "clock",
       "cat": "singletone",
@@ -3375,7 +3375,7 @@
     {
       "alias": "os",
       "code": "13c23",
-      "id": "42571ef3-6030-45f2-b645-eb7c4766d0a3",
+      "id": "c5b1d136-d93b-4d69-b1d1-d83828b641bb",
       "name": "cogs",
       "css": "cogs",
       "cat": "singletone",
@@ -3384,7 +3384,7 @@
     },
     {
       "code": "13c24",
-      "id": "8d78ad5b-2f50-4e7b-9111-8dce74861bd8",
+      "id": "01671e9d-1d59-410f-896f-4e99882c86ef",
       "name": "comment",
       "css": "comment",
       "cat": "singletone",
@@ -3393,7 +3393,7 @@
     },
     {
       "code": "13c25",
-      "id": "bed9abd3-978d-4e02-abd0-e6e0abf97f5b",
+      "id": "1c113543-9aea-4d13-aef8-e5fea6a0a45a",
       "name": "comments",
       "css": "comments",
       "cat": "singletone",
@@ -3403,7 +3403,7 @@
     {
       "alias": "navigate,navigate-2",
       "code": "13c26",
-      "id": "1060e43f-0784-453a-b25d-d2b1f7e24d9d",
+      "id": "fd3cd245-b462-48e8-872b-c94513bdc79c",
       "name": "compass",
       "css": "compass",
       "cat": "singletone",
@@ -3412,7 +3412,7 @@
     },
     {
       "code": "13c27",
-      "id": "d60cb166-fc96-4fb4-b18e-626ee23d5e6f",
+      "id": "56970075-4f62-48b9-8a9c-ce4d9f77c7ef",
       "name": "components",
       "css": "components",
       "cat": "singletone",
@@ -3422,7 +3422,7 @@
     {
       "alias": "contacts-2",
       "code": "13c28",
-      "id": "cee52bdc-d7fd-435b-a14a-596c3c2adb6f",
+      "id": "75a77258-5d40-453f-b522-9f334ff8f81a",
       "name": "contacts-alt",
       "css": "contacts-alt",
       "cat": "singletone",
@@ -3431,7 +3431,7 @@
     },
     {
       "code": "13c29",
-      "id": "04c9f494-fd51-4363-9d89-1e8be7db1405",
+      "id": "f72e307a-52d6-4785-82f3-d76a66ef79ae",
       "name": "contacts",
       "css": "contacts",
       "cat": "singletone",
@@ -3440,7 +3440,7 @@
     },
     {
       "code": "13c2a",
-      "id": "1da0cae8-4697-4f27-a268-2c814acdcdf8",
+      "id": "91c5278a-19db-44bd-b5e0-f725c0d9d807",
       "name": "content-scalling",
       "css": "content-scalling",
       "cat": "singletone",
@@ -3449,7 +3449,7 @@
     },
     {
       "code": "13c2b",
-      "id": "810478d7-c324-4dca-b4dc-ed239afaab45",
+      "id": "ffcb1289-f02a-4017-9edc-5ceb771f585d",
       "name": "content",
       "css": "content",
       "cat": "singletone",
@@ -3459,7 +3459,7 @@
     {
       "alias": "contract-2",
       "code": "13cde",
-      "id": "254fd293-252f-4c8f-bd29-79a32a33b0b6",
+      "id": "7c233b8a-c572-4f0a-8365-134732960637",
       "name": "contract-alt",
       "css": "contract-alt",
       "cat": "singletone",
@@ -3468,7 +3468,7 @@
     },
     {
       "code": "13c2c",
-      "id": "c67ec312-5583-405a-934c-0ecc4b5566d6",
+      "id": "50c2114b-5361-4595-b199-488de90f1440",
       "name": "contract",
       "css": "contract",
       "cat": "singletone",
@@ -3478,7 +3478,7 @@
     {
       "alias": "move",
       "code": "13c2d",
-      "id": "28cce9ae-7c3c-44a0-a918-198f0a0528b3",
+      "id": "5fcd7142-e338-44b0-b063-fcda8b20c511",
       "name": "control",
       "css": "control",
       "cat": "singletone",
@@ -3488,7 +3488,7 @@
     {
       "alias": "credit-card,card",
       "code": "13c2e",
-      "id": "bd4259f8-232c-451a-b1a8-2cb68aa926b2",
+      "id": "fd12e4db-4f71-4b4a-a642-39b17c27dca9",
       "name": "credit",
       "css": "credit",
       "cat": "singletone",
@@ -3497,7 +3497,7 @@
     },
     {
       "code": "13cdf",
-      "id": "05e45de2-ce69-4374-a3f7-d449d8d20171",
+      "id": "48b4a889-ef28-4e33-83ab-50d7b9be80c5",
       "name": "css",
       "css": "css",
       "cat": "singletone",
@@ -3506,7 +3506,7 @@
     },
     {
       "code": "13c2f",
-      "id": "73dda48b-3cf7-4984-b3c0-777c8d0b7bb3",
+      "id": "d18725e4-7892-42f3-821a-54d2c4e05608",
       "name": "cube",
       "css": "cube",
       "cat": "singletone",
@@ -3515,7 +3515,7 @@
     },
     {
       "code": "13c30",
-      "id": "3abeb0b9-c659-4237-8adc-19303ab0cc85",
+      "id": "8a0f75eb-3ba3-46ba-aaec-49c963a0db86",
       "name": "dark-mode",
       "css": "dark-mode",
       "cat": "singletone",
@@ -3524,7 +3524,7 @@
     },
     {
       "code": "13c31",
-      "id": "8cb65a98-946e-402e-b4d2-c81fd01b9821",
+      "id": "af08d952-9c76-4baf-b55a-f75993aa8262",
       "name": "dashboard",
       "css": "dashboard",
       "cat": "singletone",
@@ -3534,7 +3534,7 @@
     {
       "alias": "storage",
       "code": "13c32",
-      "id": "398b82e1-da96-4a3d-bf3c-2e4135cdf101",
+      "id": "66ae12ae-7966-4d80-ab25-2aeef4e70f7f",
       "name": "database",
       "css": "database",
       "cat": "singletone",
@@ -3544,7 +3544,7 @@
     {
       "alias": "sort-up",
       "code": "13c33",
-      "id": "e99caf11-197a-4a12-95df-b593c2bbb8e4",
+      "id": "32d3a08e-3b47-43f4-94ae-c4a46051be9b",
       "name": "descending",
       "css": "descending",
       "cat": "singletone",
@@ -3553,7 +3553,7 @@
     },
     {
       "code": "13c34",
-      "id": "d8ff8a5b-ef4f-484c-ba96-bdc04b1e6e37",
+      "id": "f2aeef48-9334-45e0-be4e-b5ed21555e7b",
       "name": "disable-motion",
       "css": "disable-motion",
       "cat": "singletone",
@@ -3563,7 +3563,7 @@
     {
       "alias": "download-2",
       "code": "13c35",
-      "id": "93d86861-3bcb-4e6c-9701-f2365ac8d68e",
+      "id": "68332a02-85a6-4dd5-bc26-3180786566fe",
       "name": "download-alt",
       "css": "download-alt",
       "cat": "singletone",
@@ -3572,7 +3572,7 @@
     },
     {
       "code": "13c36",
-      "id": "09249c90-c8d8-4649-b958-91006a61453b",
+      "id": "21819551-3f67-43af-8901-0906b4fc9382",
       "name": "download",
       "css": "download",
       "cat": "singletone",
@@ -3581,7 +3581,7 @@
     },
     {
       "code": "13c37",
-      "id": "29a2c69d-d039-456d-b611-f88c931ca6e6",
+      "id": "ad413d6e-4572-4b19-ab3e-2a0451acede5",
       "name": "envelope-badge",
       "css": "envelope-badge",
       "cat": "singletone",
@@ -3590,7 +3590,7 @@
     },
     {
       "code": "13c38",
-      "id": "d832a8b0-6b80-4257-b0b8-6f7dd9a6ab3a",
+      "id": "277bdf6b-c013-4c22-bcad-1e3f70eccdd7",
       "name": "envelope-open",
       "css": "envelope-open",
       "cat": "singletone",
@@ -3600,7 +3600,7 @@
     {
       "alias": "mail",
       "code": "13c39",
-      "id": "7ad1f8e5-f542-4c77-a093-58ec0af22828",
+      "id": "c3cf18e8-88b4-4ed0-8e33-055acfe7d36a",
       "name": "envelope",
       "css": "envelope",
       "cat": "singletone",
@@ -3610,7 +3610,7 @@
     {
       "alias": "settings-2",
       "code": "13c3a",
-      "id": "ceabfbdb-d76e-46d3-9b2f-1a9f93e17e6c",
+      "id": "bfd61b9b-08c2-4858-88a6-e8fbfa1e22de",
       "name": "equalizer",
       "css": "equalizer",
       "cat": "singletone",
@@ -3619,7 +3619,7 @@
     },
     {
       "code": "13c3b",
-      "id": "c39a1b5b-066b-4176-b604-3602b441c510",
+      "id": "a2c937f2-6ecc-40dc-9077-4fceba854720",
       "name": "error",
       "css": "error",
       "cat": "singletone",
@@ -3629,7 +3629,7 @@
     {
       "alias": "switch",
       "code": "13c3c",
-      "id": "886374f4-370c-4637-ba3d-2084bf3ae587",
+      "id": "2eb033ab-8fe5-4f59-99ec-162a273385bf",
       "name": "exit",
       "css": "exit",
       "cat": "singletone",
@@ -3638,7 +3638,7 @@
     },
     {
       "code": "13c3d",
-      "id": "a214b799-0b97-4b58-8d67-600530f23edb",
+      "id": "c005d2c1-b0f9-4775-9604-d330f05f0a15",
       "name": "expand-full",
       "css": "expand-full",
       "cat": "singletone",
@@ -3647,7 +3647,7 @@
     },
     {
       "code": "13c3e",
-      "id": "5c9d6c57-d740-408c-8f42-67e747c166c7",
+      "id": "4bc28d58-758c-4987-8dfd-9c7386c274cd",
       "name": "expand",
       "css": "expand",
       "cat": "singletone",
@@ -3657,7 +3657,7 @@
     {
       "alias": "eye-blocked,eye-2,hide",
       "code": "13c3f",
-      "id": "a5f95b00-90f3-4886-b1fe-e0d1ec9f26a4",
+      "id": "aaaff9d7-0447-497e-902c-dbdc88885aaf",
       "name": "eye-close",
       "css": "eye-close",
       "cat": "singletone",
@@ -3667,7 +3667,7 @@
     {
       "alias": "eye,view",
       "code": "13c40",
-      "id": "86a9ed0e-5d13-4bf1-b288-c44746f98b62",
+      "id": "f42a73de-0ec1-478c-bb78-f8911c843869",
       "name": "eye-open",
       "css": "eye-open",
       "cat": "singletone",
@@ -3677,7 +3677,7 @@
     {
       "alias": "rss",
       "code": "13c41",
-      "id": "d29de0ee-95ce-40bb-bfee-acd5bcb602de",
+      "id": "1077e5e4-bc5c-4fb2-99ad-debce798e838",
       "name": "feed",
       "css": "feed",
       "cat": "singletone",
@@ -3687,7 +3687,7 @@
     {
       "alias": "user-group",
       "code": "13c42",
-      "id": "60658847-5667-4449-b62b-a682298d0988",
+      "id": "b17d09a1-5846-4462-87f6-e64931365086",
       "name": "field-group",
       "css": "field-group",
       "cat": "singletone",
@@ -3697,7 +3697,7 @@
     {
       "alias": "input",
       "code": "13c43",
-      "id": "6a32f73c-6c36-4ac6-8ea2-6c7c8185a998",
+      "id": "20ba2b66-924c-4f81-9ee1-2d3cab4aa3e4",
       "name": "fields",
       "css": "fields",
       "cat": "singletone",
@@ -3707,7 +3707,7 @@
     {
       "alias": "file-plus",
       "code": "13c44",
-      "id": "9885a76b-6f7a-49cd-ba3a-b0d66df2737d",
+      "id": "c229489f-1d7c-4274-91a7-be5465b743f0",
       "name": "file-add",
       "css": "file-add",
       "cat": "singletone",
@@ -3716,7 +3716,7 @@
     },
     {
       "code": "13c45",
-      "id": "6369d011-6b2c-46fb-b7b3-df319d277824",
+      "id": "0a2d0deb-6150-4642-a5b6-3312455688b1",
       "name": "file-check",
       "css": "file-check",
       "cat": "singletone",
@@ -3725,7 +3725,7 @@
     },
     {
       "code": "13c46",
-      "id": "49ea60ba-27b9-40b4-9eb4-620f4ae9f0a6",
+      "id": "594d0f13-90b6-44ac-b30b-e59934996ceb",
       "name": "file-minus",
       "css": "file-minus",
       "cat": "singletone",
@@ -3734,7 +3734,7 @@
     },
     {
       "code": "13c47",
-      "id": "e0adab9d-7a05-4aa6-8b73-318564da5493",
+      "id": "96c0d180-87b9-4cfa-a198-f8698aac9ae1",
       "name": "file-remove",
       "css": "file-remove",
       "cat": "singletone",
@@ -3743,7 +3743,7 @@
     },
     {
       "code": "13c48",
-      "id": "6d7278ea-8877-46f0-9031-8796db5f4c4c",
+      "id": "fdfe018d-31c4-4104-b95f-45bc849ee2b2",
       "name": "file",
       "css": "file",
       "cat": "singletone",
@@ -3752,7 +3752,7 @@
     },
     {
       "code": "13c49",
-      "id": "fc6a0020-abe0-4ccc-bd08-f691a931f40a",
+      "id": "9a12b76f-5c60-4ec0-9841-ef07945af7e2",
       "name": "filter",
       "css": "filter",
       "cat": "singletone",
@@ -3761,7 +3761,7 @@
     },
     {
       "code": "13c4a",
-      "id": "8f0f5f96-aec4-460d-a666-7cfce6058c09",
+      "id": "1a4bd492-b1d0-4bf4-937c-3870cbf259cc",
       "name": "first",
       "css": "first",
       "cat": "singletone",
@@ -3770,7 +3770,7 @@
     },
     {
       "code": "13c4b",
-      "id": "ea72a9fb-2485-4de4-8279-753e865a5700",
+      "id": "85dacb84-5986-47e5-ae9a-a259c24ca3ad",
       "name": "flag",
       "css": "flag",
       "cat": "singletone",
@@ -3780,7 +3780,7 @@
     {
       "alias": "folder",
       "code": "13c4c",
-      "id": "15f712f9-58cc-48dd-9b30-bf2d773b4e3e",
+      "id": "257f92fc-bb7c-4ed9-993a-b6a67e6a315a",
       "name": "folder-close",
       "css": "folder-close",
       "cat": "singletone",
@@ -3790,7 +3790,7 @@
     {
       "alias": "folder-2",
       "code": "13c4d",
-      "id": "045415b7-94fb-44c3-9d6c-1a7169df3da0",
+      "id": "0c5a0e34-7384-48a5-9f7c-f6c5e9b475cd",
       "name": "folder-open",
       "css": "folder-open",
       "cat": "singletone",
@@ -3799,7 +3799,7 @@
     },
     {
       "code": "13c4e",
-      "id": "f62eb7b2-ef2c-4e9c-96f5-b5f3f8e69434",
+      "id": "ff18f098-f761-4c28-b13d-fe16387e35ea",
       "name": "folder-plus",
       "css": "folder-plus",
       "cat": "singletone",
@@ -3808,7 +3808,7 @@
     },
     {
       "code": "13c4f",
-      "id": "429e8376-8d5b-435e-b26b-45e5d1321f16",
+      "id": "45d535ba-9058-4e87-a4ed-3c091a81360b",
       "name": "folder-remove",
       "css": "folder-remove",
       "cat": "singletone",
@@ -3817,7 +3817,7 @@
     },
     {
       "code": "13c50",
-      "id": "7d9aff29-d7eb-4cc8-93c7-ff400e2a8894",
+      "id": "5f96a820-924d-4552-bf4e-faf6a07aa1a5",
       "name": "forward",
       "css": "forward",
       "cat": "singletone",
@@ -3827,7 +3827,7 @@
     {
       "alias": "gift-box",
       "code": "13c51",
-      "id": "036edb09-1006-465b-a28b-1da9dc6d9414",
+      "id": "b6e40394-671d-4c05-82e5-297530a268f2",
       "name": "gift",
       "css": "gift",
       "cat": "singletone",
@@ -3836,7 +3836,7 @@
     },
     {
       "code": "13c52",
-      "id": "48905787-0b95-4250-950c-ed45a4e87d07",
+      "id": "2f510211-a53a-4180-aa6b-889f84b6d5d0",
       "name": "global",
       "css": "global",
       "cat": "singletone",
@@ -3845,7 +3845,7 @@
     },
     {
       "code": "13c53",
-      "id": "da53dac5-4d80-400e-a167-27f1737b68f1",
+      "id": "d4b00245-0a58-4333-b169-78e34a0062ad",
       "name": "grayscale",
       "css": "grayscale",
       "cat": "singletone",
@@ -3854,7 +3854,7 @@
     },
     {
       "code": "13c54",
-      "id": "7754d916-9f79-4e28-885a-c05e9eb664ba",
+      "id": "515df171-b874-4c03-8b32-099b2c124b3d",
       "name": "grid-advance",
       "css": "grid-advance",
       "cat": "singletone",
@@ -3863,7 +3863,7 @@
     },
     {
       "code": "13c55",
-      "id": "43bcbdc8-954d-4cd3-8683-5c534bc826ab",
+      "id": "5cc042bf-8243-4e1e-a69b-0ca87e66c06d",
       "name": "grid-view",
       "css": "grid-view",
       "cat": "singletone",
@@ -3873,7 +3873,7 @@
     {
       "alias": "grid-view",
       "code": "13c56",
-      "id": "be6c3a3a-e93b-45d4-9365-2a3965ba771b",
+      "id": "c79a4f95-a228-44d1-b7d6-6e4ec8a3e42c",
       "name": "grid",
       "css": "grid",
       "cat": "singletone",
@@ -3882,7 +3882,7 @@
     },
     {
       "code": "13c57",
-      "id": "777de79a-8492-43e2-b56c-f15fe051f925",
+      "id": "110f6c80-95b4-437e-bd57-7f5c4cb25aed",
       "name": "groups",
       "css": "groups",
       "cat": "singletone",
@@ -3891,7 +3891,7 @@
     },
     {
       "code": "13c58",
-      "id": "1ef56aa5-1239-4a9b-a793-5e31fda41788",
+      "id": "701ffee8-8eb4-456e-9b6c-d207b9de439a",
       "name": "health",
       "css": "health",
       "cat": "singletone",
@@ -3900,7 +3900,7 @@
     },
     {
       "code": "13c59",
-      "id": "b6699ff7-d499-4fdb-92eb-8e130f2fcfe0",
+      "id": "27395830-c4fb-4cba-829b-0e0c88eeb3f2",
       "name": "heart-stroke",
       "css": "heart-stroke",
       "cat": "singletone",
@@ -3909,7 +3909,7 @@
     },
     {
       "code": "13c5a",
-      "id": "a5bdab9f-d2ce-46f4-9123-6349defcaa96",
+      "id": "ccc9257b-acc0-48ca-89bd-4b95367e4d33",
       "name": "heart",
       "css": "heart",
       "cat": "singletone",
@@ -3918,7 +3918,7 @@
     },
     {
       "code": "13c5b",
-      "id": "611d646e-b1c8-431c-84de-87fbbaadc021",
+      "id": "eb2b4938-721a-4fd3-88d6-3e73d4afb940",
       "name": "home",
       "css": "home",
       "cat": "singletone",
@@ -3927,7 +3927,7 @@
     },
     {
       "code": "13ce0",
-      "id": "2188dbf8-0d6c-41d3-a5f8-41f008d676c4",
+      "id": "fc814bc7-e569-47d0-a35b-235efa49d6a3",
       "name": "html",
       "css": "html",
       "cat": "singletone",
@@ -3937,7 +3937,7 @@
     {
       "alias": "help,help-2",
       "code": "13c5c",
-      "id": "2a0582de-5f27-4eef-9f65-eca67f4bd70e",
+      "id": "b661895b-d217-473a-b014-c776323d2db1",
       "name": "info-bubble",
       "css": "info-bubble",
       "cat": "singletone",
@@ -3946,7 +3946,7 @@
     },
     {
       "code": "13c5d",
-      "id": "9c343ea8-c122-4b27-b634-f5ba16abfa46",
+      "id": "ad3ba5b7-6cdc-436e-a54c-b79bef2230bd",
       "name": "info-circle",
       "css": "info-circle",
       "cat": "singletone",
@@ -3955,7 +3955,7 @@
     },
     {
       "code": "13c5e",
-      "id": "1f755f20-e225-4c91-9594-5369bb7885a4",
+      "id": "8b5618af-1e72-430d-84db-298004ca5263",
       "name": "info",
       "css": "info",
       "cat": "singletone",
@@ -3964,7 +3964,7 @@
     },
     {
       "code": "13c5f",
-      "id": "9d905cfc-054f-41b5-b063-9daeee810e9e",
+      "id": "d0d7eb39-93ef-4be9-bc0d-1c1e06c2d23c",
       "name": "joomla",
       "css": "joomla",
       "cat": "singletone",
@@ -3974,7 +3974,7 @@
     {
       "alias": "light",
       "code": "13c60",
-      "id": "bf6585e4-d28a-4157-9d69-23c3eb6a232c",
+      "id": "db482964-131d-4b5e-a9aa-672f7337ec0c",
       "name": "lamp",
       "css": "lamp",
       "cat": "singletone",
@@ -3983,7 +3983,7 @@
     },
     {
       "code": "13c61",
-      "id": "0dcea3b2-b1ab-437c-9bd5-db9bfbbf9378",
+      "id": "ac8bc65d-2d48-4492-8572-6c062d8e76b9",
       "name": "last",
       "css": "last",
       "cat": "singletone",
@@ -3993,7 +3993,7 @@
     {
       "alias": "education",
       "code": "13c62",
-      "id": "09cbd9a2-9c69-48e7-b833-2db694ec576d",
+      "id": "816af237-7773-43f1-83a2-5ec7de9506cb",
       "name": "learn",
       "css": "learn",
       "cat": "singletone",
@@ -4002,7 +4002,7 @@
     },
     {
       "code": "13c63",
-      "id": "143eaf5e-16b3-44a5-bdad-4b1ed890cecd",
+      "id": "2898c4da-1751-4172-9f69-22905b2856eb",
       "name": "lighting",
       "css": "lighting",
       "cat": "singletone",
@@ -4011,7 +4011,7 @@
     },
     {
       "code": "13c64",
-      "id": "1bd4476c-96f0-42fe-91ec-80e9759635d9",
+      "id": "110bcb68-d9a7-4fed-aef9-2facd9a54b6a",
       "name": "link",
       "css": "link",
       "cat": "singletone",
@@ -4020,7 +4020,7 @@
     },
     {
       "code": "13c65",
-      "id": "021485a9-d743-41e1-b341-33d0e1e63e53",
+      "id": "ba19aee3-b6f0-4957-b1e1-0aa2e1bffde1",
       "name": "list-thin",
       "css": "list-thin",
       "cat": "singletone",
@@ -4030,7 +4030,7 @@
     {
       "alias": "list-view",
       "code": "13c66",
-      "id": "fb958c23-57b5-4854-9f53-d52a63792c72",
+      "id": "c1c576a3-13fe-4f57-8c2b-017ed95cf067",
       "name": "list",
       "css": "list",
       "cat": "singletone",
@@ -4040,7 +4040,7 @@
     {
       "alias": "location-2",
       "code": "13c67",
-      "id": "b6aa04e0-eefd-4255-8e2a-bcf668a43553",
+      "id": "bc058e2e-a84e-4f96-ab02-9ced9c968b66",
       "name": "location-alt",
       "css": "location-alt",
       "cat": "singletone",
@@ -4050,7 +4050,7 @@
     {
       "alias": "map",
       "code": "13c68",
-      "id": "00f6848f-45cf-49bf-aad7-b9f237a80a0e",
+      "id": "341e7bff-588b-4e77-90ca-908d2e082e97",
       "name": "location",
       "css": "location",
       "cat": "singletone",
@@ -4059,7 +4059,7 @@
     },
     {
       "code": "13c69",
-      "id": "8b404b1d-8902-47fa-a564-1753ea5f2919",
+      "id": "24f3987b-1ba2-4e6d-9b5c-f47de574171e",
       "name": "lock",
       "css": "lock",
       "cat": "singletone",
@@ -4068,7 +4068,7 @@
     },
     {
       "code": "13c6a",
-      "id": "cc815586-ace4-4c06-971c-af933e7e3212",
+      "id": "a6402cd7-f2c6-4b6c-9714-0093819e7f6f",
       "name": "loop",
       "css": "loop",
       "cat": "singletone",
@@ -4077,7 +4077,7 @@
     },
     {
       "code": "13c6b",
-      "id": "cca631fc-cd96-4735-94d3-27a2a1655ab4",
+      "id": "49adf761-7447-49b9-b174-86d042a0e21f",
       "name": "magnifier",
       "css": "magnifier",
       "cat": "singletone",
@@ -4086,7 +4086,7 @@
     },
     {
       "code": "13c6c",
-      "id": "3a886b8c-4113-49ca-af70-30c1cb651a34",
+      "id": "e3cadcd0-ea41-41e3-9527-20372722ca0a",
       "name": "manage-user",
       "css": "manage-user",
       "cat": "singletone",
@@ -4095,7 +4095,7 @@
     },
     {
       "code": "13c6d",
-      "id": "b81c0df0-4124-47b6-80af-d6f98a47bc09",
+      "id": "81f95543-07a6-4b24-b6e2-1330bb61ea1a",
       "name": "manage",
       "css": "manage",
       "cat": "singletone",
@@ -4104,7 +4104,7 @@
     },
     {
       "code": "13c6e",
-      "id": "23a4e41a-87fd-4df0-a41f-8cc82b0e7f36",
+      "id": "a9841fac-c194-4229-add5-a3418f88acd4",
       "name": "mass-mail",
       "css": "mass-mail",
       "cat": "singletone",
@@ -4113,7 +4113,7 @@
     },
     {
       "code": "13c6f",
-      "id": "6600ef34-3bf6-4eec-994d-9441c9718e20",
+      "id": "23468377-d2f5-4a3d-8d88-df023e0abb48",
       "name": "media",
       "css": "media",
       "cat": "singletone",
@@ -4123,7 +4123,7 @@
     {
       "alias": "more,overflow-menu",
       "code": "13c70",
-      "id": "7421aba5-b110-4d60-9bdb-ef6348b7439e",
+      "id": "fddc9a6d-0bcc-49d6-9598-5d4b5e01402b",
       "name": "menu-horizontal",
       "css": "menu-horizontal",
       "cat": "singletone",
@@ -4132,7 +4132,7 @@
     },
     {
       "code": "13c71",
-      "id": "f0a63d2e-bf45-4c02-94bf-56d38c66b289",
+      "id": "e3301c1b-bdd8-4248-acff-dd40c7bb3b87",
       "name": "menu-vertical",
       "css": "menu-vertical",
       "cat": "singletone",
@@ -4141,7 +4141,7 @@
     },
     {
       "code": "13c72",
-      "id": "b58a963f-00a8-4742-b793-f3d663c40c8c",
+      "id": "8d033d8d-46be-45e6-83d9-6a5d6c1c0403",
       "name": "menu",
       "css": "menu",
       "cat": "singletone",
@@ -4150,7 +4150,7 @@
     },
     {
       "code": "13c73",
-      "id": "b6323144-811e-44e7-8371-3adb0d59bb71",
+      "id": "afdba844-cc22-4eeb-b2f9-38620ab12c3a",
       "name": "messaging",
       "css": "messaging",
       "cat": "singletone",
@@ -4159,7 +4159,7 @@
     },
     {
       "code": "13c74",
-      "id": "c0d0f665-df2e-4272-8b94-9581d0645384",
+      "id": "297e5b8e-6274-47f0-ab2d-296d00b8927e",
       "name": "minus-circle",
       "css": "minus-circle",
       "cat": "singletone",
@@ -4169,7 +4169,7 @@
     {
       "alias": "minus-2,minus",
       "code": "13c75",
-      "id": "8ea2e000-4a47-4cd0-8fea-8f8a9f7cc696",
+      "id": "6d0fab7b-b857-4daa-9403-3c4a4e7c4c1c",
       "name": "minus-sign",
       "css": "minus-sign",
       "cat": "singletone",
@@ -4179,7 +4179,7 @@
     {
       "alias": "phone-2",
       "code": "13c76",
-      "id": "18b8f3a3-f1d9-4992-a4a3-d93c34b27e1e",
+      "id": "02132ff2-323d-4be7-b07a-0454312e6dbc",
       "name": "mobile",
       "css": "mobile",
       "cat": "singletone",
@@ -4189,7 +4189,7 @@
     {
       "alias": "puzzle",
       "code": "13c77",
-      "id": "ecfeea17-72ca-4bd0-97b9-5ff2eceb4d5e",
+      "id": "0590207f-0473-465a-9aa3-1e77a06391d1",
       "name": "modules",
       "css": "modules",
       "cat": "singletone",
@@ -4198,7 +4198,7 @@
     },
     {
       "code": "13c78",
-      "id": "11fc46f4-2685-4fad-9dc9-ae1e5fe1000c",
+      "id": "ba4eb490-b313-4077-9ccb-d5ff2d67d60d",
       "name": "mouse-pointer-highlighter",
       "css": "mouse-pointer-highlighter",
       "cat": "singletone",
@@ -4208,7 +4208,7 @@
     {
       "alias": "move-2",
       "code": "13c79",
-      "id": "a81d329a-e690-4e26-9246-763189f48806",
+      "id": "9f1871fd-c4bb-4364-9d60-738b24a9a8d1",
       "name": "move-v",
       "css": "move-v",
       "cat": "singletone",
@@ -4218,7 +4218,7 @@
     {
       "alias": "control",
       "code": "13c7a",
-      "id": "9e78018b-ed7d-4b2c-b55e-e8335debe112",
+      "id": "2f8a6083-538d-4a15-b9f2-25fc98ca7cd9",
       "name": "move",
       "css": "move",
       "cat": "singletone",
@@ -4227,7 +4227,7 @@
     },
     {
       "code": "13c7b",
-      "id": "87dc177d-23b2-4712-9657-dee9e0e5b23b",
+      "id": "fccbc7e2-220f-4b3a-8501-f471121cfacf",
       "name": "multilingual",
       "css": "multilingual",
       "cat": "singletone",
@@ -4236,7 +4236,7 @@
     },
     {
       "code": "13c7c",
-      "id": "bd9ebfe4-e8f2-4ea8-af13-72c948574fb0",
+      "id": "35dd8daa-1e57-469a-a8af-b333f2f546b2",
       "name": "music",
       "css": "music",
       "cat": "singletone",
@@ -4245,7 +4245,7 @@
     },
     {
       "code": "13c7d",
-      "id": "49d03c0e-a5b3-4a3a-b1a6-8c067ec15dc1",
+      "id": "6de9d603-d819-448a-a421-d8ad43ff18ee",
       "name": "navigation",
       "css": "navigation",
       "cat": "singletone",
@@ -4255,7 +4255,7 @@
     {
       "alias": "new-tab-2",
       "code": "13c7e",
-      "id": "d11d3209-4f56-4d48-ae72-99fb35b03c5f",
+      "id": "87e58745-635b-4ab5-9715-d9a32f3d1666",
       "name": "new-tab-alt",
       "css": "new-tab-alt",
       "cat": "singletone",
@@ -4265,7 +4265,7 @@
     {
       "alias": "launch",
       "code": "13c7f",
-      "id": "dcfdf818-ef35-40d3-867a-424abcc997ec",
+      "id": "7e546de0-40d5-441a-89f8-49548c67f1d5",
       "name": "new-tab",
       "css": "new-tab",
       "cat": "singletone",
@@ -4275,7 +4275,7 @@
     {
       "alias": "forward",
       "code": "13c80",
-      "id": "168712fe-0547-4af0-b2bc-14beb7f5110d",
+      "id": "72944963-c8da-4345-9132-90d52f657eba",
       "name": "next",
       "css": "next",
       "cat": "singletone",
@@ -4284,7 +4284,7 @@
     },
     {
       "code": "13c81",
-      "id": "72940e3a-6209-46bd-af2e-71ecb99569ea",
+      "id": "5dfec702-3a56-458a-8d79-5672dd8ced14",
       "name": "notification-circle",
       "css": "notification-circle",
       "cat": "singletone",
@@ -4293,7 +4293,7 @@
     },
     {
       "code": "13c82",
-      "id": "66f811cf-8e17-4ae7-8de4-560cb1b2992d",
+      "id": "fc7d5ede-d21c-4559-907d-ff0ce55a7144",
       "name": "notification",
       "css": "notification",
       "cat": "singletone",
@@ -4302,7 +4302,7 @@
     },
     {
       "code": "13c83",
-      "id": "ceca8ae2-1e7c-49c1-b311-10746e8eda86",
+      "id": "2f31aaaa-f02a-4f8c-b9c0-874ed7e98d7f",
       "name": "options-cog",
       "css": "options-cog",
       "cat": "singletone",
@@ -4311,7 +4311,7 @@
     },
     {
       "code": "13c84",
-      "id": "b3a02961-03f4-4f84-a6d6-e7644d0890e4",
+      "id": "645ad6ad-32a3-481f-8a52-1df126585085",
       "name": "paint-brush",
       "css": "paint-brush",
       "cat": "singletone",
@@ -4321,7 +4321,7 @@
     {
       "alias": "color-palette",
       "code": "13c85",
-      "id": "5b09d291-9abb-4a44-9920-f28916d8d1e4",
+      "id": "8a062003-865e-47ea-922c-3c815812baed",
       "name": "palette",
       "css": "palette",
       "cat": "singletone",
@@ -4330,7 +4330,7 @@
     },
     {
       "code": "13c86",
-      "id": "040c4cac-7878-4f7d-beb4-815ff149a0aa",
+      "id": "c1902ea9-121e-4e41-8796-246c8f5a1afe",
       "name": "paragraph-bullete",
       "css": "paragraph-bullete",
       "cat": "singletone",
@@ -4339,7 +4339,7 @@
     },
     {
       "code": "13c87",
-      "id": "4c6cbbc7-e11b-4f4a-a492-6228ebb9d071",
+      "id": "cb4946f6-8f3b-49b1-9d5e-a099ec8191e6",
       "name": "paragraph-center",
       "css": "paragraph-center",
       "cat": "singletone",
@@ -4348,7 +4348,7 @@
     },
     {
       "code": "13c88",
-      "id": "c8d10640-0d7b-49be-bf5d-1ffddf3fbf49",
+      "id": "e4918ae9-924a-4ca9-80b8-c1e63e578a26",
       "name": "paragraph-justify",
       "css": "paragraph-justify",
       "cat": "singletone",
@@ -4357,7 +4357,7 @@
     },
     {
       "code": "13c89",
-      "id": "f6b3a5e1-00a9-4c44-8509-1159c3efe6b9",
+      "id": "2fde9c95-f2a1-42d9-a664-90bccd600f60",
       "name": "paragraph-left",
       "css": "paragraph-left",
       "cat": "singletone",
@@ -4366,7 +4366,7 @@
     },
     {
       "code": "13c8a",
-      "id": "a9c49b18-be7f-4595-9560-d245fac5aa78",
+      "id": "13a53462-944a-409c-8c00-72b7e6b890c1",
       "name": "paragraph-numbered",
       "css": "paragraph-numbered",
       "cat": "singletone",
@@ -4375,7 +4375,7 @@
     },
     {
       "code": "13c8b",
-      "id": "80e47cb6-bcde-4c2c-b5e4-8f4fdad8d4d6",
+      "id": "5579189e-7633-4e02-8071-6a9ed9a06dc9",
       "name": "paragraph-right",
       "css": "paragraph-right",
       "cat": "singletone",
@@ -4384,7 +4384,7 @@
     },
     {
       "code": "13c8c",
-      "id": "02cb239c-20ab-4074-8968-54ecaea31534",
+      "id": "7354188d-cf31-4858-8f1e-325afca6d818",
       "name": "pause",
       "css": "pause",
       "cat": "singletone",
@@ -4393,7 +4393,7 @@
     },
     {
       "code": "13c8d",
-      "id": "7471f141-0082-402e-9102-511a2ad78077",
+      "id": "bde5e030-56cf-4690-b637-91c4a144eb5d",
       "name": "pencil",
       "css": "pencil",
       "cat": "singletone",
@@ -4403,7 +4403,7 @@
     {
       "alias": "warning",
       "code": "13c8e",
-      "id": "38b8768f-88a5-4009-ba6c-9e043932fbb6",
+      "id": "9d922bf0-bb2e-4020-8379-7791545ebc2a",
       "name": "pending",
       "css": "pending",
       "cat": "singletone",
@@ -4412,7 +4412,7 @@
     },
     {
       "code": "13c8f",
-      "id": "0c5bdd23-a77e-4732-beeb-08055ab6638b",
+      "id": "def5367a-a4fa-4b33-be7f-c41e3acb6eba",
       "name": "permission",
       "css": "permission",
       "cat": "singletone",
@@ -4421,7 +4421,7 @@
     },
     {
       "code": "13c90",
-      "id": "b539ae2c-a192-471d-a3a8-893fa5defeae",
+      "id": "2f497daf-2d6b-4fb0-aeb0-7f7d52635dcb",
       "name": "phone",
       "css": "phone",
       "cat": "singletone",
@@ -4430,7 +4430,7 @@
     },
     {
       "code": "13ce1",
-      "id": "2096921f-201a-4f37-9e72-a9d8ea315b74",
+      "id": "7008afcf-7715-4712-980e-8acd7c2f8360",
       "name": "php",
       "css": "php",
       "cat": "singletone",
@@ -4440,7 +4440,7 @@
     {
       "alias": "images",
       "code": "13c91",
-      "id": "ce87be11-8e4b-4b65-8f49-fc6453b05393",
+      "id": "5aec397d-a255-4edc-8a1f-85949c0fbb21",
       "name": "pictures",
       "css": "pictures",
       "cat": "singletone",
@@ -4450,7 +4450,7 @@
     {
       "alias": "chart-2",
       "code": "13c92",
-      "id": "b2941b82-bef3-4dd4-a5e5-427df700ae26",
+      "id": "504e6e7b-3c51-4033-b2fe-89eac7211502",
       "name": "pie",
       "css": "pie",
       "cat": "singletone",
@@ -4460,7 +4460,7 @@
     {
       "alias": "pushpin",
       "code": "13c93",
-      "id": "fa5e4067-5b0f-4f3d-91ec-efb2a52b8baf",
+      "id": "59a80f25-7b96-4590-b0e3-64722d26d167",
       "name": "pin",
       "css": "pin",
       "cat": "singletone",
@@ -4469,7 +4469,7 @@
     },
     {
       "code": "13c94",
-      "id": "d0fcfcaf-8461-49b8-b36d-3adc28e12ada",
+      "id": "1af93634-130a-4c4f-8df2-779383478be4",
       "name": "play-circle",
       "css": "play-circle",
       "cat": "singletone",
@@ -4479,7 +4479,7 @@
     {
       "alias": "video-2,youtube",
       "code": "13c95",
-      "id": "38513de3-0c73-42b4-9683-f4c08caf8d9b",
+      "id": "b88afd0f-2381-487a-acad-7cdb10e7d3c7",
       "name": "play",
       "css": "play",
       "cat": "singletone",
@@ -4488,7 +4488,7 @@
     },
     {
       "code": "13c96",
-      "id": "a867718b-400b-47bd-8dba-5089c7c896a5",
+      "id": "5c1d717e-764a-4bcc-bbbc-5db5333ca915",
       "name": "plug",
       "css": "plug",
       "cat": "singletone",
@@ -4498,7 +4498,7 @@
     {
       "alias": "plug",
       "code": "13c97",
-      "id": "ca37c494-dc4c-43b0-af4a-95936dd0b499",
+      "id": "ef3cc5b7-c7e0-4b83-8a43-275289007eb5",
       "name": "plugins",
       "css": "plugins",
       "cat": "singletone",
@@ -4507,7 +4507,7 @@
     },
     {
       "code": "13c98",
-      "id": "18286231-67a0-4d7a-8117-de541f4d052f",
+      "id": "2ae04296-06b4-4fd7-be14-4a6db3eaa3d5",
       "name": "plus-circle",
       "css": "plus-circle",
       "cat": "singletone",
@@ -4517,7 +4517,7 @@
     {
       "alias": "backward",
       "code": "13c99",
-      "id": "1fea04e5-1f6c-41bd-8e22-80ac52c230d7",
+      "id": "2fc64237-73ad-43a8-bb7e-9ca3802aa8d6",
       "name": "previous",
       "css": "previous",
       "cat": "singletone",
@@ -4527,7 +4527,7 @@
     {
       "alias": "printer",
       "code": "13c9a",
-      "id": "c2d74462-493f-487d-9fe4-11f3a5834df8",
+      "id": "deb57456-a1d6-4859-aed2-f603598e9b3c",
       "name": "print",
       "css": "print",
       "cat": "singletone",
@@ -4536,7 +4536,7 @@
     },
     {
       "code": "13c9b",
-      "id": "563e48b3-07b6-490f-8817-363680a009a2",
+      "id": "62c151f1-79c6-43d5-859d-2839297c6e7b",
       "name": "privacy",
       "css": "privacy",
       "cat": "singletone",
@@ -4546,7 +4546,7 @@
     {
       "alias": "save,ok,checkmark",
       "code": "13c9c",
-      "id": "66ff7533-cff0-4789-9508-b0703985ac82",
+      "id": "2c27f016-8e4b-444f-9b77-f1785c4ac96f",
       "name": "publish",
       "css": "publish",
       "cat": "singletone",
@@ -4555,7 +4555,7 @@
     },
     {
       "code": "13c9d",
-      "id": "edd232e4-9430-4313-a74c-fde0606e280e",
+      "id": "6730dd28-1858-4b68-b7f1-d19e0da1ae45",
       "name": "question-sign-circle",
       "css": "question-sign-circle",
       "cat": "singletone",
@@ -4564,7 +4564,7 @@
     },
     {
       "code": "13c9e",
-      "id": "64ad5ae3-cc4d-4a30-adee-8e29a7f5a170",
+      "id": "593f08e0-b17b-40bf-92e9-b711782848b6",
       "name": "question-sign",
       "css": "question-sign",
       "cat": "singletone",
@@ -4573,7 +4573,7 @@
     },
     {
       "code": "13c9f",
-      "id": "b9056778-83d7-43f0-a357-beca0f18bbec",
+      "id": "c76714eb-7c21-4ac9-8cd3-614050fd0b50",
       "name": "quote-left",
       "css": "quote-left",
       "cat": "singletone",
@@ -4582,7 +4582,7 @@
     },
     {
       "code": "13ca0",
-      "id": "b029e59c-db59-4426-a024-9e2f7332dd57",
+      "id": "ddfd1cfa-b2ed-4558-97ef-80c0a5b002f6",
       "name": "quote-right",
       "css": "quote-right",
       "cat": "singletone",
@@ -4592,7 +4592,7 @@
     {
       "alias": "generic",
       "code": "13ca1",
-      "id": "64fa135b-d228-4fe1-a963-a5585fb7109b",
+      "id": "166e9624-4bf2-4e71-9ba8-6edc711ac5f8",
       "name": "radio-checked",
       "css": "radio-checked",
       "cat": "singletone",
@@ -4601,7 +4601,7 @@
     },
     {
       "code": "13ca2",
-      "id": "4dd3fca0-9d83-455f-b3cf-55f735c81ee3",
+      "id": "5b85139b-706d-400c-a798-a5216c5043fd",
       "name": "radio-unchecked",
       "css": "radio-unchecked",
       "cat": "singletone",
@@ -4610,7 +4610,7 @@
     },
     {
       "code": "13ca3",
-      "id": "43334e73-2b48-46d4-bca8-ad089ac5b45d",
+      "id": "d06f4074-28ff-46fc-b5bf-4a6c6db58081",
       "name": "rebuild",
       "css": "rebuild",
       "cat": "singletone",
@@ -4619,7 +4619,7 @@
     },
     {
       "code": "13ca4",
-      "id": "985cff32-93bb-4d96-8d0a-bc36bd84e581",
+      "id": "48c48ef8-e8a4-4856-b4bf-962477fe0875",
       "name": "repeat",
       "css": "repeat",
       "cat": "singletone",
@@ -4629,7 +4629,7 @@
     {
       "alias": "backward-2,reply-all",
       "code": "13ca5",
-      "id": "aa37ab33-5dc9-483c-8182-60f8c2207fe0",
+      "id": "5c2d2225-f6b9-40eb-8439-5782be72e744",
       "name": "reply",
       "css": "reply",
       "cat": "singletone",
@@ -4639,7 +4639,7 @@
     {
       "alias": "copy",
       "code": "13ca6",
-      "id": "49996345-3a70-40da-a855-0cd3417b13a3",
+      "id": "aad15947-9ce8-4221-a1fc-fa161f502211",
       "name": "save-copy",
       "css": "save-copy",
       "cat": "singletone",
@@ -4649,7 +4649,7 @@
     {
       "alias": "plus-2,new,plus",
       "code": "13ca7",
-      "id": "bccc71db-7774-4d2c-8781-e5179328506b",
+      "id": "ab80a12b-af40-47f1-b66a-0598e4f1a5b5",
       "name": "save-new",
       "css": "save-new",
       "cat": "singletone",
@@ -4658,7 +4658,7 @@
     },
     {
       "code": "13ca8",
-      "id": "ff5d4872-21e7-4c4f-9cd5-f89052cb3ceb",
+      "id": "c3ae6b5b-164e-4912-9b4d-c88b7be14206",
       "name": "scissors",
       "css": "scissors",
       "cat": "singletone",
@@ -4668,7 +4668,7 @@
     {
       "alias": "monitor,desktop",
       "code": "13ca9",
-      "id": "6851a9f1-9b9f-4172-840b-73617483271c",
+      "id": "26b72b07-f735-476a-8612-0f906372597e",
       "name": "screen",
       "css": "screen",
       "cat": "singletone",
@@ -4678,7 +4678,7 @@
     {
       "alias": "tools",
       "code": "13caa",
-      "id": "f1f9d2aa-ec0b-44ba-8300-99f174bb4957",
+      "id": "3c42de12-1171-458d-a67c-ecab3508bb83",
       "name": "screwdriver",
       "css": "screwdriver",
       "cat": "singletone",
@@ -4687,7 +4687,7 @@
     },
     {
       "code": "13cab",
-      "id": "285b8d2d-023d-4f23-a7aa-fa7015fc4c36",
+      "id": "bfe08209-c53f-424e-9b4c-c1849f87315f",
       "name": "search",
       "css": "search",
       "cat": "singletone",
@@ -4696,7 +4696,7 @@
     },
     {
       "code": "13cac",
-      "id": "f4d8345c-b83b-48e6-971d-417ac5ffa911",
+      "id": "25a79e9e-5be9-492a-8bed-90e4c99a83da",
       "name": "select",
       "css": "select",
       "cat": "singletone",
@@ -4705,7 +4705,7 @@
     },
     {
       "code": "13cad",
-      "id": "3adb52c3-e444-4d86-aab5-b27f05061073",
+      "id": "de15f728-bf17-48c5-bbcd-a2de1f9d15e1",
       "name": "settings",
       "css": "settings",
       "cat": "singletone",
@@ -4715,7 +4715,7 @@
     {
       "alias": "out",
       "code": "13cae",
-      "id": "ddcae505-ef18-4dc7-9001-7c462be4be6f",
+      "id": "827d26ba-c3b5-477e-af04-cc5d5b5561c6",
       "name": "share-alt",
       "css": "share-alt",
       "cat": "singletone",
@@ -4724,7 +4724,7 @@
     },
     {
       "code": "13caf",
-      "id": "b20ad7f7-fed6-4081-80a5-f3cd7995aa0f",
+      "id": "b07c1222-5dbd-4349-85a9-53c7cea9363c",
       "name": "share-redo",
       "css": "share-redo",
       "cat": "singletone",
@@ -4734,7 +4734,7 @@
     {
       "alias": "protect,security",
       "code": "13cb0",
-      "id": "c99bf0ca-b134-45f1-81d5-c476714dada1",
+      "id": "09c2691e-2a9d-45e6-ad56-4936c5276284",
       "name": "shield",
       "css": "shield",
       "cat": "singletone",
@@ -4743,7 +4743,7 @@
     },
     {
       "code": "13cb1",
-      "id": "618ad257-3a0a-4369-b8b4-9b40e523d988",
+      "id": "022b2fa3-0f43-44e3-a592-9376cfc0c75d",
       "name": "shuffle",
       "css": "shuffle",
       "cat": "singletone",
@@ -4752,7 +4752,7 @@
     },
     {
       "code": "13cb2",
-      "id": "57220b51-81c9-4fa4-9411-adf060657189",
+      "id": "5abf8ae9-b320-419a-83e3-ffc7dc9ac503",
       "name": "sign-in",
       "css": "sign-in",
       "cat": "singletone",
@@ -4761,7 +4761,7 @@
     },
     {
       "code": "13cb3",
-      "id": "651b1b5d-dcc9-480b-a623-79dc76355c8b",
+      "id": "772ba84c-7412-4176-b6aa-80c704237401",
       "name": "sign-out",
       "css": "sign-out",
       "cat": "singletone",
@@ -4770,7 +4770,7 @@
     },
     {
       "code": "13cb4",
-      "id": "260fcba4-3f5b-44c2-8444-3e12df0defe8",
+      "id": "f5b6dc96-936b-4096-bb5b-ca8c2d228d96",
       "name": "smart-search",
       "css": "smart-search",
       "cat": "singletone",
@@ -4779,7 +4779,7 @@
     },
     {
       "code": "13cb5",
-      "id": "5ae6164f-ac35-4f15-8eb6-34964c5969f8",
+      "id": "2b8a9de4-c66f-4be4-8814-1748b229f7a3",
       "name": "smiley-neutral",
       "css": "smiley-neutral",
       "cat": "singletone",
@@ -4788,7 +4788,7 @@
     },
     {
       "code": "13cb6",
-      "id": "99b626bb-fc54-4fdc-b54c-e0399e202d62",
+      "id": "3bf4d74e-8aee-47e0-b445-72c15b62ca3b",
       "name": "smiley-sad",
       "css": "smiley-sad",
       "cat": "singletone",
@@ -4798,7 +4798,7 @@
     {
       "alias": "smiley-happy",
       "code": "13cb7",
-      "id": "ead427cc-bdca-482c-ac06-727ffdbf7bd7",
+      "id": "2d37cb38-028d-4956-9de8-ab8845c97acd",
       "name": "smiley",
       "css": "smiley",
       "cat": "singletone",
@@ -4807,7 +4807,7 @@
     },
     {
       "code": "13cb8",
-      "id": "1750a37a-1156-421b-bfdc-00027dc49366",
+      "id": "a01f978a-6e7b-44b2-9e07-6556429836fd",
       "name": "sort",
       "css": "sort",
       "cat": "singletone",
@@ -4816,7 +4816,7 @@
     },
     {
       "code": "13cb9",
-      "id": "84a4bc18-b9bb-482e-9663-ba132536333a",
+      "id": "50db14a3-5116-4c30-9698-a7bdfb8642b6",
       "name": "star-full",
       "css": "star-full",
       "cat": "singletone",
@@ -4825,7 +4825,7 @@
     },
     {
       "code": "13cba",
-      "id": "1733604a-f131-423a-ae86-4014ef604a7d",
+      "id": "57dbdd94-7cd0-40d6-8849-45a5c063cf1b",
       "name": "star-half",
       "css": "star-half",
       "cat": "singletone",
@@ -4835,7 +4835,7 @@
     {
       "alias": "arrow-last",
       "code": "13cbb",
-      "id": "5dc557fc-ba91-48e2-a93b-3aa9d8698820",
+      "id": "f0e018f8-6ce1-42ef-b42f-42315d4ccade",
       "name": "step-forward",
       "css": "step-forward",
       "cat": "singletone",
@@ -4844,7 +4844,7 @@
     },
     {
       "code": "13cbc",
-      "id": "067c6f9a-df3c-451e-a7da-89e13b5d3a5a",
+      "id": "f891f063-cf7d-42f6-9a51-88b60f82a263",
       "name": "stop",
       "css": "stop",
       "cat": "singletone",
@@ -4853,7 +4853,7 @@
     },
     {
       "code": "13cbd",
-      "id": "7da12e32-2607-4e60-8b95-02057c061985",
+      "id": "ecde41e3-ea7e-471b-91d2-6d3028e139be",
       "name": "success",
       "css": "success",
       "cat": "singletone",
@@ -4862,7 +4862,7 @@
     },
     {
       "code": "13cbe",
-      "id": "e4608c69-7e15-4346-bbff-af8082c706d5",
+      "id": "32cfd71b-a5b6-42b7-beac-7d00935f1843",
       "name": "support",
       "css": "support",
       "cat": "singletone",
@@ -4871,7 +4871,7 @@
     },
     {
       "code": "13cbf",
-      "id": "73ccb6b5-61de-4820-8ba8-71802b68ed88",
+      "id": "cf65bc9f-304a-4879-85c9-d41443ab476b",
       "name": "table",
       "css": "table",
       "cat": "singletone",
@@ -4881,7 +4881,7 @@
     {
       "alias": "tags",
       "code": "13cc0",
-      "id": "352f54e5-ff85-4f10-b699-80aad18bf75b",
+      "id": "ec93d234-ae03-4ddf-991e-cbec6df21add",
       "name": "tag-double",
       "css": "tag-double",
       "cat": "singletone",
@@ -4891,7 +4891,7 @@
     {
       "alias": "offer",
       "code": "13cc1",
-      "id": "a113e11a-9a24-426b-b37d-947026af1df3",
+      "id": "180e8733-49d2-4e10-ae67-02a056f0c51b",
       "name": "tag",
       "css": "tag",
       "cat": "singletone",
@@ -4901,7 +4901,7 @@
     {
       "alias": "styles",
       "code": "13cc2",
-      "id": "aef9291a-a129-467e-a90f-5b4670a7976e",
+      "id": "003ebbed-c00d-4b62-8aab-678381d0b3a5",
       "name": "tags-squared",
       "css": "tags-squared",
       "cat": "singletone",
@@ -4910,7 +4910,7 @@
     },
     {
       "code": "13cc3",
-      "id": "6ef1854e-18c5-4c2d-ba8a-0526ff0f4925",
+      "id": "21da7903-b4a8-4602-9c52-5a1ab00d8799",
       "name": "tags-trio",
       "css": "tags-trio",
       "cat": "singletone",
@@ -4919,7 +4919,7 @@
     },
     {
       "code": "13cc4",
-      "id": "e88c620b-254f-46c1-ac31-4015796e1b07",
+      "id": "cd059b9a-b81f-4d80-85ca-85848a005806",
       "name": "thumbs-down",
       "css": "thumbs-down",
       "cat": "singletone",
@@ -4928,7 +4928,7 @@
     },
     {
       "code": "13cc5",
-      "id": "1b621dda-a13b-4c5c-9cfb-baa59bc71932",
+      "id": "4f1cd15e-2efb-4f32-a5b4-83e2ae8a666f",
       "name": "thumbs-up",
       "css": "thumbs-up",
       "cat": "singletone",
@@ -4938,7 +4938,7 @@
     {
       "alias": "cancel,close,delete-2",
       "code": "13cc6",
-      "id": "38e317aa-2815-4738-bc6c-fa6655904a9e",
+      "id": "dfa6ce9f-c8ba-4b0c-91de-98c336023807",
       "name": "times",
       "css": "times",
       "cat": "singletone",
@@ -4948,7 +4948,7 @@
     {
       "alias": "delete,purge",
       "code": "13cc7",
-      "id": "836fbf06-7010-4a4e-9e36-2942b4290c7d",
+      "id": "3421ec89-761a-44e7-91bd-4cab4ecf97dd",
       "name": "trash",
       "css": "trash",
       "cat": "singletone",
@@ -4957,7 +4957,7 @@
     },
     {
       "code": "13cc8",
-      "id": "c845caeb-5de8-4914-9bdf-6dfb4ad4efdb",
+      "id": "fb520442-104c-419b-95ce-689f476e02ca",
       "name": "tree-hub",
       "css": "tree-hub",
       "cat": "singletone",
@@ -4966,7 +4966,7 @@
     },
     {
       "code": "13cc9",
-      "id": "0f3bf32b-3ef7-4bce-ae1f-038688f64a8a",
+      "id": "47eb6cd9-5faa-4f58-bcbd-006c977ecc51",
       "name": "tree",
       "css": "tree",
       "cat": "singletone",
@@ -4976,7 +4976,7 @@
     {
       "alias": "refresh,redo-2",
       "code": "13cca",
-      "id": "3083ae73-1d14-46dd-9512-db82d7156b8c",
+      "id": "2abe3622-0593-4eb3-8842-2dfa230d3b84",
       "name": "unblock",
       "css": "unblock",
       "cat": "singletone",
@@ -4985,7 +4985,7 @@
     },
     {
       "code": "13ccb",
-      "id": "af0b782b-754c-4e36-a93f-f5c28628e5ef",
+      "id": "a57f50d7-5464-4c1a-a270-148ce2d5affe",
       "name": "undo-back",
       "css": "undo-back",
       "cat": "singletone",
@@ -4994,7 +4994,7 @@
     },
     {
       "code": "13ccc",
-      "id": "ca9694d9-a5e6-4fe5-b91f-45dd19c3a831",
+      "id": "f850309c-4f0a-4eee-9fa0-d78615766d06",
       "name": "undo",
       "css": "undo",
       "cat": "singletone",
@@ -5004,7 +5004,7 @@
     {
       "alias": "asterisk,star-empty",
       "code": "13ccd",
-      "id": "3471d9ca-2f4f-4907-bf3d-44349b7bd3be",
+      "id": "d20f226a-c1a6-4e7f-ba33-430982b99eb7",
       "name": "unfeatured",
       "css": "unfeatured",
       "cat": "singletone",
@@ -5013,7 +5013,7 @@
     },
     {
       "code": "13cce",
-      "id": "49d49689-8da7-4a34-881d-ebec63be08c9",
+      "id": "047f4a58-9ac8-465c-b381-ce231dc6b865",
       "name": "unlock",
       "css": "unlock",
       "cat": "singletone",
@@ -5022,7 +5022,7 @@
     },
     {
       "code": "13ccf",
-      "id": "a8ec622a-f88e-4129-b5de-9e15c3f4df12",
+      "id": "ba790e11-43ea-4590-94da-6ebb634d33a3",
       "name": "unpublish",
       "css": "unpublish",
       "cat": "singletone",
@@ -5031,7 +5031,7 @@
     },
     {
       "code": "13cd0",
-      "id": "be26215d-2016-4542-9d63-ae93cb2a0fee",
+      "id": "24cb85af-dd52-4314-a8d9-9401f24342e3",
       "name": "upload",
       "css": "upload",
       "cat": "singletone",
@@ -5041,7 +5041,7 @@
     {
       "alias": "activity-log",
       "code": "13cd1",
-      "id": "7f16e151-2666-4c47-b55f-db211fd8fc17",
+      "id": "56b529dc-ed85-4feb-8b74-ff57b810cdc6",
       "name": "user-activity-log",
       "css": "user-activity-log",
       "cat": "singletone",
@@ -5051,7 +5051,7 @@
     {
       "alias": "notes",
       "code": "13cd2",
-      "id": "09e43249-6948-479b-8942-b8b1c962bbf8",
+      "id": "4ae56b9e-b58f-4d60-abca-e361746c9f38",
       "name": "user-notes",
       "css": "user-notes",
       "cat": "singletone",
@@ -5060,7 +5060,7 @@
     },
     {
       "code": "13cd3",
-      "id": "5d7cc39a-c572-4f47-918f-8159116b1d68",
+      "id": "1096e7e1-c792-4e2f-a6b9-39e9936612f5",
       "name": "user",
       "css": "user",
       "cat": "singletone",
@@ -5069,7 +5069,7 @@
     },
     {
       "code": "13cd4",
-      "id": "434e6fc6-acd3-457b-906d-708bb7c13eeb",
+      "id": "26bcfeb6-efb2-4bee-a49f-c8ff3e929d0f",
       "name": "users",
       "css": "users",
       "cat": "singletone",
@@ -5078,7 +5078,7 @@
     },
     {
       "code": "13cd5",
-      "id": "32d20a26-b1b8-4820-9b51-4de0775f6be7",
+      "id": "59f266ec-c935-462b-8252-94de60efdcc9",
       "name": "vcard",
       "css": "vcard",
       "cat": "singletone",
@@ -5088,7 +5088,7 @@
     {
       "alias": "camera-2",
       "code": "13cd6",
-      "id": "9769aead-d6d8-4a9b-9c35-6bef907ba1c8",
+      "id": "da8056a8-f205-4c3f-9645-bf43d7b7b805",
       "name": "video",
       "css": "video",
       "cat": "singletone",
@@ -5097,7 +5097,7 @@
     },
     {
       "code": "13cd7",
-      "id": "a865d943-6139-4184-963d-50eaf4e9ec12",
+      "id": "eecd4fa4-1959-4503-b019-8a7c93ee5352",
       "name": "wand",
       "css": "wand",
       "cat": "singletone",
@@ -5106,7 +5106,7 @@
     },
     {
       "code": "13cd8",
-      "id": "ebb57d06-f1b0-4cb7-84dd-1022277736d2",
+      "id": "2d677ec6-14e2-423f-8d3e-c01f418f257b",
       "name": "warning",
       "css": "warning",
       "cat": "singletone",
@@ -5115,7 +5115,7 @@
     },
     {
       "code": "13cd9",
-      "id": "ab1b01ae-11dc-49d9-8784-fed10cd9db8a",
+      "id": "6562c84d-dc28-4131-b841-20b3fe98cf3c",
       "name": "workflows",
       "css": "workflows",
       "cat": "singletone",
@@ -5125,7 +5125,7 @@
     {
       "alias": "build",
       "code": "13cda",
-      "id": "be36dd7d-4d89-45fe-b380-d8ad50d30024",
+      "id": "c019deac-72e9-4c03-9eb1-870a40b60295",
       "name": "wrench",
       "css": "wrench",
       "cat": "singletone",
@@ -5134,7 +5134,7 @@
     },
     {
       "code": "13cdb",
-      "id": "6507f566-5580-4a9f-80cd-274c5731efca",
+      "id": "123d9587-6efe-4925-8d67-f4f88da72893",
       "name": "zoom-in",
       "css": "zoom-in",
       "cat": "singletone",
@@ -5143,7 +5143,7 @@
     },
     {
       "code": "13cdc",
-      "id": "4bd2f879-7430-496c-9126-a239aefa6635",
+      "id": "57044b6e-1001-4930-84ec-5b83d866cd33",
       "name": "zoom-out",
       "css": "zoom-out",
       "cat": "singletone",

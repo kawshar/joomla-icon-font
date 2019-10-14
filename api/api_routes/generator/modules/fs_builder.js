@@ -17,17 +17,19 @@ const FsEngine = {
 	init: (uid, force = false) => {
 		module.exports.uid = uid
 		if (force === true) {
+			module.exports.clearTrashCan()
 			module.exports.createDownloadFolder()
 			module.exports.createIcoFontFolders()
 			return module.exports
 		}
 	},
 	createDownloadFolder: () => {
-		module.exports.userFolder = path.join(
-			module.exports.publicPath,
-			module.exports.srcPath,
-			module.exports.uid
-		)
+		// module.exports.userFolder = path.join(
+		// 	module.exports.publicPath,
+		// 	module.exports.srcPath,
+		// 	module.exports.uid
+		// )
+		module.exports.userFolder = path.join(module.exports.publicPath)
 		shell.mkdir('-p', module.exports.userFolder)
 	},
 	createIcoFontFolders: () => {
@@ -61,6 +63,11 @@ const FsEngine = {
 		archive.directory(baseDir, module.exports.packageName)
 		archive.finalize()
 		module.exports.userZipFolder = module.exports.userFolder + '/'+ module.exports.packageName +'.zip'
+	},
+
+	clearTrashCan: () => {
+		const publicPath = path.join(module.exports.publicPath)
+		if (fs.existsSync(publicPath)) shell.rm('-rf', publicPath)
 	},
 
 	/*

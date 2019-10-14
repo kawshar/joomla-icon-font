@@ -27,7 +27,7 @@ const Package = {
 			// Check if generator has error after create css, fonts and svg
 			console.log('errors: ', IcoGenerator.errors.message) // eslint-disable-line no-console
 		}
-		IcoGenerator.fsEngine.zipDir() // Create zip file after create necessary file and folder
+		//IcoGenerator.fsEngine.zipDir() // Create zip file after create necessary file and folder
 		fs.writeFile(jsonWritePath, JSON.stringify(collection, null, 2), 'utf8', err => {
 			if (err) console.log('file write error:  ', err) // eslint-disable-line no-console
 		})
