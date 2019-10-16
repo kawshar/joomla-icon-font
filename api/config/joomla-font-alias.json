@@ -17,7 +17,7 @@
 	"envelope-opened": ["mail-2"],
 	"eye-close": ["eye-blocked", "eye-2", "hide"],
 	"eye-open": ["eye","view"],
-	"featured": ["default", "star", "grade"],
+	"featured": ["default", "star","star-full", "grade"],
 	"file-add": ["file-plus"],
 	"folder-close": ["folder"],
 	"folder-open": ["folder-2"],

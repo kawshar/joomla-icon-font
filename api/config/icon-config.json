@@ -5,7 +5,11 @@
     "ascent": 850,
     "descent": -150,
     "code": 59392,
+<<<<<<< HEAD
     "updateCode": 81152,
+=======
+    "updateCode": 81153,
+>>>>>>> cf4f405a342f539f9c6c7ef951ead53fc9596a42
     "fontfamily": "JoomlaFont",
     "prefix": "icon",
     "filename": "joomla-fonts",
