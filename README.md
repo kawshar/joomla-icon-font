@@ -23,6 +23,7 @@ After successfully install run the build command for build fonts
 ```
 npm run build
 ```
+It will generate font package folder into ```public``` directory
 
 ### Exceptional Case 
 

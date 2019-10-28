@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "PORT=3002 NODE_ENV=development node index.js",
-    "build_config": "node -e 'require(\"./api_routes/generator/modules/build_font_config\").init()' ",
-    "build_font": "node -e 'require(\"./api_routes/generator/modules/create_package\").initiate()' ",
+    "build_config": "node -e 'require(\"./app/generator/modules/build_font_config\").init()' ",
+    "build_font": "node -e 'require(\"./app/generator/modules/create_package\").initiate()' ",
     "build": "npm run build_config & npm run build_font",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -14,12 +14,12 @@
 /fontngin
 
 # backend dependecies
-/api/node_modules
-/api/package-lock.json
-/api/yarn.lock
-/api/public
-/api/public/global_package
-/api/packages-backup
+node_modules
+package-lock.json
+yarn.lock
+public
+public/global_package
+packages-backup
 # misc
 .DS_Store
 .env.local

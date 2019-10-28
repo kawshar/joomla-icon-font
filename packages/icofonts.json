@@ -1,7 +1,7 @@
 {
   "glyphs": [
     {
-      "id": "d2954e9e-31c8-4a12-807a-f3afc207fcf9",
+      "id": "1f8c2e54-0c24-40a9-8928-69b9cf07badc",
       "name": "access-levels",
       "assign": "after",
       "duotone": true,
@@ -13,7 +13,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "39a29a5c-02ee-46e3-817c-fb740971e89d",
+      "id": "c407271a-a79a-482d-b922-978838f7754b",
       "name": "access-levels",
       "assign": "before",
       "duotone": true,
@@ -25,7 +25,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ad788ea0-ebd9-4c4b-be48-776c689ae48d",
+      "id": "03665114-1a08-4bfb-8697-2ec8c1f40098",
       "name": "accessibility",
       "assign": "after",
       "duotone": true,
@@ -37,7 +37,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "78645523-248e-48f7-9787-dd6a0abf9f14",
+      "id": "d2c0ff1d-5722-44e0-b874-db2660ba4176",
       "name": "accessibility",
       "assign": "before",
       "duotone": true,
@@ -49,7 +49,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "dc1914f7-abfb-48fb-a092-c7dfe3955b5e",
+      "id": "ae9ce250-6112-44c5-8787-8351e70b1220",
       "name": "add-users",
       "assign": "after",
       "duotone": true,
@@ -61,7 +61,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "629a0254-2b25-4501-a15c-31f13c6c77a3",
+      "id": "358e4a4b-6681-442c-9b27-e5be1e5aeb46",
       "name": "add-users",
       "assign": "before",
       "duotone": true,
@@ -73,7 +73,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9fa5662e-308d-4b13-8761-c214c94de087",
+      "id": "f4bf5b13-e624-402c-834e-fdee925436e1",
       "name": "address",
       "assign": "after",
       "duotone": true,
@@ -85,7 +85,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "223311cb-cfb2-4ddc-95b4-9cd578e5d45e",
+      "id": "a31e2881-b711-4a26-9279-276cd3293f25",
       "name": "address",
       "assign": "before",
       "duotone": true,
@@ -97,7 +97,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "14e8c9cd-55bd-4a26-893d-89efe7db06ec",
+      "id": "77ce8d7a-c995-4762-97a7-60fa7327f67e",
       "name": "angle-double-left",
       "assign": "after",
       "duotone": true,
@@ -109,7 +109,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c634c6dc-ac10-4f59-9d8c-cd9008ac6beb",
+      "id": "645c7e51-c04e-4c48-b742-f92eac87c9df",
       "name": "angle-double-left",
       "assign": "before",
       "duotone": true,
@@ -121,7 +121,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5dcb423d-ab29-456c-987a-d8fb5e90c752",
+      "id": "d60233d4-0d34-4ba5-bf9c-44f13fb0483e",
       "name": "angle-double-right",
       "assign": "after",
       "duotone": true,
@@ -133,7 +133,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b070ccf3-a0b6-4f6b-9b6a-ebb46d076782",
+      "id": "112c55a6-3285-4698-af26-84b196eb7eee",
       "name": "angle-double-right",
       "assign": "before",
       "duotone": true,
@@ -145,7 +145,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e492cff7-1cc7-4b5d-9591-393c4baae408",
+      "id": "33086a66-19ef-4d69-bb8b-afcb6953e9fc",
       "name": "apply",
       "assign": "after",
       "duotone": true,
@@ -157,7 +157,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d28de91f-4a5e-4436-b3be-dae8c83143ba",
+      "id": "0aaa3ad7-61c3-476c-b701-cbfad0427454",
       "name": "apply",
       "assign": "before",
       "duotone": true,
@@ -169,7 +169,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5ee45c32-4ef6-4abe-9a6b-31ee7916aee5",
+      "id": "1b11b167-1f34-4af5-9566-16750168c931",
       "name": "archive",
       "assign": "after",
       "duotone": true,
@@ -181,7 +181,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "444f79ba-64bb-4eb7-bf20-aa0deb7f7317",
+      "id": "4aeb97ee-9278-4d25-85df-b4c8d25090db",
       "name": "archive",
       "assign": "before",
       "duotone": true,
@@ -193,7 +193,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "83c427b2-7659-4e1d-8458-9714e205b2c3",
+      "id": "e56d4efa-b4c2-40ca-bbe7-16cbca60e25d",
       "name": "arrow-first",
       "assign": "after",
       "duotone": true,
@@ -205,7 +205,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "366c1db9-ded8-41c6-a568-3c177b3c9ecd",
+      "id": "1d0f5f63-6ad0-4058-8ef8-4e88175d86e8",
       "name": "arrow-first",
       "assign": "before",
       "duotone": true,
@@ -217,7 +217,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "79a9c10e-16a5-4a62-83d0-cba77818e50f",
+      "id": "4bf09506-d927-4677-aca9-766b073ddf93",
       "name": "arrow-last",
       "assign": "after",
       "duotone": true,
@@ -229,7 +229,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "039954ed-2404-490f-bf9f-206783810e8b",
+      "id": "92e59894-5406-403c-b88d-91adfcf377ff",
       "name": "arrow-last",
       "assign": "before",
       "duotone": true,
@@ -241,7 +241,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "97ef800b-0c45-4f87-b516-6f4f794d9b7b",
+      "id": "0b39651d-2505-4716-bad5-5f2e0b1bb3f4",
       "name": "articles",
       "assign": "after",
       "duotone": true,
@@ -253,7 +253,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3884e634-6ee7-47c7-978b-3d772cc16e33",
+      "id": "8e04be64-7fa7-4abf-a353-fcddbddbdf2d",
       "name": "articles",
       "assign": "before",
       "duotone": true,
@@ -265,7 +265,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "56c62810-7c28-4f33-87cb-d3ec0fdea0e8",
+      "id": "70b73fe4-b627-47ad-9bed-9e78f0aa84be",
       "name": "ascending",
       "assign": "after",
       "duotone": true,
@@ -277,7 +277,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8b4fa1b6-ddb8-4e87-a575-b8d7dfa64215",
+      "id": "5267ac82-004c-4bce-b299-1f2a8182bb70",
       "name": "ascending",
       "assign": "before",
       "duotone": true,
@@ -289,7 +289,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2d8f6332-d4ca-4dae-8fe7-2af3f971d552",
+      "id": "81608986-97b5-4ee5-9b60-cebfe94bf236",
       "name": "backward",
       "assign": "after",
       "duotone": true,
@@ -301,7 +301,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1625f14c-9f93-4a45-b14b-54ee2f4338d6",
+      "id": "e9714c91-9630-46e9-9adc-e7b7e55fad37",
       "name": "backward",
       "assign": "before",
       "duotone": true,
@@ -313,7 +313,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e423b9e9-6c0c-4d75-b9c0-01684b1eb5b2",
+      "id": "d28a26c3-1855-4b44-a40c-ae59bfc9b254",
       "name": "bar",
       "assign": "after",
       "duotone": true,
@@ -325,7 +325,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7ac14cb6-c0b6-4830-8aa6-038ec1d5b31b",
+      "id": "87dccaca-a951-4501-8482-8b920a474ffc",
       "name": "bar",
       "assign": "before",
       "duotone": true,
@@ -337,7 +337,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "37637ac3-4d38-4f1e-ab2a-0ddfeefbcbad",
+      "id": "6a89e7d3-b2f8-47db-ba8b-baa6bb1be371",
       "name": "batch",
       "assign": "after",
       "duotone": true,
@@ -349,7 +349,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e338fc04-b65b-48b7-8822-85ded1f60ead",
+      "id": "a7fd2e12-504a-4283-b5c0-f5342734d2eb",
       "name": "batch",
       "assign": "before",
       "duotone": true,
@@ -361,7 +361,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5ca33cca-8fee-48ed-892c-b53bd7ab3a70",
+      "id": "be248c83-ed1e-47ce-b6ef-f984fa5300d0",
       "name": "book",
       "assign": "after",
       "duotone": true,
@@ -373,7 +373,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e52fe8d2-27ab-4406-9ec2-4d456147a148",
+      "id": "e2c9e124-653e-4a2d-aefc-53e68225d572",
       "name": "book",
       "assign": "before",
       "duotone": true,
@@ -385,7 +385,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6a9dc4ca-d68e-47cd-b1ea-ad881675d91a",
+      "id": "485d045b-ee6f-4e92-b434-654e7927f51d",
       "name": "bookmark",
       "assign": "after",
       "duotone": true,
@@ -397,7 +397,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2625db10-61cc-402f-a1e7-7e79b21a83be",
+      "id": "a9b37a21-3246-44bb-a363-12c7a2a57028",
       "name": "bookmark",
       "assign": "before",
       "duotone": true,
@@ -409,7 +409,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6354f8a8-caf1-4e70-bb1c-152f3c5740d9",
+      "id": "d709dbb2-1500-437b-a204-46a7cc9522b1",
       "name": "briefcase-alt",
       "assign": "after",
       "duotone": true,
@@ -421,7 +421,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fb3b3b45-9f29-47c5-a488-74d9e8bd93f5",
+      "id": "a2d76089-8a9b-4988-b8fb-7f7eb557b10e",
       "name": "briefcase-alt",
       "assign": "before",
       "duotone": true,
@@ -433,7 +433,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "78494c07-6da7-40a7-9e77-9da1dc3c7a62",
+      "id": "32c2aa4b-2e8b-4ea9-acd0-61080ef32400",
       "name": "briefcase",
       "assign": "after",
       "duotone": true,
@@ -445,7 +445,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6fc890b1-a747-4cf5-801f-c7453de2ecbe",
+      "id": "afb2229b-dc3f-48f7-b244-2590bd76e1ec",
       "name": "briefcase",
       "assign": "before",
       "duotone": true,
@@ -457,7 +457,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c94a38a5-d417-42cd-8be7-83b6de9c65a8",
+      "id": "f581718a-2a85-40b9-83b9-6f152e997099",
       "name": "broadcast",
       "assign": "after",
       "duotone": true,
@@ -469,7 +469,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "80d796a3-734d-4a18-a206-ceff1d21218f",
+      "id": "199c4c68-4050-4229-bcaf-0d6ecd69e1d3",
       "name": "broadcast",
       "assign": "before",
       "duotone": true,
@@ -481,7 +481,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "566bb5aa-cfcc-4b33-829c-4816a7594f46",
+      "id": "fc77e119-cb82-47f5-9671-a6ee6c6ae6a1",
       "name": "brush",
       "assign": "after",
       "duotone": true,
@@ -493,7 +493,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "96705eec-9826-447b-b2c2-c55f38b0bc71",
+      "id": "450d820a-7f28-446e-aeda-5baf860d9ec4",
       "name": "brush",
       "assign": "before",
       "duotone": true,
@@ -505,7 +505,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c8a3ddd7-e58c-424c-b14a-1cd72da84d9b",
+      "id": "a01697e7-a164-4795-8e64-28c86b0a1a64",
       "name": "bug",
       "assign": "after",
       "duotone": true,
@@ -517,7 +517,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1e0d5be7-2dff-4293-9df7-65a5ccfd87bd",
+      "id": "39e97fd3-c676-4149-8b1d-6155a2393cc2",
       "name": "bug",
       "assign": "before",
       "duotone": true,
@@ -529,7 +529,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fed84baa-6ec6-407f-b20a-d8f428285554",
+      "id": "a553f2f0-218f-4471-a31f-cdee4ba5e217",
       "name": "calendar",
       "assign": "after",
       "duotone": true,
@@ -541,7 +541,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "46105ee5-77a9-4857-ac2e-c716e0c69a8a",
+      "id": "748b15af-d7fe-4c0e-89a1-b12d846d4a36",
       "name": "calendar",
       "assign": "before",
       "duotone": true,
@@ -553,7 +553,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ec260a2a-78e1-46ce-9516-c30fc8872987",
+      "id": "6e6c5de9-4205-44ca-b8a9-d3a17fa1b599",
       "name": "camera",
       "assign": "after",
       "duotone": true,
@@ -565,7 +565,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "da7e2f23-d68c-40a2-8a14-33705ac88ac5",
+      "id": "3f5441f7-422b-43c7-a91c-981910a7acbc",
       "name": "camera",
       "assign": "before",
       "duotone": true,
@@ -577,7 +577,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fbe16ec0-81ac-43a5-b141-c346486a3400",
+      "id": "b0bd1872-2d85-48d1-8a4e-b137dd27b6c1",
       "name": "cart",
       "assign": "after",
       "duotone": true,
@@ -589,7 +589,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d6add196-6b14-4b01-9fad-f263590386b8",
+      "id": "54647cac-3235-4d4d-8d86-4b06c7dc7114",
       "name": "cart",
       "assign": "before",
       "duotone": true,
@@ -601,7 +601,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "df5dcd4c-ef03-4f4d-8bba-2d9f253bbe8d",
+      "id": "9f999a58-b6af-4a5c-aeae-88b969c71b4d",
       "name": "category",
       "assign": "after",
       "duotone": true,
@@ -613,7 +613,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "445da38a-e648-4028-a4de-f4c243951881",
+      "id": "b350cd34-bb40-4862-8ac0-ac84ae79c4a4",
       "name": "category",
       "assign": "before",
       "duotone": true,
@@ -625,7 +625,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "804b47ab-3007-4852-938d-37554113c3b2",
+      "id": "a187ce1e-f5a0-4a39-af32-74e1eff992c0",
       "name": "chart",
       "assign": "after",
       "duotone": true,
@@ -637,7 +637,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "88654dec-16bb-48c7-baab-676f9d44e869",
+      "id": "7de3c51e-6e91-4303-bccb-767701767cea",
       "name": "chart",
       "assign": "before",
       "duotone": true,
@@ -649,7 +649,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "451d2703-78a4-4901-b5a3-ef7c19c36857",
+      "id": "74d77031-448a-4398-b625-6136a837f3dd",
       "name": "checkedout",
       "assign": "after",
       "duotone": true,
@@ -661,7 +661,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3017f13a-7c17-4559-976f-4a9cb90faae1",
+      "id": "e2931047-10d0-4dbb-bfba-6da20f03c18d",
       "name": "checkedout",
       "assign": "before",
       "duotone": true,
@@ -673,7 +673,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0daf5893-199f-4016-a262-ecb5729980bb",
+      "id": "ee396603-45ae-403d-9ce3-960a41d66c81",
       "name": "click",
       "assign": "after",
       "duotone": true,
@@ -685,7 +685,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c7c10b60-cad9-4cdc-908c-04c79ed19c60",
+      "id": "5b742378-f802-4464-adfb-ff3cd31a9986",
       "name": "click",
       "assign": "before",
       "duotone": true,
@@ -697,7 +697,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2b3e4d30-7acf-4868-8b6f-a2516f7f0ee0",
+      "id": "1291bc7f-559a-46ad-92a0-8fce10dce7f9",
       "name": "cogs",
       "assign": "after",
       "duotone": true,
@@ -709,7 +709,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "af3e806e-4ccd-449a-9861-c9ca0c6618a4",
+      "id": "1bcd645e-8c7a-4187-82fa-f3fb151e9a92",
       "name": "cogs",
       "assign": "before",
       "duotone": true,
@@ -721,7 +721,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "898350fc-3644-4cc7-9a6f-b284a6d6c1fa",
+      "id": "113621ce-2cfb-44df-a480-25f52b7ef02b",
       "name": "comment",
       "assign": "after",
       "duotone": true,
@@ -733,7 +733,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "42c703bf-ff4d-4ff9-a888-7837d4cc2e02",
+      "id": "2efa12a6-43d0-4a9d-b313-b6203f5e5e6f",
       "name": "comment",
       "assign": "before",
       "duotone": true,
@@ -745,7 +745,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "85465be1-4e94-4486-9a8c-826ffd0de943",
+      "id": "aed20eb4-6ba6-44d9-ab07-200496c910a6",
       "name": "compass",
       "assign": "after",
       "duotone": true,
@@ -757,7 +757,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b473eff7-0c51-4d36-a790-385a225ec336",
+      "id": "f9d9b8aa-5fff-4d03-8970-ab23c71bdde0",
       "name": "compass",
       "assign": "before",
       "duotone": true,
@@ -769,7 +769,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0987bd55-e9d8-4f83-a001-791ec3aca635",
+      "id": "6c9a564e-129c-4a0d-a16b-20dd86281b85",
       "name": "components",
       "assign": "after",
       "duotone": true,
@@ -781,7 +781,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "abf42bbb-058a-49d2-b053-1867fc294a7b",
+      "id": "2a663e3f-84c8-44ba-b876-b64349cf8115",
       "name": "components",
       "assign": "before",
       "duotone": true,
@@ -793,7 +793,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f592c2ea-dcab-4930-81aa-10879eb41ae5",
+      "id": "0a64d7f9-dcb4-4d13-b513-9fb9f23f9d3e",
       "name": "contacts-alt",
       "assign": "after",
       "duotone": true,
@@ -805,7 +805,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2c56baab-c8b2-47c1-9be0-0cf89213c6b5",
+      "id": "b2848200-7000-446b-be85-f2077a4628d7",
       "name": "contacts-alt",
       "assign": "before",
       "duotone": true,
@@ -817,7 +817,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "af73fc7a-489d-4f87-ab51-ba197e5d50a1",
+      "id": "a4d4988d-8ab6-4dd7-ad2d-f40504a71e04",
       "name": "contacts",
       "assign": "after",
       "duotone": true,
@@ -829,7 +829,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e9ebc98c-9254-4cdc-8e6a-2965c7ad7dcc",
+      "id": "c91b4672-9426-4b9a-b3a8-0ba4788da455",
       "name": "contacts",
       "assign": "before",
       "duotone": true,
@@ -841,7 +841,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6331623f-86fd-4c58-9bbe-5d72831b209f",
+      "id": "38eff16e-bea3-4c3d-8124-27589f9b9e53",
       "name": "content-scalling",
       "assign": "after",
       "duotone": true,
@@ -853,7 +853,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "442bc070-b486-43e8-bd2b-72d07b213ded",
+      "id": "07689b86-9c76-4806-98cb-62ecdaf5baa0",
       "name": "content-scalling",
       "assign": "before",
       "duotone": true,
@@ -865,7 +865,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b386daa3-f3fb-49f1-919c-08499e8836a5",
+      "id": "020a41ed-c46b-4106-a6f1-89b2915aab94",
       "name": "content",
       "assign": "after",
       "duotone": true,
@@ -877,7 +877,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5ed9a46a-c95c-4c03-8a59-9a06cf78aa5e",
+      "id": "93af4d29-8738-4abf-acb5-00641bb65a08",
       "name": "content",
       "assign": "before",
       "duotone": true,
@@ -889,7 +889,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "494ca84c-899e-4257-bdd1-18660291f186",
+      "id": "39d0d449-ca6c-4aa8-8a30-b39e4c43ebe6",
       "name": "contract-alt",
       "assign": "after",
       "duotone": true,
@@ -901,7 +901,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7ce379e7-41de-41e7-a3bb-cc0f142c51f8",
+      "id": "a504110c-86ff-4982-9f28-69d29cf30fd8",
       "name": "contract-alt",
       "assign": "before",
       "duotone": true,
@@ -913,7 +913,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "77882e32-761a-4b8f-8faa-4f6db75a2db0",
+      "id": "37189729-8173-4872-bf30-7747a5c026bb",
       "name": "credit",
       "assign": "after",
       "duotone": true,
@@ -925,7 +925,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "14c02b56-e12b-4f7c-9ed2-16093f8c6026",
+      "id": "728c538d-6481-46fe-92ff-e3909a5b1d92",
       "name": "credit",
       "assign": "before",
       "duotone": true,
@@ -937,7 +937,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c942c116-2bdf-46a9-94a9-bf6901c191d4",
+      "id": "f83cfe49-20e3-48bd-aef9-0e2c8e0e2336",
       "name": "cube",
       "assign": "after",
       "duotone": true,
@@ -949,7 +949,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2044998f-2ab5-45ea-9050-76f2ef5d9758",
+      "id": "164d5904-41ca-4e05-855d-0bd1702dcb80",
       "name": "cube",
       "assign": "before",
       "duotone": true,
@@ -961,7 +961,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "76c800a6-b8e1-4733-b639-19685452b522",
+      "id": "550db816-ee01-4074-a716-1775f2920b7e",
       "name": "dark-mode",
       "assign": "after",
       "duotone": true,
@@ -973,7 +973,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9b83644f-bde4-46f2-babb-e6ad1584b9ed",
+      "id": "b4d9f097-af98-4968-89e1-0bf9cb084405",
       "name": "dark-mode",
       "assign": "before",
       "duotone": true,
@@ -985,7 +985,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "54ea4868-2267-41a3-b09a-4c3816798998",
+      "id": "9e4a0085-a6fd-4d06-acd7-0b05b65bb1ef",
       "name": "dashboard",
       "assign": "after",
       "duotone": true,
@@ -997,7 +997,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3ef89216-69e3-418a-986b-85aa4b64aa92",
+      "id": "7cad748b-e75c-477f-9396-2fe37905a85b",
       "name": "dashboard",
       "assign": "before",
       "duotone": true,
@@ -1009,7 +1009,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "75ea1399-0629-425d-858a-b1de13c80c28",
+      "id": "0e649507-ec42-452d-9c45-1944b5966e7c",
       "name": "database",
       "assign": "after",
       "duotone": true,
@@ -1021,7 +1021,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1d1f6d04-4340-4f1e-904a-4361af0bd13c",
+      "id": "f8a829c8-60ac-441f-b0b7-d24c9de175da",
       "name": "database",
       "assign": "before",
       "duotone": true,
@@ -1033,7 +1033,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "a15999cd-c34d-40e9-adcb-6ab990da0d48",
+      "id": "d3177200-3ae3-4f27-8d07-748f42e73a83",
       "name": "descending",
       "assign": "after",
       "duotone": true,
@@ -1045,7 +1045,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "11df55d8-2ce7-4b16-9ef5-038c4e874c7d",
+      "id": "a0211ee1-ce67-418f-b341-801d667019a0",
       "name": "descending",
       "assign": "before",
       "duotone": true,
@@ -1057,7 +1057,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e1e614b4-c254-4c3a-99fc-b92ce94f4f9f",
+      "id": "9c3afb63-580d-4c6d-8d46-c589dbf71d70",
       "name": "disable-motion",
       "assign": "after",
       "duotone": true,
@@ -1069,7 +1069,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "45a9df3f-7405-4cd8-9ecd-518aa7b642c8",
+      "id": "b2a6492a-e893-4339-8832-773dd05b5c13",
       "name": "disable-motion",
       "assign": "before",
       "duotone": true,
@@ -1081,7 +1081,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4fad8426-3379-4f2c-ab05-ea1362ab2cfb",
+      "id": "bf897acc-1f68-417d-b85b-a66e990e6073",
       "name": "download",
       "assign": "after",
       "duotone": true,
@@ -1093,7 +1093,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0c4760b0-dcc9-4982-8d66-f8e2e6174d4a",
+      "id": "c6c34b22-20f1-4f89-93ef-fd840f9037b9",
       "name": "download",
       "assign": "before",
       "duotone": true,
@@ -1105,7 +1105,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d9529cac-b182-43cd-ad7b-eff3ec265307",
+      "id": "9a377263-85a9-4add-b210-89baee8815e1",
       "name": "duplicate-alt",
       "assign": "after",
       "duotone": true,
@@ -1117,7 +1117,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "dcbb0363-c8eb-4e70-b516-da4e22b1d0e8",
+      "id": "1077d21d-9c92-4769-bac6-0403a450b9a8",
       "name": "duplicate-alt",
       "assign": "before",
       "duotone": true,
@@ -1129,7 +1129,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5e161a85-bbc9-4f06-9386-03065fafc7ad",
+      "id": "8913b67a-1326-40ba-8860-2bd94ddc9dc2",
       "name": "duplicate",
       "assign": "after",
       "duotone": true,
@@ -1141,7 +1141,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8c4cd8cb-563a-4f67-a3d4-c46c9166d250",
+      "id": "3c109b79-b706-44f0-9289-79d43f3db73d",
       "name": "duplicate",
       "assign": "before",
       "duotone": true,
@@ -1153,7 +1153,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5a87cdb5-6362-4838-a31a-acdac70e3c42",
+      "id": "2505473c-cfc7-46f5-a8d8-0458a4bb1c2d",
       "name": "envelope-badge",
       "assign": "after",
       "duotone": true,
@@ -1165,7 +1165,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9d81c90a-1166-49a5-901a-d2403fcde45d",
+      "id": "419cce83-a7fd-48c1-9099-5b088fc8427b",
       "name": "envelope-badge",
       "assign": "before",
       "duotone": true,
@@ -1177,7 +1177,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "eedfea0b-d874-4b2c-9e55-1500b267629e",
+      "id": "4003b049-86b4-4351-837d-6bc827916347",
       "name": "envelope-open",
       "assign": "after",
       "duotone": true,
@@ -1189,7 +1189,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3b1dc1f2-3c7a-4e02-94bd-13d1d5c825b8",
+      "id": "3d97bd48-8d4a-4ec0-b53f-9749fc8a49d3",
       "name": "envelope-open",
       "assign": "before",
       "duotone": true,
@@ -1201,7 +1201,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2a1011bb-05a7-4374-a28b-fbfb32947993",
+      "id": "19b5cc9d-b2dc-4a0a-9aa2-8ad32879debf",
       "name": "envelope",
       "assign": "after",
       "duotone": true,
@@ -1213,7 +1213,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "272dec5a-6e0d-4ac7-81c4-4f1dc6f5553c",
+      "id": "64310426-5a07-4b70-80c3-7ca686b81577",
       "name": "envelope",
       "assign": "before",
       "duotone": true,
@@ -1225,7 +1225,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4ab99401-1f50-4fc9-8126-d3e6a5b367a6",
+      "id": "ed63924f-ccc7-4227-a167-ad49b56628f0",
       "name": "equalizer",
       "assign": "after",
       "duotone": true,
@@ -1237,7 +1237,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f8614920-2549-48ef-b5b5-df18190e8970",
+      "id": "e26c129f-5c19-4b30-b049-a7ac36cfc8c7",
       "name": "equalizer",
       "assign": "before",
       "duotone": true,
@@ -1249,7 +1249,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "dbef3373-0dff-4ede-9a6b-8a956b23ef26",
+      "id": "e8b1e01b-0c5d-4615-a0b8-2df800d0858b",
       "name": "exit",
       "assign": "after",
       "duotone": true,
@@ -1261,7 +1261,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "332cb0fd-612e-4e01-9de5-1865bdd44360",
+      "id": "c67aea17-8a99-4960-8752-ef66886922fe",
       "name": "exit",
       "assign": "before",
       "duotone": true,
@@ -1273,7 +1273,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4e54862c-6afc-4e0e-a4cb-4fd229456d64",
+      "id": "25ca8e42-ee53-4339-b179-fc20df29366c",
       "name": "expand-full",
       "assign": "after",
       "duotone": true,
@@ -1285,7 +1285,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "82af17af-b088-4d87-8d7b-56377d435a49",
+      "id": "fe9eddb7-f574-4fdd-96cf-0560f7f9a679",
       "name": "expand-full",
       "assign": "before",
       "duotone": true,
@@ -1297,7 +1297,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b8abc1ea-5f0c-4abb-a213-5b0981684125",
+      "id": "4f4796b7-9a16-46fd-b95d-0f48ceebd869",
       "name": "expand",
       "assign": "after",
       "duotone": true,
@@ -1309,7 +1309,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "59b89be5-a99d-49a3-91f7-2d45ad8eb82e",
+      "id": "f97d925f-c1f2-452e-a544-ace2a15ebe05",
       "name": "expand",
       "assign": "before",
       "duotone": true,
@@ -1321,7 +1321,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "87051d4c-a1b1-4730-b90d-5d3dce44227c",
+      "id": "c3b7c551-25f3-49c1-a83e-d46994276128",
       "name": "eye-close",
       "assign": "after",
       "duotone": true,
@@ -1333,7 +1333,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7c6d37e7-7b6d-4caf-b765-8e1f8bb76419",
+      "id": "0f68619b-1744-4bde-80bb-f2f5eb239cf6",
       "name": "eye-close",
       "assign": "before",
       "duotone": true,
@@ -1345,7 +1345,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9aff095e-4b31-42a7-921f-44d1525ee2a0",
+      "id": "8ed7e310-f5ef-4356-b5dc-f3237ddc3a90",
       "name": "eye-open",
       "assign": "after",
       "duotone": true,
@@ -1357,7 +1357,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f45c4542-f5ec-47f8-a420-58150449aad8",
+      "id": "3c790bb2-535b-4327-8d59-f7b4f602ede4",
       "name": "eye-open",
       "assign": "before",
       "duotone": true,
@@ -1369,7 +1369,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9cd529b0-a9b4-4660-a7fd-5a80b82368b1",
+      "id": "f89ecf72-3b69-4d4c-9cde-bea7db49f05e",
       "name": "feed",
       "assign": "after",
       "duotone": true,
@@ -1381,7 +1381,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f9a767f7-4455-444d-8ff6-497633000d02",
+      "id": "72401e04-b8b3-4d83-aa4c-4479a5b0f1b0",
       "name": "feed",
       "assign": "before",
       "duotone": true,
@@ -1393,7 +1393,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "12941617-3b25-4de6-90b1-3b98debbe529",
+      "id": "20197388-d98b-482c-badc-b090157d58d2",
       "name": "field-group",
       "assign": "after",
       "duotone": true,
@@ -1405,7 +1405,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "78ccd614-7b97-48c6-a3e1-84754afe411e",
+      "id": "ba3e2e2d-8037-4f04-96f4-1fdea3640709",
       "name": "field-group",
       "assign": "before",
       "duotone": true,
@@ -1417,7 +1417,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2f59cd03-af09-4cd9-ba40-70597111ca42",
+      "id": "af55d092-e3b1-4bfa-b271-56c917fad27a",
       "name": "fields",
       "assign": "after",
       "duotone": true,
@@ -1429,7 +1429,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3fe5b68d-139d-4f6b-abbb-8c363d6aab55",
+      "id": "122661e1-d410-46ed-b078-691a4fd3d61b",
       "name": "fields",
       "assign": "before",
       "duotone": true,
@@ -1441,7 +1441,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "41ebcbf8-29fd-45c9-86d3-b2575d40436f",
+      "id": "6f9cfb53-b76b-4a7f-a659-817c68269280",
       "name": "file-add",
       "assign": "after",
       "duotone": true,
@@ -1453,7 +1453,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "35e10b39-5a39-4776-b88f-098ae9b1f0f9",
+      "id": "894b78f2-f745-4c4d-946d-73b7b2f64df9",
       "name": "file-add",
       "assign": "before",
       "duotone": true,
@@ -1465,7 +1465,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "a59f1f92-f7a9-4d0f-a693-2db31334dc1a",
+      "id": "b5ecf7a4-5e1a-4f76-89f1-c9a559927ac5",
       "name": "file-check",
       "assign": "after",
       "duotone": true,
@@ -1477,7 +1477,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "a13a3c76-c8db-4197-b15c-2d96174b7f03",
+      "id": "ac48b078-fa31-4d9d-925f-b3fc58351a32",
       "name": "file-check",
       "assign": "before",
       "duotone": true,
@@ -1489,7 +1489,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "73917f8f-46fa-4ea4-9ec0-13a00b5bb8d6",
+      "id": "7011fd08-2d22-41ec-8f13-39d994cc2b72",
       "name": "file-minus",
       "assign": "after",
       "duotone": true,
@@ -1501,7 +1501,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0ed5726b-3475-4d28-96ac-fce5ce4b0ec7",
+      "id": "6901acc5-25ee-4c1d-912c-dce26d40dbd9",
       "name": "file-minus",
       "assign": "before",
       "duotone": true,
@@ -1513,7 +1513,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "14f8277f-d31c-436b-b978-e70702554c38",
+      "id": "59f37570-9517-4786-9e23-efd32dac45fa",
       "name": "file-remove",
       "assign": "after",
       "duotone": true,
@@ -1525,7 +1525,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "79ff2531-b21a-458c-9dc1-eb41fc66d133",
+      "id": "0f660801-4c52-42da-be40-24f37a1bd2fb",
       "name": "file-remove",
       "assign": "before",
       "duotone": true,
@@ -1537,7 +1537,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "36163565-865e-4628-ad52-a64441f6647c",
+      "id": "d750bd61-b4f0-4b5d-b362-916a505f83e9",
       "name": "file",
       "assign": "after",
       "duotone": true,
@@ -1549,7 +1549,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e302d3bf-f513-4884-8a6b-e624cde704dc",
+      "id": "ed747933-f711-40ff-b32e-359bc02c35bb",
       "name": "file",
       "assign": "before",
       "duotone": true,
@@ -1561,7 +1561,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "13d0b5af-b041-4f12-83da-50a1f6ba0017",
+      "id": "96918094-5042-4732-ac3a-82f0f0aaae16",
       "name": "first",
       "assign": "after",
       "duotone": true,
@@ -1573,7 +1573,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8b1a73e0-43dd-4f18-a795-ae5ec38e3729",
+      "id": "5e6cbba6-84c6-408a-85c7-bdb23db56397",
       "name": "first",
       "assign": "before",
       "duotone": true,
@@ -1585,7 +1585,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "cefefb1b-864a-4d30-83f3-e412401f0fe0",
+      "id": "0f6876a8-347b-42bb-828e-083433b0e386",
       "name": "flag",
       "assign": "after",
       "duotone": true,
@@ -1597,7 +1597,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "87f38269-7bbb-4766-9391-fec64f432e62",
+      "id": "f49238d4-937e-4863-b6bc-1b6e129b2c3c",
       "name": "flag",
       "assign": "before",
       "duotone": true,
@@ -1609,7 +1609,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e47268a2-ab33-4281-b0da-8aaaeeb29652",
+      "id": "2617d186-af4e-4466-ae6f-d96f15e3ea70",
       "name": "folder-close",
       "assign": "after",
       "duotone": true,
@@ -1621,7 +1621,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "767b0d35-7a8c-4e93-a9ba-4ce3264fb5bd",
+      "id": "1b4fa358-93a9-4416-9d8f-62bbb2728fea",
       "name": "folder-close",
       "assign": "before",
       "duotone": true,
@@ -1633,7 +1633,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9a7c9b53-b09b-43b7-a456-2e8deabbde82",
+      "id": "3e6e3586-77b9-4b4b-b06f-9a6e14d0b36f",
       "name": "folder-open",
       "assign": "after",
       "duotone": true,
@@ -1645,7 +1645,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "130ffd95-d9d2-4b68-80f5-9e4ea0840f3e",
+      "id": "82dfb1b2-23ee-448a-b427-1384c634ab49",
       "name": "folder-open",
       "assign": "before",
       "duotone": true,
@@ -1657,7 +1657,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d6c8b10d-718c-4c52-98e8-e0f0e142ba7a",
+      "id": "5348c829-89f7-4b77-92da-ca23e903a163",
       "name": "folder-plus",
       "assign": "after",
       "duotone": true,
@@ -1669,7 +1669,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "545f8b89-12d6-4935-a92f-74066048e63f",
+      "id": "53f079ec-e0b1-43e4-993f-ad5b3cd94143",
       "name": "folder-plus",
       "assign": "before",
       "duotone": true,
@@ -1681,7 +1681,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ecdee50f-6fcb-445e-843a-93c81864b1e4",
+      "id": "70a37db7-f400-40e7-bf9c-e2f548495c8a",
       "name": "folder-remove",
       "assign": "after",
       "duotone": true,
@@ -1693,7 +1693,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0aa48f42-d22f-4d2f-97a1-4405d1c4cece",
+      "id": "a2f9cc45-c5ba-450e-8ecc-e0b858b723e1",
       "name": "folder-remove",
       "assign": "before",
       "duotone": true,
@@ -1705,7 +1705,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "86daa9c5-52c8-433b-8c92-f4889966dd7a",
+      "id": "33af53c5-bade-418d-bd76-3d06a04a71de",
       "name": "gift",
       "assign": "after",
       "duotone": true,
@@ -1717,7 +1717,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0facd5b2-5542-4c70-9d44-5d3d707f9741",
+      "id": "52aed0f4-7fd7-4530-b252-934de3b6b78c",
       "name": "gift",
       "assign": "before",
       "duotone": true,
@@ -1729,7 +1729,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0bca1bf0-86f9-4944-9277-b21c9f931ef7",
+      "id": "92f44711-50d6-4fce-b976-678cba9cdccf",
       "name": "grayscale",
       "assign": "after",
       "duotone": true,
@@ -1741,7 +1741,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "352d75f1-872d-4537-bdd8-d450558afbfb",
+      "id": "206827eb-4e33-453d-8d39-a3268c1a0007",
       "name": "grayscale",
       "assign": "before",
       "duotone": true,
@@ -1753,7 +1753,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "a766ac0f-2288-40a9-8c44-6b77a2548229",
+      "id": "724c8a58-1d46-4e33-8abb-2c8737f30513",
       "name": "grid-advance",
       "assign": "after",
       "duotone": true,
@@ -1765,7 +1765,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f52a0b92-65ce-42dd-bfce-06c31af5468b",
+      "id": "f7b97d10-81c5-471c-b335-a8e1164b2039",
       "name": "grid-advance",
       "assign": "before",
       "duotone": true,
@@ -1777,7 +1777,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1fca0f1e-7ec6-479b-9a10-328c017fe833",
+      "id": "a761d32a-5776-4805-b1cb-a8a1b85b8854",
       "name": "groups",
       "assign": "after",
       "duotone": true,
@@ -1789,7 +1789,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "88047eb8-f7df-4c74-94ca-f51f058c1d7d",
+      "id": "741c6695-e6c3-4d61-bd1b-14d282ed26b8",
       "name": "groups",
       "assign": "before",
       "duotone": true,
@@ -1801,7 +1801,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "82a1c797-a00e-4f7a-ac10-9b84970b411a",
+      "id": "737e2845-7132-4a43-aa5d-c19a6f351576",
       "name": "home",
       "assign": "after",
       "duotone": true,
@@ -1813,7 +1813,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "94fd56ea-3075-4afc-9753-c8889f4a0d34",
+      "id": "fd83f23a-3e43-4b02-b070-c12329b6d06e",
       "name": "home",
       "assign": "before",
       "duotone": true,
@@ -1825,7 +1825,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9393d56b-90f7-48b5-bacd-c234b01d2486",
+      "id": "b4f356cb-9215-4097-a8f6-050472b5ec6e",
       "name": "increase",
       "assign": "after",
       "duotone": true,
@@ -1837,7 +1837,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "94946456-0d0e-495c-9efb-6247e488a747",
+      "id": "a49e2a61-b8a7-478d-aea1-e0363886a15a",
       "name": "increase",
       "assign": "before",
       "duotone": true,
@@ -1849,7 +1849,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "88422784-b3f9-44c0-a9ac-78763f2a3678",
+      "id": "1e92603d-abe8-4bdf-9531-37aa0efc8b74",
       "name": "info-circle",
       "assign": "after",
       "duotone": true,
@@ -1861,7 +1861,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "aaeb3800-693d-418f-aaf8-ed9b1213ff0d",
+      "id": "dbcf2f06-bf87-4353-b840-3bc5919fd4fd",
       "name": "info-circle",
       "assign": "before",
       "duotone": true,
@@ -1873,7 +1873,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2585a6d9-b155-437e-b722-7cc70431fdbb",
+      "id": "fc7bc81e-8b66-4f2d-ada1-5195a982cd1c",
       "name": "info",
       "assign": "after",
       "duotone": true,
@@ -1885,7 +1885,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ae05cd91-30c9-4be5-80c8-14293aa4174b",
+      "id": "4e4290e0-beac-4d29-8ece-5702a1a84ee9",
       "name": "info",
       "assign": "before",
       "duotone": true,
@@ -1897,7 +1897,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6c29a72d-226c-4c9c-9d8a-40761ab5364c",
+      "id": "b32ebce2-5b1a-42c2-a57b-47f965ab0e1e",
       "name": "lamp",
       "assign": "after",
       "duotone": true,
@@ -1909,7 +1909,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4ce2b76b-d3ad-42fc-80de-da0781b543e1",
+      "id": "4d32423e-3c46-4cdf-a2a6-98eb4f83bb4e",
       "name": "lamp",
       "assign": "before",
       "duotone": true,
@@ -1921,7 +1921,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fe229cee-50f9-4df7-9cc5-d148f76e83d3",
+      "id": "916897da-17f8-4922-a6d8-9d7973d5c995",
       "name": "last",
       "assign": "after",
       "duotone": true,
@@ -1933,7 +1933,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "173dc00c-2f15-4d63-9869-371a5bb78501",
+      "id": "1649eaca-f8e5-4032-982a-9ff6190e4eee",
       "name": "last",
       "assign": "before",
       "duotone": true,
@@ -1945,7 +1945,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "97f10d00-326e-4a6f-8494-8943ed135a28",
+      "id": "3300e49d-bad4-4f20-ab5e-292f26de053b",
       "name": "learn",
       "assign": "after",
       "duotone": true,
@@ -1957,7 +1957,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5e5cc531-71ba-4ea1-bef8-fab01f3ab745",
+      "id": "434b94aa-3b60-485b-b221-1f12369d723c",
       "name": "learn",
       "assign": "before",
       "duotone": true,
@@ -1969,7 +1969,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "626ee65f-4338-4d57-8ac6-45c56935a21c",
+      "id": "a9e5adf6-c683-4068-be77-4bce6a938215",
       "name": "link",
       "assign": "after",
       "duotone": true,
@@ -1981,7 +1981,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "bd4b7d5e-7a9a-4ba9-9463-d3aa77f83f56",
+      "id": "5bc7d167-4e8b-42b7-9e4c-a0f7ca1b5bfd",
       "name": "link",
       "assign": "before",
       "duotone": true,
@@ -1993,7 +1993,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2fd304fb-a1ef-4d26-96b2-07abe983ca77",
+      "id": "c29c4faa-7ca2-4592-a47a-4de11619c831",
       "name": "list",
       "assign": "after",
       "duotone": true,
@@ -2005,7 +2005,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "acade07b-b570-483f-b02d-68c2a6ec7c9e",
+      "id": "02efdf20-68e5-40f9-a689-3f119dc51681",
       "name": "list-thin",
       "assign": "after",
       "duotone": true,
@@ -2017,7 +2017,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "92caeea9-a915-4c0f-bfe3-8fb9a52aa2b9",
+      "id": "98592d65-8675-4c1b-9a68-5ca470d133f7",
       "name": "list-thin",
       "assign": "before",
       "duotone": true,
@@ -2029,7 +2029,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f5aed31d-4665-4a48-bb59-e07f39e65a62",
+      "id": "36a82494-e679-4e59-a0c4-89636c34a7f3",
       "name": "list",
       "assign": "before",
       "duotone": true,
@@ -2041,7 +2041,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "64559ddf-9922-4291-bc1b-2c236bf0454e",
+      "id": "ce4ea1fb-cd42-40e8-969f-6d1aed9ff1ec",
       "name": "location-alt",
       "assign": "after",
       "duotone": true,
@@ -2053,7 +2053,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b71934f1-d657-4ab1-a5b7-ca97a97f1dc3",
+      "id": "eaf32955-7a77-4146-b4ec-4d807502f6e2",
       "name": "location-alt",
       "assign": "before",
       "duotone": true,
@@ -2065,7 +2065,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8e6bb0b4-4bcb-46e4-b7f7-da5b023c93a1",
+      "id": "6578a976-dc66-442b-8ab0-12f0681df1cc",
       "name": "location",
       "assign": "after",
       "duotone": true,
@@ -2077,7 +2077,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "55795542-1f6d-4aac-a231-014c5a2855dc",
+      "id": "30eb2e37-b1a4-4825-867e-2e753501c850",
       "name": "location",
       "assign": "before",
       "duotone": true,
@@ -2089,7 +2089,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "bc5f1a58-8e46-4b12-8c63-a69bc1ef2d40",
+      "id": "e17050c4-3b60-4ea8-8cbc-7b413ab2c8a6",
       "name": "lock",
       "assign": "after",
       "duotone": true,
@@ -2101,7 +2101,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b8ded265-f887-4d37-a145-0ef49934a19a",
+      "id": "b5d72d30-ada6-4f33-a212-fbb6703aa010",
       "name": "lock",
       "assign": "before",
       "duotone": true,
@@ -2113,7 +2113,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "73b1b1a6-5cf1-4a1f-bfd4-fd09039f52d3",
+      "id": "5eba71ea-b54e-454e-9763-acec80312093",
       "name": "logs",
       "assign": "after",
       "duotone": true,
@@ -2125,7 +2125,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c44d5c06-1544-4c32-b6c3-5c2b9e3a3ad2",
+      "id": "fb4ea7b3-0bbe-4ca2-b998-90cdae5e0edc",
       "name": "logs",
       "assign": "before",
       "duotone": true,
@@ -2137,7 +2137,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "41fe7c48-4e3b-4d14-bd3d-668b80837ff4",
+      "id": "6ce88a09-b787-4beb-8e7b-4d5044b2cfa0",
       "name": "loop",
       "assign": "after",
       "duotone": true,
@@ -2149,7 +2149,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c6828b1f-7e24-41eb-83d3-315df77cffc2",
+      "id": "520fa05a-bf97-4edf-9344-0c139131d705",
       "name": "loop",
       "assign": "before",
       "duotone": true,
@@ -2161,7 +2161,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "abc7702b-e8a6-482d-8562-eb9ab804f689",
+      "id": "c2dac7d6-c12f-4d2d-b517-6bad6af1583a",
       "name": "manage",
       "assign": "after",
       "duotone": true,
@@ -2173,7 +2173,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "43c4d361-2a66-40d7-b061-035543adca49",
+      "id": "a34f65ed-7171-42b4-a606-02f5ae49b6a7",
       "name": "manage-user",
       "assign": "after",
       "duotone": true,
@@ -2185,7 +2185,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "007db7d5-42f7-49e9-bec9-2a2a269cc6b1",
+      "id": "290a4114-2808-4caa-8736-12ccc3e64970",
       "name": "manage-user",
       "assign": "before",
       "duotone": true,
@@ -2197,7 +2197,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "bc1c90a7-85a6-421c-9b1d-4602297983d3",
+      "id": "4b01485d-a6ae-4b31-aa27-4213ddf371df",
       "name": "manage",
       "assign": "before",
       "duotone": true,
@@ -2209,7 +2209,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "43b968d6-1125-48fd-b95c-79e723140aa7",
+      "id": "d8f7040a-09b1-4e6b-b3be-888cacd73261",
       "name": "mass-mail",
       "assign": "after",
       "duotone": true,
@@ -2221,7 +2221,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4a8cf62e-2789-4ccf-bb18-e22a05fccf74",
+      "id": "d5d3831e-fb3c-4f05-9eb0-fbff776831ac",
       "name": "mass-mail",
       "assign": "before",
       "duotone": true,
@@ -2233,7 +2233,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "32d4eb62-b69a-4184-931a-0a1806793cd6",
+      "id": "58a8286e-0253-4a59-a780-7c5c0ff8a3d7",
       "name": "media",
       "assign": "after",
       "duotone": true,
@@ -2245,7 +2245,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "082bde72-abd6-40c9-ae25-912e0da6fc4d",
+      "id": "2d36820a-1d55-42ac-87c6-2c257327c647",
       "name": "media",
       "assign": "before",
       "duotone": true,
@@ -2257,7 +2257,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "df00102e-9809-4e28-a217-97938640650a",
+      "id": "352e1fc2-fc60-4f48-a965-34f19720089e",
       "name": "menu",
       "assign": "after",
       "duotone": true,
@@ -2269,7 +2269,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "19b200e8-6b37-4c04-b857-f236132d1f7d",
+      "id": "10d6904d-a9bd-4bd4-83f7-3c59bcb7bfb1",
       "name": "menu",
       "assign": "before",
       "duotone": true,
@@ -2281,7 +2281,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "44d5fbf7-25cb-4c79-b899-3bccacc7bea6",
+      "id": "4545e703-e226-4432-982e-3d365e2c13af",
       "name": "messaging",
       "assign": "after",
       "duotone": true,
@@ -2293,7 +2293,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ce1ec9d0-affe-4aad-a003-e83f107be274",
+      "id": "55732274-ccc4-42bb-abfe-987857c01808",
       "name": "messaging",
       "assign": "before",
       "duotone": true,
@@ -2305,7 +2305,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5adeb9d6-4486-42cd-a379-e00d9c9b3909",
+      "id": "8c76d2cf-6464-4e18-9009-1d9ceff8bad0",
       "name": "modules",
       "assign": "after",
       "duotone": true,
@@ -2317,7 +2317,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e68ed18c-2fe7-4dda-b36c-10decce22b0d",
+      "id": "84032221-c062-4c55-807a-a62fda0b7de8",
       "name": "modules",
       "assign": "before",
       "duotone": true,
@@ -2329,7 +2329,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "62efc8f3-fb77-448a-8351-d534abad938a",
+      "id": "68e6b181-3f0e-4d0d-9398-0c406a9dcc5d",
       "name": "mouse-pointer-highlighter",
       "assign": "after",
       "duotone": true,
@@ -2341,7 +2341,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ddda6a7f-8fd7-49f8-8269-446a580a5cbf",
+      "id": "d512e6c6-eb76-46e0-af33-a4e20e48f559",
       "name": "mouse-pointer-highlighter",
       "assign": "before",
       "duotone": true,
@@ -2353,7 +2353,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d2c9147e-78ab-480d-ad6a-9ad0d7c6cc52",
+      "id": "aecd8ef0-24fe-4d92-a7e7-5196224c46c9",
       "name": "move",
       "assign": "after",
       "duotone": true,
@@ -2365,7 +2365,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "15e32a16-334f-4894-b8f1-5a0a97ab9f8e",
+      "id": "dd0dcbd6-aea1-4434-bf69-ddcd77cfdfbb",
       "name": "move",
       "assign": "before",
       "duotone": true,
@@ -2377,7 +2377,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "29a1c7ce-2fb2-4e59-983b-cfd1cb14f7d9",
+      "id": "c7d20434-fdc4-473d-a36c-ef18f0298274",
       "name": "multilingual",
       "assign": "after",
       "duotone": true,
@@ -2389,7 +2389,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ed9e52e4-91d0-4c0f-8db7-ef03b65b4029",
+      "id": "078e879e-f021-4c58-b1e5-c6b3c57aaea3",
       "name": "multilingual",
       "assign": "before",
       "duotone": true,
@@ -2401,7 +2401,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "78d478e3-f7d3-4643-bb96-90eaf40d2ef9",
+      "id": "5f2f239e-9378-4e8c-82b4-b4772a71a182",
       "name": "new-tab-alt",
       "assign": "after",
       "duotone": true,
@@ -2413,7 +2413,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f39339c8-8d38-4b1c-9f4a-adf7e4fb8d5b",
+      "id": "210ddc0e-c1b9-4374-8db3-c3b6783200bf",
       "name": "new-tab-alt",
       "assign": "before",
       "duotone": true,
@@ -2425,7 +2425,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "709453d8-bfa6-4892-9484-09e8c2bb84b9",
+      "id": "b67bf22f-f948-4b36-a545-d03a5cae22c0",
       "name": "next",
       "assign": "after",
       "duotone": true,
@@ -2437,7 +2437,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5e114c4e-9812-42b5-89c4-1c9fa42eae39",
+      "id": "3ba9f1f8-31b4-4d52-a340-6e20fa7f727d",
       "name": "next",
       "assign": "before",
       "duotone": true,
@@ -2449,7 +2449,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1701378d-6a2f-4ed5-badc-c98605928359",
+      "id": "1cde50f3-6222-467a-8147-bec60de16b3d",
       "name": "notification-circle",
       "assign": "after",
       "duotone": true,
@@ -2461,7 +2461,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "06a03231-f4ad-4601-9570-8aea5114ccc0",
+      "id": "385b69b1-2572-461f-99cd-3f28c1c8eb40",
       "name": "notification-circle",
       "assign": "before",
       "duotone": true,
@@ -2473,7 +2473,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f9befb07-9ec0-4451-83c1-e09c2f8c0ff8",
+      "id": "26d5e4c7-d3b0-4bd1-9a9f-5e3e420c7600",
       "name": "notification",
       "assign": "after",
       "duotone": true,
@@ -2485,7 +2485,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b48df400-e4a0-43e1-b3f3-9d36b276eac1",
+      "id": "837eb18f-124f-4741-abd2-b6b19ebe51c3",
       "name": "notification",
       "assign": "before",
       "duotone": true,
@@ -2497,7 +2497,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6abd30e6-00ff-4232-8761-375fbff753d1",
+      "id": "88e3c9fe-13f5-4e88-bce3-d9414219c8e3",
       "name": "paint-brush",
       "assign": "after",
       "duotone": true,
@@ -2509,7 +2509,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "63d74f2e-4f50-42d1-b297-7855032c3b99",
+      "id": "a39666f4-11df-426c-ad7a-616ddd7eb948",
       "name": "paint-brush",
       "assign": "before",
       "duotone": true,
@@ -2521,7 +2521,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5d6fe999-b659-41ee-970d-6ffdb909d623",
+      "id": "e55a5afb-27a3-4638-885e-f04804b01888",
       "name": "pause",
       "assign": "after",
       "duotone": true,
@@ -2533,7 +2533,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f4768a4b-48ef-4c44-898d-8f62533401fe",
+      "id": "962bb546-f8d6-4d9b-b607-9abb27d527bf",
       "name": "pause",
       "assign": "before",
       "duotone": true,
@@ -2545,7 +2545,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7abc6f9e-d442-470b-a9aa-5025fd4894c0",
+      "id": "62d937d5-64a0-43bd-ac79-d2af8920acca",
       "name": "pencil",
       "assign": "after",
       "duotone": true,
@@ -2557,7 +2557,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5744e999-a82b-4396-a945-7df64558c173",
+      "id": "69a88315-e0be-46df-a5d9-78cd7926546f",
       "name": "pencil",
       "assign": "before",
       "duotone": true,
@@ -2569,7 +2569,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d35bef89-3500-4053-8f68-5888484dea2c",
+      "id": "58bac743-90ae-4c5d-b609-96cb062ca215",
       "name": "phone",
       "assign": "after",
       "duotone": true,
@@ -2581,7 +2581,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "a89cb644-bdf4-4932-ab32-c98666d50d85",
+      "id": "d2b87a84-a4a3-4ff9-918a-0f5b06caaad1",
       "name": "phone",
       "assign": "before",
       "duotone": true,
@@ -2593,7 +2593,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "67d3c7db-2cf7-4a7e-b519-29c51547b568",
+      "id": "1b228739-a653-4742-ae79-14ae60f45702",
       "name": "pictures",
       "assign": "after",
       "duotone": true,
@@ -2605,7 +2605,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "42bf2668-785d-48d7-9c92-cbe84d4d4f2c",
+      "id": "54ffa561-3209-447b-9758-08ba0da87b19",
       "name": "pictures",
       "assign": "before",
       "duotone": true,
@@ -2617,7 +2617,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "ccadc2c4-775a-4657-853e-f7e552913732",
+      "id": "7dda96f3-948a-4c3f-acfc-21e849a1d39d",
       "name": "pie",
       "assign": "after",
       "duotone": true,
@@ -2629,7 +2629,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "25f4674b-9ba0-45bf-91bb-504814269263",
+      "id": "fc973479-b927-488b-9a0b-bc3cb3b5ecf9",
       "name": "pie",
       "assign": "before",
       "duotone": true,
@@ -2641,7 +2641,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f1b7d30d-52ed-4034-a89b-324cc6622312",
+      "id": "f211d163-eb1d-4b5b-bf4c-5ddf2f897eed",
       "name": "pin",
       "assign": "after",
       "duotone": true,
@@ -2653,7 +2653,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2330151b-685d-41f5-8946-4a59a20a3d3e",
+      "id": "89713b0a-a98b-44ba-81a3-0488b7f04d40",
       "name": "pin",
       "assign": "before",
       "duotone": true,
@@ -2665,7 +2665,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4610c97b-fb12-47b9-aa7c-eebe88b74b79",
+      "id": "2aeeac5e-ccdc-4b52-992d-56dda939fed1",
       "name": "play-circle",
       "assign": "after",
       "duotone": true,
@@ -2677,7 +2677,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "030867e9-dc12-4f87-84d8-17add989acf6",
+      "id": "c8e4d8d8-97a4-439d-83ae-4a9769ec16e7",
       "name": "play-circle",
       "assign": "before",
       "duotone": true,
@@ -2689,7 +2689,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "104d483e-0f34-474e-ae50-7d79eae07a4b",
+      "id": "d521f235-c843-4337-afd3-2c67aa022dab",
       "name": "plugins",
       "assign": "after",
       "duotone": true,
@@ -2701,7 +2701,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8dcd01a7-d981-4835-abbb-bfbfb5b743f3",
+      "id": "5f6fca32-2562-4a71-8093-3fecdd1bd5ed",
       "name": "plugins",
       "assign": "before",
       "duotone": true,
@@ -2713,7 +2713,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "314fb45f-5dde-4c5c-827e-6cdf1b9706b0",
+      "id": "b5c91ac3-5f8c-42b1-a654-20a47558f629",
       "name": "plus-circle",
       "assign": "after",
       "duotone": true,
@@ -2725,7 +2725,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d41e9a97-5be1-4486-ac84-b155cee8c6cf",
+      "id": "22623c5a-6fa3-457e-80fb-9f1e6555e4bc",
       "name": "plus-circle",
       "assign": "before",
       "duotone": true,
@@ -2737,7 +2737,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1eb0b49a-aba6-4f94-bd2e-a7066d7c0df9",
+      "id": "5cecbc40-0d57-4cb8-a438-abe0e9bc4740",
       "name": "previous",
       "assign": "after",
       "duotone": true,
@@ -2749,7 +2749,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "93507da6-e737-4877-8198-c32d44663b1a",
+      "id": "9ef450c0-38fe-4edc-af2c-32724ba1a20f",
       "name": "previous",
       "assign": "before",
       "duotone": true,
@@ -2761,7 +2761,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "73c52b3b-7576-46d3-957c-b1a4556bd444",
+      "id": "b675a638-2ebf-4786-bb0c-98703cddd724",
       "name": "print",
       "assign": "after",
       "duotone": true,
@@ -2773,7 +2773,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "231f406f-1b01-4dae-baba-91e28ebfba1a",
+      "id": "556ded01-6d0c-403c-a619-63dd8a0d4e43",
       "name": "print",
       "assign": "before",
       "duotone": true,
@@ -2785,7 +2785,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "892cf5b6-e8a7-4761-bf14-b09194f65610",
+      "id": "167effd7-b5a7-4a9e-b69c-ffb2f797eb9d",
       "name": "privacy",
       "assign": "after",
       "duotone": true,
@@ -2797,7 +2797,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "86035179-5bbc-451b-ad8c-94d844c718d3",
+      "id": "687d4129-c7e2-4a0d-9172-e92f76de9329",
       "name": "privacy",
       "assign": "before",
       "duotone": true,
@@ -2809,7 +2809,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "392a5587-e5be-4ff7-b532-b2e5c47eb140",
+      "id": "b297230c-3e9b-461e-9c92-ea5620550a94",
       "name": "publish",
       "assign": "after",
       "duotone": true,
@@ -2821,7 +2821,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "526fef07-584c-4eab-a203-ec7d5aca50f6",
+      "id": "02859484-ef42-488b-84d3-e251da64ec38",
       "name": "publish",
       "assign": "before",
       "duotone": true,
@@ -2833,7 +2833,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9310dc5b-4bb1-413e-b11c-75e9468b9efb",
+      "id": "48d44bcd-b85d-42eb-b67c-6d3b53648dd4",
       "name": "purge",
       "assign": "after",
       "duotone": true,
@@ -2845,7 +2845,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9b0768a0-a98d-482f-81c9-90bf1055519e",
+      "id": "019d6792-be12-4e9c-9251-00f4767b9fc6",
       "name": "purge",
       "assign": "before",
       "duotone": true,
@@ -2857,7 +2857,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4b1d4fe8-907d-4b2d-a0ee-815d3daaecb3",
+      "id": "a343ed31-09e8-4dc3-9c1b-e31e1a2d193c",
       "name": "question-sign-circle",
       "assign": "after",
       "duotone": true,
@@ -2869,7 +2869,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "86fa1c42-1c96-4649-9343-2fb2cbae7fc1",
+      "id": "67962297-b2ca-4705-ace3-bbf4aaf2cdc0",
       "name": "question-sign-circle",
       "assign": "before",
       "duotone": true,
@@ -2881,7 +2881,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1975f68b-d2dc-43cf-8d5c-39be74e69c44",
+      "id": "28fe4a09-9a13-4474-8a0e-56f0fd10bf82",
       "name": "quote-left",
       "assign": "after",
       "duotone": true,
@@ -2893,7 +2893,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "50cfa331-b97d-4448-8f13-f06cdaa44e8a",
+      "id": "ed5ae4a2-b5a6-4590-bc27-85c4e650b08c",
       "name": "quote-left",
       "assign": "before",
       "duotone": true,
@@ -2905,7 +2905,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "95570f61-ebda-4827-8d64-4b1029e78290",
+      "id": "f2eaf3b2-d0e0-4846-ac59-8b89a62629f8",
       "name": "quote-right",
       "assign": "after",
       "duotone": true,
@@ -2917,7 +2917,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c120f7ae-cd0c-4235-923e-38807a111de1",
+      "id": "9979f90e-8c36-4c1e-8e5b-6fd2fd1d9cc4",
       "name": "quote-right",
       "assign": "before",
       "duotone": true,
@@ -2929,7 +2929,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7d2032f5-59c8-4e8b-86e3-a1d876fc2ab2",
+      "id": "9e36186b-8076-4e0c-b423-7a7261d015ef",
       "name": "radio-checked",
       "assign": "after",
       "duotone": true,
@@ -2941,7 +2941,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "82c46701-3c4a-48f1-a685-17784acbea79",
+      "id": "f450f6da-1d24-4519-9500-fa5fa9764b1b",
       "name": "radio-checked",
       "assign": "before",
       "duotone": true,
@@ -2953,7 +2953,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "08d06fc7-3a5c-4b8c-8a58-c38434d3806f",
+      "id": "c087a4c4-70f8-4e4d-9cff-8f314c846a5a",
       "name": "rebuild",
       "assign": "after",
       "duotone": true,
@@ -2965,7 +2965,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "549d32bc-0977-4bff-b5fd-ff3d30b5cc15",
+      "id": "4c3f0cc5-05f2-4871-8acb-af23bbf14100",
       "name": "rebuild",
       "assign": "before",
       "duotone": true,
@@ -2977,7 +2977,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6cd98fea-bf6c-44e1-b24d-b22c87463e38",
+      "id": "47ba0b77-fa59-460b-958a-58763e1e893b",
       "name": "repeat",
       "assign": "after",
       "duotone": true,
@@ -2989,7 +2989,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "d13e4793-dcbe-4763-b206-e04ab6fe9193",
+      "id": "1f3362a1-5282-4703-a2b6-b969318ea00e",
       "name": "repeat",
       "assign": "before",
       "duotone": true,
@@ -3001,7 +3001,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "10f7c94e-0dd1-4a03-9fbb-2f55acf3cacc",
+      "id": "b18fff69-fbef-417a-a0c9-2c6e4cdd51a8",
       "name": "reply",
       "assign": "after",
       "duotone": true,
@@ -3013,7 +3013,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6185a6eb-2a96-4c6a-a4cf-0ff33a6733c7",
+      "id": "ee919594-e4b7-4ce0-bed4-346f1785cb37",
       "name": "reply",
       "assign": "before",
       "duotone": true,
@@ -3025,7 +3025,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7efd95b0-9f0c-4513-8dbe-cbfe7bc870b1",
+      "id": "f302609c-24a8-47ca-b60f-30e4649d5c2e",
       "name": "save",
       "assign": "after",
       "duotone": true,
@@ -3037,7 +3037,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3a830d83-37ca-448f-9248-96739f442271",
+      "id": "84f3692b-1879-4069-9174-44ebdd44dd51",
       "name": "save",
       "assign": "before",
       "duotone": true,
@@ -3049,7 +3049,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "a5bc1096-f7fa-4967-b7c3-d939dd58dd53",
+      "id": "ebbae2b7-429d-458c-b521-9c15e3e50e08",
       "name": "scissors",
       "assign": "after",
       "duotone": true,
@@ -3061,7 +3061,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "47a16d57-6257-470b-b49f-36a42662d3a8",
+      "id": "401dc0ae-29ef-4ca0-a686-15fa9588e3a9",
       "name": "scissors",
       "assign": "before",
       "duotone": true,
@@ -3073,7 +3073,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8cf4f45b-7d5e-42a3-ae9b-3c97e0c80f60",
+      "id": "e90c5151-8913-4f56-b558-366f5dc0e215",
       "name": "screen",
       "assign": "after",
       "duotone": true,
@@ -3085,7 +3085,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "cfb0d90e-6cd4-492f-814a-c83309ac4e59",
+      "id": "db675cac-256d-43ad-8195-78a099326cf2",
       "name": "screen",
       "assign": "before",
       "duotone": true,
@@ -3097,7 +3097,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0414c650-860d-4dfb-9020-0a8e4a9dfb74",
+      "id": "703f8abf-2138-4e99-b557-53f70d711b79",
       "name": "screwdriver",
       "assign": "after",
       "duotone": true,
@@ -3109,7 +3109,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "cecf4667-b3af-4a48-8cdf-d14eaa18faf5",
+      "id": "7d365d8f-5c3c-4a6a-98ea-066ff42be916",
       "name": "screwdriver",
       "assign": "before",
       "duotone": true,
@@ -3121,7 +3121,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1f6e0757-be25-47d8-91db-8067a5bdfde4",
+      "id": "f6f6613d-8139-4fb0-a9e5-3ca3ee668ce0",
       "name": "share-alt",
       "assign": "after",
       "duotone": true,
@@ -3133,7 +3133,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7847b9bf-59a9-44ac-95e2-3462bc6b44cf",
+      "id": "55737e9a-9b1e-46fe-8b92-f6229f90ba8a",
       "name": "share-alt",
       "assign": "before",
       "duotone": true,
@@ -3145,7 +3145,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "90611371-0780-4d0c-bb1a-5bace313d6e4",
+      "id": "e9b9249c-3d3c-4d6a-9952-8e1f1076f204",
       "name": "shield",
       "assign": "after",
       "duotone": true,
@@ -3157,7 +3157,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "24f2f2b4-429d-448f-b797-48afff507373",
+      "id": "2777ab8b-6c5a-4c4f-9de1-2f20762641f5",
       "name": "shield",
       "assign": "before",
       "duotone": true,
@@ -3169,7 +3169,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b17dbf8d-054a-4129-8c62-da8bfd2a8768",
+      "id": "531e5988-b271-403e-9768-0519b293c301",
       "name": "shuffle",
       "assign": "after",
       "duotone": true,
@@ -3181,7 +3181,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "59701bfd-00f4-440e-86c7-c94f075147e8",
+      "id": "42bb0f2d-45fc-41ce-b0ac-9d674164d8a3",
       "name": "shuffle",
       "assign": "before",
       "duotone": true,
@@ -3193,7 +3193,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "202c93a8-7109-4fd3-ab91-86711f05d5e1",
+      "id": "8c360858-5ad3-4f01-bb84-62b82121576a",
       "name": "sign-in",
       "assign": "after",
       "duotone": true,
@@ -3205,7 +3205,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f00f0ab3-66ea-429a-8c2d-d0b5115450e3",
+      "id": "710c3793-fdf5-4575-9111-3f1428eb4717",
       "name": "sign-in",
       "assign": "before",
       "duotone": true,
@@ -3217,7 +3217,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7bbcc250-f526-4a59-98b3-baedb587f6d4",
+      "id": "46e28a09-5d36-48a8-ae2c-fb4d44709b22",
       "name": "sign-out",
       "assign": "after",
       "duotone": true,
@@ -3229,7 +3229,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3b5d4f12-2615-4f82-80d6-20edee5f204f",
+      "id": "46558427-3c34-4c47-b823-45f7f7fbe414",
       "name": "sign-out",
       "assign": "before",
       "duotone": true,
@@ -3241,7 +3241,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "253016da-ef02-4f71-be05-8f4413234c86",
+      "id": "ece89e60-6fb6-4f3d-9b58-2e4b56d76d81",
       "name": "smart-search",
       "assign": "after",
       "duotone": true,
@@ -3253,7 +3253,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1d0c9ab0-3973-478a-a622-27fff52ca889",
+      "id": "fc148eb1-14f2-4c43-9381-e8d2107b1ae2",
       "name": "smart-search",
       "assign": "before",
       "duotone": true,
@@ -3265,7 +3265,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "7b6d7157-828f-4b18-bd03-e961a3806137",
+      "id": "bfb27af8-d78c-4225-803a-7035c0280fb0",
       "name": "smiley-neutral",
       "assign": "after",
       "duotone": true,
@@ -3277,7 +3277,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "80d7f06a-93c7-46ce-91ef-661d9b43825b",
+      "id": "0f555806-bfe4-4338-afc5-7ffddfb916c6",
       "name": "smiley-neutral",
       "assign": "before",
       "duotone": true,
@@ -3289,7 +3289,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1993d0c1-a751-4d30-ae2e-b1cabceb56b7",
+      "id": "77a2ae10-0927-43aa-90ab-36d0ab2c6c6f",
       "name": "smiley-sad",
       "assign": "after",
       "duotone": true,
@@ -3301,7 +3301,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9308a96a-8584-4aa4-880a-232ec9a75057",
+      "id": "429b4f76-84d6-48d8-80e0-6bd5f62be5b6",
       "name": "smiley-sad",
       "assign": "before",
       "duotone": true,
@@ -3313,7 +3313,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f30ff5bb-ace4-48e1-9bfb-0352a596a140",
+      "id": "79d31ffb-3537-4508-b211-1db70a69e6b9",
       "name": "smiley",
       "assign": "after",
       "duotone": true,
@@ -3325,7 +3325,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8e384223-baaf-4318-bef9-8c4882d5cd59",
+      "id": "35a0517e-6c0f-4668-9d1a-d98b0515e0e4",
       "name": "smiley",
       "assign": "before",
       "duotone": true,
@@ -3337,7 +3337,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0eec1eac-3dee-4c0c-be3b-ad69296033f7",
+      "id": "0cbae6e1-57de-4e70-bb28-7e8e1522e20a",
       "name": "sourcetree",
       "assign": "after",
       "duotone": true,
@@ -3349,7 +3349,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "aa8da04a-0af0-44c7-8aa5-fc9277b8acc9",
+      "id": "a9736886-a090-42bf-84a5-abb28141eeee",
       "name": "sourcetree",
       "assign": "before",
       "duotone": true,
@@ -3361,7 +3361,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0845150a-6c1a-48a1-bc29-2de3df086053",
+      "id": "c63cb831-ca0f-44d3-9792-e7069f1feb76",
       "name": "step-forward",
       "assign": "after",
       "duotone": true,
@@ -3373,7 +3373,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4de7b82d-9163-4614-b81a-39352ff2679e",
+      "id": "97113140-128f-45eb-a72a-68128052c3c2",
       "name": "step-forward",
       "assign": "before",
       "duotone": true,
@@ -3385,7 +3385,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c8c275cb-ec76-40bd-baa9-89dae15a0b7e",
+      "id": "62e1d90d-6d8e-481c-92ec-6f50ffbbeb46",
       "name": "stop",
       "assign": "after",
       "duotone": true,
@@ -3397,7 +3397,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "2f430f32-e405-446c-a5f2-c33d480ddc3d",
+      "id": "9cf4aa8c-630b-481b-9f1f-3e5a9ef68dbd",
       "name": "stop",
       "assign": "before",
       "duotone": true,
@@ -3409,7 +3409,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fd917d46-52b3-4dcb-a65a-5b09c7dd26ac",
+      "id": "b3b98b02-17af-4a89-8281-f6941556c985",
       "name": "support",
       "assign": "after",
       "duotone": true,
@@ -3421,7 +3421,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "205eadce-fcfd-4c88-b695-fc6c7c9f58c5",
+      "id": "528b9935-4216-4c64-ab8b-96999c1c1c2e",
       "name": "support",
       "assign": "before",
       "duotone": true,
@@ -3433,7 +3433,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "9ab6a21e-c621-4620-bc9c-a3947ca98a06",
+      "id": "66fa2373-b117-4ae5-8b06-6bd7bb523054",
       "name": "table",
       "assign": "after",
       "duotone": true,
@@ -3445,7 +3445,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "63042922-1975-47a9-97a3-7e0d64f29fb5",
+      "id": "88391319-7517-4b4a-aed9-3472e0586783",
       "name": "table",
       "assign": "before",
       "duotone": true,
@@ -3457,7 +3457,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "5dfe5122-7047-4095-85b5-57c506b0b288",
+      "id": "7b05b0f1-96f9-4e90-a564-2fdf53583d32",
       "name": "tag-double",
       "assign": "after",
       "duotone": true,
@@ -3469,7 +3469,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3a9a8ce8-0afb-471f-98c8-b871491eaeae",
+      "id": "ac7d903a-e390-4301-8be1-6ac72ea40db1",
       "name": "tag-double",
       "assign": "before",
       "duotone": true,
@@ -3481,7 +3481,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8bdabb31-1c54-481d-bed9-cbac05a5546c",
+      "id": "77bf35c6-168f-40f6-a77a-7e5987356c37",
       "name": "tags-squared",
       "assign": "after",
       "duotone": true,
@@ -3493,7 +3493,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0e8ff680-e6df-4d6c-9324-3f8ecf60674c",
+      "id": "edf1f7ed-b2d4-46a1-b874-aa50963ee954",
       "name": "tags-squared",
       "assign": "before",
       "duotone": true,
@@ -3505,7 +3505,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b6061b0b-8944-46a6-992b-3ce6e7b025fe",
+      "id": "09d4c319-b58e-4076-8d95-3a2a64bb8f88",
       "name": "tags-trio",
       "assign": "after",
       "duotone": true,
@@ -3517,7 +3517,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f717ec29-d87b-4c5a-830d-776a1a287864",
+      "id": "c9a8fd67-12b7-49b0-bde4-34dcd2a9a75b",
       "name": "tags-trio",
       "assign": "before",
       "duotone": true,
@@ -3529,7 +3529,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "bc2b2929-5895-434c-b0de-1cfcbc18a4c6",
+      "id": "d619f88b-7ba0-4d2f-8f53-dbc61506e0d0",
       "name": "thumbs-down",
       "assign": "after",
       "duotone": true,
@@ -3541,7 +3541,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "67f9a7ea-47a3-4315-94b9-2c7c13d29458",
+      "id": "7f9c85a5-1f29-45ce-8467-8fb9481c543a",
       "name": "thumbs-down",
       "assign": "before",
       "duotone": true,
@@ -3553,7 +3553,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "1f95f7a0-16e0-4dc2-a411-caa233f29f3f",
+      "id": "b8eb4406-b5d7-4ca3-a65e-bf574d68c6f7",
       "name": "thumbs-up",
       "assign": "after",
       "duotone": true,
@@ -3565,7 +3565,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "0851da1c-6284-4dae-a1d5-a0f7dac97a1d",
+      "id": "80b8eb93-bfd8-4356-b5cd-1afaf3f6f2a6",
       "name": "thumbs-up",
       "assign": "before",
       "duotone": true,
@@ -3577,7 +3577,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "18a746de-e3b6-4fbb-8a8d-cb55a9365533",
+      "id": "8ef95151-8daf-4cfb-a936-70450de601d3",
       "name": "toggle-off",
       "assign": "after",
       "duotone": true,
@@ -3589,7 +3589,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "243ae8c0-1639-417b-8f7d-0c2090c89f32",
+      "id": "ea6da1a1-2972-4763-bcb4-26c97e35e957",
       "name": "toggle-off",
       "assign": "before",
       "duotone": true,
@@ -3601,7 +3601,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3bcbdff2-96ef-486d-aeeb-a8bdd889617d",
+      "id": "6924e637-ec1f-47a5-80cf-a30e9b874cca",
       "name": "toggle-on",
       "assign": "after",
       "duotone": true,
@@ -3613,7 +3613,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "34563a92-6018-4d93-b723-7b23b589d3f4",
+      "id": "024001ce-a0d3-4f40-8ea6-20ee1b25c18f",
       "name": "toggle-on",
       "assign": "before",
       "duotone": true,
@@ -3625,7 +3625,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f52667ff-10da-4295-81a8-391232949edd",
+      "id": "40442112-9c27-4482-b9e7-14ec406ce906",
       "name": "unlock",
       "assign": "after",
       "duotone": true,
@@ -3637,7 +3637,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "87c23210-c069-4cf3-994d-d31a63b91a50",
+      "id": "e2d39d26-dcb4-4c5c-a003-0da6505c9e30",
       "name": "unlock",
       "assign": "before",
       "duotone": true,
@@ -3649,7 +3649,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4880a18a-103a-4312-9bc3-721f4f79ade9",
+      "id": "5bec0d3a-2e4f-4967-bcd6-ce1597c62a16",
       "name": "unpublish",
       "assign": "after",
       "duotone": true,
@@ -3661,7 +3661,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "eb722ef4-dd84-4d29-81de-44a2d2537663",
+      "id": "7a601397-0309-477b-bef9-dfb6bd42a80b",
       "name": "unpublish",
       "assign": "before",
       "duotone": true,
@@ -3673,7 +3673,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6aeddd9f-f72e-4f03-bea7-c63c1dc36614",
+      "id": "aacea299-3b4e-4232-9e1c-1a9bcab3e1ac",
       "name": "user-notes",
       "assign": "after",
       "duotone": true,
@@ -3685,7 +3685,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6a9c0ea7-598c-48ed-ac54-82fe0cb29df7",
+      "id": "f0b1cd08-2a35-4f3f-9d60-c97d06e235d7",
       "name": "user-notes",
       "assign": "before",
       "duotone": true,
@@ -3697,7 +3697,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "c77c7a2f-76f9-4ca2-839b-68e284c2b3be",
+      "id": "77e6d8c3-af75-4cd0-8d52-2ff051fb2d7d",
       "name": "user",
       "assign": "after",
       "duotone": true,
@@ -3709,7 +3709,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fa2d8c1e-9977-48be-8425-aa68468d29ec",
+      "id": "7af15e36-c612-48b3-b37b-ea9e9a06eed0",
       "name": "user",
       "assign": "before",
       "duotone": true,
@@ -3721,7 +3721,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "fd74784a-8015-494a-9fcc-2cc125dca303",
+      "id": "e227c5f5-97e3-4307-b709-de0ded60cec8",
       "name": "users",
       "assign": "after",
       "duotone": true,
@@ -3733,7 +3733,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "8dbbc42a-af44-40ed-b734-c250c66a8791",
+      "id": "b060aa75-1797-468f-9693-df0a66f720dc",
       "name": "users",
       "assign": "before",
       "duotone": true,
@@ -3745,7 +3745,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "f5cc15ad-42d5-419e-ab4e-2c2157eca89f",
+      "id": "2d571e15-17d9-40f8-b148-007f46e5bf49",
       "name": "vcard",
       "assign": "after",
       "duotone": true,
@@ -3757,7 +3757,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "04bf8e2b-b0c8-43be-8ed1-9afdd9b54cf5",
+      "id": "bd62ef02-29a2-4fb0-86ab-550abd417cb1",
       "name": "vcard",
       "assign": "before",
       "duotone": true,
@@ -3769,7 +3769,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3ad8e385-a853-4286-9aa1-efead8916da1",
+      "id": "92bec81f-d5da-4a44-b22f-afe2832652de",
       "name": "video",
       "assign": "after",
       "duotone": true,
@@ -3781,7 +3781,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "89b2c8cc-1c24-42e4-b387-0d05e515ec89",
+      "id": "37522508-7c55-4151-8fa2-3b1c2409ef09",
       "name": "video",
       "assign": "before",
       "duotone": true,
@@ -3793,7 +3793,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "26595b95-360e-4cc9-bd52-1c498f1aa6aa",
+      "id": "6cebc268-d955-47ad-9c36-8a18cab2267d",
       "name": "wand",
       "assign": "after",
       "duotone": true,
@@ -3805,7 +3805,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "505defc3-f355-4744-a62f-8cfdc20a8f24",
+      "id": "9eb328fb-ec3b-45da-864f-1a37a189bbb5",
       "name": "wand",
       "assign": "before",
       "duotone": true,
@@ -3817,7 +3817,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "4580be56-5e7b-4c81-ba38-d9f7935189e1",
+      "id": "8e143561-0db8-4977-9f79-48ba1914784c",
       "name": "warning-circle",
       "assign": "after",
       "duotone": true,
@@ -3829,7 +3829,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e024e448-39f5-45a0-9ebe-9af7154584df",
+      "id": "26a6c9d2-294c-4ecf-90a6-88061c9a6df8",
       "name": "warning-circle",
       "assign": "before",
       "duotone": true,
@@ -3841,7 +3841,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "be1d9a91-8f77-466f-a4b6-25932ea379ce",
+      "id": "ae4e988e-a6d5-4c58-8c88-7418a531c8c2",
       "name": "workflows",
       "assign": "after",
       "duotone": true,
@@ -3853,7 +3853,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "b9ba246e-9a84-4c3e-a629-01b1fbafa472",
+      "id": "06727aa0-657e-456b-b251-622de51073f2",
       "name": "workflows",
       "assign": "before",
       "duotone": true,
@@ -3865,7 +3865,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "6fd9281e-1772-4fb2-a627-f7c8111a0b20",
+      "id": "2d459936-1545-452c-98cd-46ff93eb30bb",
       "name": "wrench",
       "assign": "after",
       "duotone": true,
@@ -3877,7 +3877,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "3d8e7f82-a2bd-4a14-a9e1-584fd5318a26",
+      "id": "f6edae9d-4091-44c7-8412-b5e489bd5e3c",
       "name": "wrench",
       "assign": "before",
       "duotone": true,
@@ -3889,7 +3889,7 @@
       "cat": "duotone-icon"
     },
     {
-      "id": "e5c666fe-3d8f-419b-9a2a-f0a51520f2e5",
+      "id": "1cdd63b6-1fbe-4f10-8b30-fbf8e901c39e",
       "name": "access-levels",
       "assign": "before",
       "duotone": false,
@@ -3901,7 +3901,7 @@
       "cat": "singletone"
     },
     {
-      "id": "c5310f53-aa24-4c9c-b480-d3ba5561b8c9",
+      "id": "130d57b5-e089-4180-af7a-c9d9992a81ed",
       "name": "accessibility",
       "assign": "before",
       "duotone": false,
@@ -3913,7 +3913,7 @@
       "cat": "singletone"
     },
     {
-      "id": "14efbebd-291a-43ca-a5d3-46fb9acca831",
+      "id": "995e9c84-f741-429c-a182-ed3f2343b098",
       "name": "add-users",
       "assign": "before",
       "duotone": false,
@@ -3925,7 +3925,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e25f11cb-b487-41b2-888c-b44c41a0e2db",
+      "id": "adc3d0e4-e473-4c22-9a68-d470a54eb10d",
       "name": "address",
       "assign": "before",
       "duotone": false,
@@ -3937,7 +3937,7 @@
       "cat": "singletone"
     },
     {
-      "id": "bf4f560f-64c1-41b7-86b5-4f3042bdc27a",
+      "id": "c08c8e40-816c-4280-88ab-b496dc3cdd56",
       "name": "angle-double-left",
       "assign": "before",
       "duotone": false,
@@ -3949,7 +3949,7 @@
       "cat": "singletone"
     },
     {
-      "id": "3e59307d-7e5b-49dd-a7c1-f9c67f050d16",
+      "id": "3fbb29c3-5d18-4ab7-b046-37fc22b4fa03",
       "name": "angle-double-right",
       "assign": "before",
       "duotone": false,
@@ -3961,7 +3961,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6c980793-b1de-4118-b117-501b5eccccb1",
+      "id": "b455b25e-ed06-4d37-b618-40283f93848f",
       "name": "angle-down",
       "assign": "before",
       "duotone": false,
@@ -3974,7 +3974,7 @@
       "alias": "arrow-down-3"
     },
     {
-      "id": "bd63178d-82fe-42f7-afe3-f8f1d76c7085",
+      "id": "29d58858-54a2-4ece-b64b-51d38fabf434",
       "name": "angle-left",
       "assign": "before",
       "duotone": false,
@@ -3987,7 +3987,7 @@
       "alias": "arrow-left-3"
     },
     {
-      "id": "29d42030-e024-48b4-8f80-5d19b38761d6",
+      "id": "1dfbd124-1d0c-4a65-807f-bf64575e633c",
       "name": "angle-right",
       "assign": "before",
       "duotone": false,
@@ -4000,7 +4000,7 @@
       "alias": "arrow-right-4"
     },
     {
-      "id": "874d1f3d-4044-4085-84af-4518211fb46d",
+      "id": "7c9e7779-dd04-469d-af12-b09394513a27",
       "name": "angle-up",
       "assign": "before",
       "duotone": false,
@@ -4013,7 +4013,7 @@
       "alias": "arrow-up-4"
     },
     {
-      "id": "314d1c40-3846-4d7f-bd0e-ddafa2d0c5cf",
+      "id": "74669dbe-f41a-42af-8e6b-685ce0a49b84",
       "name": "apply",
       "assign": "before",
       "duotone": false,
@@ -4026,7 +4026,7 @@
       "alias": "edit,pencil"
     },
     {
-      "id": "7321bafc-b414-41f3-a144-c0c2d1dff820",
+      "id": "14087875-466e-40af-a1a8-3d818a862894",
       "name": "archive",
       "assign": "before",
       "duotone": false,
@@ -4039,7 +4039,7 @@
       "alias": "drawer-2"
     },
     {
-      "id": "0f74f364-f72f-41ad-8547-a543e09af16a",
+      "id": "19dcfbd7-2bd6-48b7-9f96-3195e88fcbcb",
       "name": "arrow-down",
       "assign": "before",
       "duotone": false,
@@ -4052,7 +4052,7 @@
       "alias": "arrow-down-2"
     },
     {
-      "id": "1f36babb-6a2b-42f0-8b96-cfe51d2949de",
+      "id": "785070df-4b39-49b2-b59e-56102095f248",
       "name": "arrow-first",
       "assign": "before",
       "duotone": false,
@@ -4064,7 +4064,7 @@
       "cat": "singletone"
     },
     {
-      "id": "100fe738-3446-4ad6-a9ef-8f3eebe9bd11",
+      "id": "273dd986-0687-46c9-a12d-73b91de344e6",
       "name": "arrow-last",
       "assign": "before",
       "duotone": false,
@@ -4076,7 +4076,7 @@
       "cat": "singletone"
     },
     {
-      "id": "631b8318-d6f5-443d-b7e0-1f593af80085",
+      "id": "b3cad12e-fadb-4b7b-8e20-2b86cf271d23",
       "name": "arrow-left",
       "assign": "before",
       "duotone": false,
@@ -4089,7 +4089,7 @@
       "alias": "arrow-left-2"
     },
     {
-      "id": "b326323d-232e-44d7-912b-edad79a7a759",
+      "id": "b3ac898b-4167-4ec4-94ed-224adb0ade3f",
       "name": "arrow-right",
       "assign": "before",
       "duotone": false,
@@ -4102,7 +4102,7 @@
       "alias": "arrow-right-2"
     },
     {
-      "id": "c595b26e-4aca-407f-9349-9c8c1f837562",
+      "id": "c003dfd4-b325-4459-9d4d-b33fc0a8b777",
       "name": "arrow-up",
       "assign": "before",
       "duotone": false,
@@ -4115,7 +4115,7 @@
       "alias": "arrow-up-2"
     },
     {
-      "id": "7875f328-0350-4274-94a0-7a97e5b4669d",
+      "id": "92d032ef-b48e-44d9-9f7c-f39554c6ad28",
       "name": "articles",
       "assign": "before",
       "duotone": false,
@@ -4128,7 +4128,7 @@
       "alias": "files"
     },
     {
-      "id": "67cfba79-cd91-4452-84aa-d2eb5eda090b",
+      "id": "ebfb9aa0-80c3-49e0-bed5-7483022e5307",
       "name": "ascending",
       "assign": "before",
       "duotone": false,
@@ -4141,7 +4141,7 @@
       "alias": "sort-down"
     },
     {
-      "id": "abda361c-8249-4387-a7b1-0a8ab5bdbbed",
+      "id": "ccc37552-5638-4f08-a48b-f99477cf3f69",
       "name": "attachment",
       "assign": "before",
       "duotone": false,
@@ -4154,7 +4154,7 @@
       "alias": "paperclip,flag-2"
     },
     {
-      "id": "dd8f50b3-6511-4c25-838a-2cb3b99140f4",
+      "id": "c2c95444-8f3c-47ea-986b-56c579933e9e",
       "name": "backward",
       "assign": "before",
       "duotone": false,
@@ -4166,7 +4166,7 @@
       "cat": "singletone"
     },
     {
-      "id": "b789424f-92ae-4999-b0d3-8f549b98c089",
+      "id": "2a75cddc-2b3b-4988-934f-d1b7a7b2753e",
       "name": "bar",
       "assign": "before",
       "duotone": false,
@@ -4179,7 +4179,7 @@
       "alias": "chart-bar,equalizer-2"
     },
     {
-      "id": "e6a5dcc9-a422-4ecc-862a-4c25dd2fed6d",
+      "id": "83bd60f4-8e28-4dca-ba2b-351ed1ba2012",
       "name": "bars",
       "assign": "before",
       "duotone": false,
@@ -4192,7 +4192,7 @@
       "alias": "menu-3"
     },
     {
-      "id": "3c9b41fb-3605-4738-93d9-8d3aab830a6d",
+      "id": "7a6bf96e-6abf-4840-a3c2-bc3502219a7d",
       "name": "basket",
       "assign": "before",
       "duotone": false,
@@ -4205,7 +4205,7 @@
       "alias": "bucket"
     },
     {
-      "id": "82fb27f8-0209-4516-8565-06edf53b28fc",
+      "id": "13c5c084-b33e-4fda-9237-ebf0e4e96bda",
       "name": "batch",
       "assign": "before",
       "duotone": false,
@@ -4217,7 +4217,7 @@
       "cat": "singletone"
     },
     {
-      "id": "59173cf4-906f-4cad-aef4-65c82fa15d2d",
+      "id": "bc267289-96af-4f9d-8931-c105eda87293",
       "name": "big-black-cursor",
       "assign": "before",
       "duotone": false,
@@ -4230,7 +4230,7 @@
       "alias": "cursor-big"
     },
     {
-      "id": "7fd0a2a1-9b28-4fa3-8b19-0de1af4359e3",
+      "id": "f69ccd60-da65-403b-9aed-c0db1fc8f3b1",
       "name": "big-white-cursor",
       "assign": "before",
       "duotone": false,
@@ -4243,7 +4243,7 @@
       "alias": "cursor-big-outline"
     },
     {
-      "id": "9661b020-4da5-40c2-b024-bdb912f72da7",
+      "id": "9a5ec0b2-33cb-45ac-83f6-7883214b3403",
       "name": "book",
       "assign": "before",
       "duotone": false,
@@ -4256,7 +4256,7 @@
       "alias": "library"
     },
     {
-      "id": "389affdc-d1ae-440f-a182-46ab0050e381",
+      "id": "6ae332d5-1ef7-4730-aac9-ffcb3428d340",
       "name": "bookmark",
       "assign": "before",
       "duotone": false,
@@ -4268,7 +4268,7 @@
       "cat": "singletone"
     },
     {
-      "id": "5be8d42f-c462-493e-bd8d-0748af7220d2",
+      "id": "4b44c848-3a2e-40c1-b5cd-25d9aa101d8c",
       "name": "box-add",
       "assign": "before",
       "duotone": false,
@@ -4280,7 +4280,7 @@
       "cat": "singletone"
     },
     {
-      "id": "70a45c28-ac07-49ba-b2c6-197fd3a54f65",
+      "id": "9968892a-182c-454b-b479-d7c920b6af24",
       "name": "box-remove",
       "assign": "before",
       "duotone": false,
@@ -4292,7 +4292,7 @@
       "cat": "singletone"
     },
     {
-      "id": "2fb3f319-5a67-4119-9884-d3d69ca40cc8",
+      "id": "dfec01c6-0353-4ae5-9463-15bd55998e51",
       "name": "briefcase-alt",
       "assign": "before",
       "duotone": false,
@@ -4305,7 +4305,7 @@
       "alias": "briefcase-2"
     },
     {
-      "id": "3f8da78b-eb9d-462f-9335-c223873cdbae",
+      "id": "856a09a5-05bc-4c57-9d84-5a742498c548",
       "name": "briefcase",
       "assign": "before",
       "duotone": false,
@@ -4317,7 +4317,7 @@
       "cat": "singletone"
     },
     {
-      "id": "b2657491-4f2f-433d-80d4-5cf5aa8493c3",
+      "id": "ad51d6f7-2650-49d9-977b-8c8003a2648a",
       "name": "broadcast",
       "assign": "before",
       "duotone": false,
@@ -4330,7 +4330,7 @@
       "alias": "connection,wifi"
     },
     {
-      "id": "4ee24fd5-f261-48a8-b463-d05b10b5b52b",
+      "id": "140441bc-9566-4818-beec-d4b537bf9405",
       "name": "brush",
       "assign": "before",
       "duotone": false,
@@ -4343,7 +4343,7 @@
       "alias": "paint-brush"
     },
     {
-      "id": "69d8342b-aa07-408e-851c-22f0d72b937b",
+      "id": "f2720c78-0049-4907-8a56-8515773b485b",
       "name": "bubble-quote",
       "assign": "before",
       "duotone": false,
@@ -4356,7 +4356,7 @@
       "alias": "quote-3"
     },
     {
-      "id": "3bf79ade-53d3-48fe-a4f8-54bb6514d3f4",
+      "id": "b7541444-327b-494c-b09b-31d56ab7abba",
       "name": "bug",
       "assign": "before",
       "duotone": false,
@@ -4368,7 +4368,7 @@
       "cat": "singletone"
     },
     {
-      "id": "affa8ab6-64ce-421c-86c3-9ec8ee9b0cc3",
+      "id": "fe2cfe15-265d-42c1-a843-85d84c287b22",
       "name": "calendar-alt",
       "assign": "before",
       "duotone": false,
@@ -4380,7 +4380,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e10edb35-e231-454d-9416-4ca9db3adff9",
+      "id": "2b859faf-f9cf-46dc-8b76-e509577dc872",
       "name": "calendar",
       "assign": "before",
       "duotone": false,
@@ -4392,7 +4392,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e877c732-a1d4-41f4-b3d0-0d9d3338d239",
+      "id": "37ec7f03-acc9-42cd-a030-916a93ef5c17",
       "name": "camera",
       "assign": "before",
       "duotone": false,
@@ -4404,7 +4404,7 @@
       "cat": "singletone"
     },
     {
-      "id": "3d0d47d8-8485-4e56-adce-7ea30a416dd1",
+      "id": "e7d72885-3f4a-48d9-b7f9-e237db0300c5",
       "name": "cancel-circle",
       "assign": "before",
       "duotone": false,
@@ -4416,7 +4416,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6c762dac-b142-4dbe-97be-046f7f8d8af6",
+      "id": "b23b2c3d-d797-4724-b4a2-2da8819fb328",
       "name": "caret-down",
       "assign": "before",
       "duotone": false,
@@ -4429,7 +4429,7 @@
       "alias": "arrow-down-4"
     },
     {
-      "id": "1813bc93-959e-40b3-8b68-40cf1eaf0b9f",
+      "id": "a31352fa-b6a5-47d6-be48-ab1b7766a807",
       "name": "caret-h",
       "assign": "before",
       "duotone": false,
@@ -4441,7 +4441,7 @@
       "cat": "singletone"
     },
     {
-      "id": "0752fb27-011f-48e7-bcf2-9ad3e92399bb",
+      "id": "59892844-357f-4a63-937d-4cac6bc80432",
       "name": "caret-left",
       "assign": "before",
       "duotone": false,
@@ -4454,7 +4454,7 @@
       "alias": "arrow-left-4"
     },
     {
-      "id": "cc0fee07-0b1c-4d0b-b718-0395f1798baf",
+      "id": "4579a6ef-6e8b-4c76-8ce9-2ffca82fb9ec",
       "name": "caret-right",
       "assign": "before",
       "duotone": false,
@@ -4467,7 +4467,7 @@
       "alias": "arrow-right-3"
     },
     {
-      "id": "52f647bd-2760-4fc2-be09-4b921b844090",
+      "id": "44e24d18-1994-46c5-a51f-605576ee66a0",
       "name": "caret-up",
       "assign": "before",
       "duotone": false,
@@ -4480,7 +4480,7 @@
       "alias": "arrow-up-3"
     },
     {
-      "id": "1238e6f5-5abc-491b-9194-88c883ceed38",
+      "id": "f1579f18-f09b-4147-8937-376dbb14e9ff",
       "name": "caret-v",
       "assign": "before",
       "duotone": false,
@@ -4493,7 +4493,7 @@
       "alias": "menu-2"
     },
     {
-      "id": "84f9a0a6-53e2-44bf-8a78-23fbaf5830be",
+      "id": "90c02c50-eba9-4bc0-843f-dc56a7337ace",
       "name": "cart",
       "assign": "before",
       "duotone": false,
@@ -4506,7 +4506,7 @@
       "alias": "shopping"
     },
     {
-      "id": "f871dbfc-534a-4f8e-8dc7-9914d999f7a0",
+      "id": "92ea1bb8-dfac-40cf-8043-05b787ffa32a",
       "name": "category",
       "assign": "before",
       "duotone": false,
@@ -4518,7 +4518,7 @@
       "cat": "singletone"
     },
     {
-      "id": "eefcb2de-28c7-4c5e-b2e8-12b407c2538f",
+      "id": "1bb1e9a8-39e0-4779-8c17-a29265319d34",
       "name": "chart",
       "assign": "before",
       "duotone": false,
@@ -4530,7 +4530,7 @@
       "cat": "singletone"
     },
     {
-      "id": "f378ea98-e6ac-4eeb-97b8-84db207b698a",
+      "id": "762ef81d-4187-49e2-b38f-5b22c86efe1b",
       "name": "check",
       "assign": "before",
       "duotone": false,
@@ -4542,7 +4542,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6d8c6f66-d814-400d-9cac-1e4614c2d1ab",
+      "id": "0ad4cac8-7747-4dce-b6a9-f06d1c08d475",
       "name": "checkbox-checked",
       "assign": "before",
       "duotone": false,
@@ -4554,7 +4554,7 @@
       "cat": "singletone"
     },
     {
-      "id": "33a250b1-319a-4d22-8868-e445c016f15b",
+      "id": "43375cfa-05ef-4043-b1d2-e56b81a747bb",
       "name": "checkbox-partial",
       "assign": "before",
       "duotone": false,
@@ -4566,7 +4566,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a5576031-dcd7-40d7-a9bc-0fb1a3afbac4",
+      "id": "72183003-32de-447d-b50d-cc9a95f6abc2",
       "name": "checkbox-unchecked",
       "assign": "before",
       "duotone": false,
@@ -4578,7 +4578,7 @@
       "cat": "singletone"
     },
     {
-      "id": "03b836ba-c1d5-477f-89a6-e3ce35d834e4",
+      "id": "6b0449a8-c99e-48e4-bc1d-37208d2d07fa",
       "name": "checkedout",
       "assign": "before",
       "duotone": false,
@@ -4591,7 +4591,7 @@
       "alias": "lock,locked,secure"
     },
     {
-      "id": "36199c4e-e36b-43fe-a56c-3448bc47aca5",
+      "id": "d47e765c-4710-4354-889d-68c28bbd518c",
       "name": "checkinmark",
       "assign": "before",
       "duotone": false,
@@ -4603,7 +4603,7 @@
       "cat": "singletone"
     },
     {
-      "id": "c45bc44f-3c8d-4647-81e7-fdb17e876f3d",
+      "id": "60fd0955-79d9-4cfa-8f12-628af0756035",
       "name": "chevron-down",
       "assign": "before",
       "duotone": false,
@@ -4616,7 +4616,7 @@
       "alias": "downarrow"
     },
     {
-      "id": "7c8f9eeb-2c90-4f3b-878c-2ee9959c18f8",
+      "id": "7a45e881-2e77-46ad-9eb4-897ea4588f63",
       "name": "chevron-left",
       "assign": "before",
       "duotone": false,
@@ -4629,7 +4629,7 @@
       "alias": "leftarrow"
     },
     {
-      "id": "4efd42e9-6fa2-4c9f-9f4b-4ff57350c126",
+      "id": "288d0d8e-d089-491e-b44f-3467663953f9",
       "name": "chevron-right",
       "assign": "before",
       "duotone": false,
@@ -4642,7 +4642,7 @@
       "alias": "rightarrow"
     },
     {
-      "id": "4accd56c-94da-4073-a720-818a4e5d69c5",
+      "id": "c7f8da87-7a36-4264-840e-080a50f5a47e",
       "name": "chevron-up",
       "assign": "before",
       "duotone": false,
@@ -4655,7 +4655,7 @@
       "alias": "uparrow"
     },
     {
-      "id": "683f62e1-5487-46d6-8e17-6d765933e40a",
+      "id": "4dbbe2a9-46d3-4b4e-a007-239e2658bcdb",
       "name": "circle",
       "assign": "before",
       "duotone": false,
@@ -4667,7 +4667,7 @@
       "cat": "singletone"
     },
     {
-      "id": "749a3414-291d-43b8-a57c-0a0879d5b818",
+      "id": "48a49f6c-858e-4137-82f0-202bbe5694b2",
       "name": "click",
       "assign": "before",
       "duotone": false,
@@ -4679,7 +4679,7 @@
       "cat": "singletone"
     },
     {
-      "id": "51f3c06c-8a43-4d99-9c16-fdf0c179153d",
+      "id": "3f0dcdbc-9907-4c98-b26a-95350605d572",
       "name": "clock-alt",
       "assign": "before",
       "duotone": false,
@@ -4692,7 +4692,7 @@
       "alias": "clock-2"
     },
     {
-      "id": "20d87f37-38a9-487a-8c6f-8c1b1ecdf5c9",
+      "id": "d69ab5eb-34c6-4bb9-8a64-b7b3a0cccc81",
       "name": "clock",
       "assign": "before",
       "duotone": false,
@@ -4704,7 +4704,7 @@
       "cat": "singletone"
     },
     {
-      "id": "82934f77-45ea-44f2-96d5-9a7ecc77e062",
+      "id": "470c5c63-0e88-40e0-89db-3fcd4f5d7542",
       "name": "code-branch",
       "assign": "before",
       "duotone": false,
@@ -4716,7 +4716,7 @@
       "cat": "singletone"
     },
     {
-      "id": "14778f3b-049b-45e7-965c-062dd29caf4c",
+      "id": "9e2cc3a3-4b53-4d42-adb0-094c8218ff9d",
       "name": "cog",
       "assign": "before",
       "duotone": false,
@@ -4729,7 +4729,7 @@
       "alias": "options-cog"
     },
     {
-      "id": "f93bd733-9b6e-429b-8d9f-03a17b70df9c",
+      "id": "a18a6ca2-5418-43d7-8e1a-8912d1153e45",
       "name": "cogs",
       "assign": "before",
       "duotone": false,
@@ -4742,7 +4742,7 @@
       "alias": "os,options"
     },
     {
-      "id": "2f1a0481-4105-4075-8524-b27816f8b752",
+      "id": "ad414e87-c017-44ae-a672-f7078d454a1b",
       "name": "comment",
       "assign": "before",
       "duotone": false,
@@ -4754,7 +4754,7 @@
       "cat": "singletone"
     },
     {
-      "id": "868f8078-f3a2-4934-a78a-f3d19680d05f",
+      "id": "c7650893-48a0-4fc2-80f7-d1e5df5b0478",
       "name": "comments",
       "assign": "before",
       "duotone": false,
@@ -4766,7 +4766,7 @@
       "cat": "singletone"
     },
     {
-      "id": "ff079cd2-d19d-42bd-bfef-7b3ebd8abafe",
+      "id": "5c37f691-f5b2-4a8c-b147-81396357df43",
       "name": "compass",
       "assign": "before",
       "duotone": false,
@@ -4779,7 +4779,7 @@
       "alias": "navigate,navigate-2"
     },
     {
-      "id": "787b8723-9b9c-4042-80b0-7859081b7aab",
+      "id": "0792b420-25d6-4899-b200-38896ff8df01",
       "name": "components",
       "assign": "before",
       "duotone": false,
@@ -4792,7 +4792,7 @@
       "alias": "layers"
     },
     {
-      "id": "2535fb69-1f64-4f65-a5f4-4854f0d7bb6e",
+      "id": "0aaaece8-4c8a-4a7a-9948-330bebfb52af",
       "name": "contacts-alt",
       "assign": "before",
       "duotone": false,
@@ -4805,7 +4805,7 @@
       "alias": "contacts-2"
     },
     {
-      "id": "0152475f-69c6-4cb7-b70b-928ec8069507",
+      "id": "9caacdd1-07fd-4040-933d-8db12ce20e84",
       "name": "contacts",
       "assign": "before",
       "duotone": false,
@@ -4817,7 +4817,7 @@
       "cat": "singletone"
     },
     {
-      "id": "74f34978-034c-44e3-88f2-1ece2944955b",
+      "id": "668ff51f-003c-41f8-a48c-c8234b68dd71",
       "name": "content-scalling",
       "assign": "before",
       "duotone": false,
@@ -4829,7 +4829,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e90d2fe8-cac4-4e58-bec9-782351cd7062",
+      "id": "8aaad574-9cfa-478a-825c-54c27b46dc60",
       "name": "content",
       "assign": "before",
       "duotone": false,
@@ -4841,7 +4841,7 @@
       "cat": "singletone"
     },
     {
-      "id": "28e96ac2-47db-42b0-a318-50292090d1ed",
+      "id": "a6cdd068-8cb0-43d2-a510-5e62d06fcfdc",
       "name": "contract-alt",
       "assign": "before",
       "duotone": false,
@@ -4854,7 +4854,7 @@
       "alias": "contract-2"
     },
     {
-      "id": "178a033b-a8f8-443d-970b-14f4d8948349",
+      "id": "278194f9-0456-448b-b27f-bd4eadcbc408",
       "name": "contract",
       "assign": "before",
       "duotone": false,
@@ -4866,7 +4866,7 @@
       "cat": "singletone"
     },
     {
-      "id": "29958002-57ad-47ae-ae0f-74aa4602c2ac",
+      "id": "ccaa0481-d40b-49f9-887e-de858c7ec0f4",
       "name": "control",
       "assign": "before",
       "duotone": false,
@@ -4879,7 +4879,7 @@
       "alias": "move"
     },
     {
-      "id": "12a0f3b5-255b-43f4-b304-6e036e4c4510",
+      "id": "da9df18e-0f10-48dc-a896-8b23f6ccf2f7",
       "name": "credit",
       "assign": "before",
       "duotone": false,
@@ -4892,7 +4892,7 @@
       "alias": "credit-card,card"
     },
     {
-      "id": "4135bed3-364e-4fa0-81d8-904461ca3531",
+      "id": "3582a574-422b-4235-9537-25d7303bc210",
       "name": "css",
       "assign": "before",
       "duotone": false,
@@ -4904,7 +4904,7 @@
       "cat": "singletone"
     },
     {
-      "id": "fc3e77e9-3c84-49d3-bdd4-3bde882ee77f",
+      "id": "6bd4898e-f048-4b2e-aab6-40d61b9b496f",
       "name": "cube",
       "assign": "before",
       "duotone": false,
@@ -4916,7 +4916,7 @@
       "cat": "singletone"
     },
     {
-      "id": "ef96ebc7-8202-4b94-9faf-4868b1361bd4",
+      "id": "fd33b9a1-9312-4d10-b6f4-f84907839c2d",
       "name": "dark-mode",
       "assign": "before",
       "duotone": false,
@@ -4928,7 +4928,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9ad0e313-6286-4a5b-9a71-499de98fb18a",
+      "id": "ffae0549-256e-4907-8375-31868cdac8d7",
       "name": "dashboard",
       "assign": "before",
       "duotone": false,
@@ -4940,7 +4940,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8adef494-4182-45ee-a48e-1d3736351134",
+      "id": "177c6913-3ce2-49cc-87cb-f6afc476e4f8",
       "name": "database",
       "assign": "before",
       "duotone": false,
@@ -4953,7 +4953,7 @@
       "alias": "storage"
     },
     {
-      "id": "3db55da4-2039-4cad-99c5-ffcf4ada61e9",
+      "id": "4572de96-2a90-462d-9734-2434423b0b0a",
       "name": "descending",
       "assign": "before",
       "duotone": false,
@@ -4966,7 +4966,7 @@
       "alias": "sort-up"
     },
     {
-      "id": "eecd9b30-1de3-4a23-8aee-4f8bb6aa4c2e",
+      "id": "9a8c3416-930c-4d74-816d-1afafd5bbc6b",
       "name": "disable-motion",
       "assign": "before",
       "duotone": false,
@@ -4978,7 +4978,7 @@
       "cat": "singletone"
     },
     {
-      "id": "1db23c7c-27ab-4353-a728-e789f9293cbd",
+      "id": "53c0939a-7336-481e-849f-162678fcc766",
       "name": "download-alt",
       "assign": "before",
       "duotone": false,
@@ -4991,7 +4991,7 @@
       "alias": "download-2"
     },
     {
-      "id": "852aba16-554c-40dd-9e78-2937637762a6",
+      "id": "5da009fc-2e03-4e85-a241-625f4d9c624c",
       "name": "download",
       "assign": "before",
       "duotone": false,
@@ -5003,7 +5003,7 @@
       "cat": "singletone"
     },
     {
-      "id": "3d8765e9-3f5a-4b66-b6d0-5ff84d572eb6",
+      "id": "bfa5bbd8-774a-4b80-addc-1477a8066d1d",
       "name": "duplicate-alt",
       "assign": "before",
       "duotone": false,
@@ -5015,7 +5015,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9ea29901-858c-4f65-88ff-ed70f99bc54d",
+      "id": "e660c885-96e3-485e-9fcd-85f0657c599e",
       "name": "duplicate",
       "assign": "before",
       "duotone": false,
@@ -5027,7 +5027,7 @@
       "cat": "singletone"
     },
     {
-      "id": "f72f5ab1-905f-4513-b366-938d4e748820",
+      "id": "ae04770d-f2ba-453d-8a22-162748c8d605",
       "name": "ellipsis-h",
       "assign": "before",
       "duotone": false,
@@ -5040,7 +5040,7 @@
       "alias": "more,overflow-menu,menu-horizontal"
     },
     {
-      "id": "e6789d4e-b885-4fac-9522-b72fc4059908",
+      "id": "95f539ad-2e60-4174-ad07-40016c9e4262",
       "name": "ellipsis-v",
       "assign": "before",
       "duotone": false,
@@ -5053,7 +5053,7 @@
       "alias": "menu-vertical"
     },
     {
-      "id": "549c13c3-dce9-4c72-aad0-1947d20cc9e9",
+      "id": "37fa6fa7-2696-4a0e-b2a1-3c62d35a835c",
       "name": "envelope-badge",
       "assign": "before",
       "duotone": false,
@@ -5065,7 +5065,7 @@
       "cat": "singletone"
     },
     {
-      "id": "954bba2c-00f5-4df0-99ca-ad0d5e930517",
+      "id": "d631e462-dc02-40d9-9065-b00c2cdb2f27",
       "name": "envelope-open",
       "assign": "before",
       "duotone": false,
@@ -5077,7 +5077,7 @@
       "cat": "singletone"
     },
     {
-      "id": "2c874949-f7eb-407d-8f0e-a443d5cd026a",
+      "id": "661a9779-86f4-405c-82f1-e73ec4582f5d",
       "name": "envelope",
       "assign": "before",
       "duotone": false,
@@ -5090,7 +5090,7 @@
       "alias": "mail"
     },
     {
-      "id": "7b550ea5-1eed-4f20-8285-bb1e3bf8439b",
+      "id": "e80dd9b3-98f2-4951-bd19-a6a85894963f",
       "name": "equalizer",
       "assign": "before",
       "duotone": false,
@@ -5103,7 +5103,7 @@
       "alias": "settings-2"
     },
     {
-      "id": "8b5c9ba9-2740-4cd7-8bfb-eb17247f8a0e",
+      "id": "fef89264-e156-4e9b-a710-6a4f3ecac59e",
       "name": "error",
       "assign": "before",
       "duotone": false,
@@ -5115,7 +5115,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6146f7f6-a363-4fd2-b96e-a1ff6cb4a1f5",
+      "id": "65630460-5c9b-40aa-91e4-f55c62a9bedd",
       "name": "exit",
       "assign": "before",
       "duotone": false,
@@ -5128,7 +5128,7 @@
       "alias": "switch"
     },
     {
-      "id": "f0f1a486-f619-4553-9432-0f1ccd099672",
+      "id": "8a26f9f7-05ad-4c09-a83e-8a3425bdfeed",
       "name": "expand-full",
       "assign": "before",
       "duotone": false,
@@ -5140,7 +5140,7 @@
       "cat": "singletone"
     },
     {
-      "id": "cd3266d9-a57d-460c-8473-789171ef8fb5",
+      "id": "d0298cc8-534a-47dc-8698-19b710523799",
       "name": "expand",
       "assign": "before",
       "duotone": false,
@@ -5152,7 +5152,7 @@
       "cat": "singletone"
     },
     {
-      "id": "ed4415f0-06c3-4da8-b808-10906cc4efa1",
+      "id": "2b74d02d-511b-4e65-950a-75c96f0406b7",
       "name": "external-link-alt",
       "assign": "before",
       "duotone": false,
@@ -5165,7 +5165,7 @@
       "alias": "new-tab-2,new-tab-alt"
     },
     {
-      "id": "291df7f1-fe00-40e0-8d67-88fffb18d24a",
+      "id": "9ce6104c-3e04-48f2-af22-a65b8451fcb7",
       "name": "external-link",
       "assign": "before",
       "duotone": false,
@@ -5178,7 +5178,7 @@
       "alias": "launch,new-tab"
     },
     {
-      "id": "7ccbe845-3d01-484d-8001-cb5fba3393fc",
+      "id": "445ce12e-6504-4ae4-aa8f-b647daab3f7e",
       "name": "eye-close",
       "assign": "before",
       "duotone": false,
@@ -5191,7 +5191,7 @@
       "alias": "eye-blocked,eye-2,hide"
     },
     {
-      "id": "1bf5e061-1993-49ff-8027-e75e78345424",
+      "id": "aacf97a1-6a63-4c3d-ae6d-76a84b68f1f9",
       "name": "eye-open",
       "assign": "before",
       "duotone": false,
@@ -5204,7 +5204,7 @@
       "alias": "eye,view"
     },
     {
-      "id": "0898b337-1cc4-480c-bd9e-e237bce03d8c",
+      "id": "2830724b-a968-4add-bf50-8741794df18c",
       "name": "featured",
       "assign": "before",
       "duotone": false,
@@ -5217,7 +5217,7 @@
       "alias": "default,star,star-full,grade"
     },
     {
-      "id": "ac697e7a-6071-404e-be73-f8582507a233",
+      "id": "b17415ca-e9f6-478a-aafd-816706b8d5ed",
       "name": "feed",
       "assign": "before",
       "duotone": false,
@@ -5230,7 +5230,7 @@
       "alias": "rss"
     },
     {
-      "id": "4b601936-c7ca-4cbc-a4c9-10a9a9ce9058",
+      "id": "14cbd53b-0a2a-4147-9084-adbd2aed2f7d",
       "name": "field-group",
       "assign": "before",
       "duotone": false,
@@ -5243,7 +5243,7 @@
       "alias": "user-group"
     },
     {
-      "id": "fd84c3fa-2229-4798-9a6c-06e46a1c30e0",
+      "id": "935f3a2e-c9e2-4683-a7c5-94262e50da3d",
       "name": "fields",
       "assign": "before",
       "duotone": false,
@@ -5256,7 +5256,7 @@
       "alias": "input"
     },
     {
-      "id": "38c9c271-bcb8-4ed2-addb-3335637ad5d0",
+      "id": "e0756431-9d59-437d-8074-716ddabb5690",
       "name": "file-add",
       "assign": "before",
       "duotone": false,
@@ -5269,7 +5269,7 @@
       "alias": "file-plus"
     },
     {
-      "id": "d7970b9c-ec5e-4e6a-a6cd-d3c24246eded",
+      "id": "5ad3867a-c614-4c66-b234-d04e62a77ebe",
       "name": "file-check",
       "assign": "before",
       "duotone": false,
@@ -5281,7 +5281,7 @@
       "cat": "singletone"
     },
     {
-      "id": "219c9fd2-82ef-4e60-a57c-4c8fff09de6e",
+      "id": "01e6a8a1-b75b-4e00-a698-0f3a0475ff11",
       "name": "file-minus",
       "assign": "before",
       "duotone": false,
@@ -5293,7 +5293,7 @@
       "cat": "singletone"
     },
     {
-      "id": "dc0c3669-a9ba-4d5e-902a-db9ce737aaba",
+      "id": "8c00f63b-b806-483a-a770-32b87e356158",
       "name": "file-remove",
       "assign": "before",
       "duotone": false,
@@ -5305,7 +5305,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6296647f-2efb-4534-bc46-9ce2e4ba7cd7",
+      "id": "4f5cf326-b411-41b4-87d0-7869d2aaaa15",
       "name": "file",
       "assign": "before",
       "duotone": false,
@@ -5317,7 +5317,7 @@
       "cat": "singletone"
     },
     {
-      "id": "3749b8cc-a373-471e-b610-9899ad96d7c3",
+      "id": "5501e21b-b98e-4a0f-9104-ccd6a50c3592",
       "name": "filter",
       "assign": "before",
       "duotone": false,
@@ -5329,7 +5329,7 @@
       "cat": "singletone"
     },
     {
-      "id": "1ad431f5-3de4-4456-baef-3a0b8b7842f4",
+      "id": "dcd1dfa6-4313-4292-97b4-18179090774e",
       "name": "first",
       "assign": "before",
       "duotone": false,
@@ -5341,7 +5341,7 @@
       "cat": "singletone"
     },
     {
-      "id": "f63c562f-14a6-4810-807b-2eae336208d3",
+      "id": "8bb5bf64-449b-49e5-8387-b28562de8402",
       "name": "flag",
       "assign": "before",
       "duotone": false,
@@ -5353,7 +5353,7 @@
       "cat": "singletone"
     },
     {
-      "id": "69cbb45a-b436-430c-a71d-2872c77d782b",
+      "id": "ea2f1561-ab0d-41a1-b7cd-cb657f260467",
       "name": "folder-close",
       "assign": "before",
       "duotone": false,
@@ -5366,7 +5366,7 @@
       "alias": "folder"
     },
     {
-      "id": "d32a0b1c-e3dc-401f-aaf0-5534ef066542",
+      "id": "f47c22c1-07b1-47c8-8b35-0f1f4cd4a057",
       "name": "folder-open",
       "assign": "before",
       "duotone": false,
@@ -5379,7 +5379,7 @@
       "alias": "folder-2"
     },
     {
-      "id": "9aa42267-e540-4059-a7c9-fb54e4bf212d",
+      "id": "843d0571-c2eb-4d5d-b484-a64e88def363",
       "name": "folder-plus",
       "assign": "before",
       "duotone": false,
@@ -5391,7 +5391,7 @@
       "cat": "singletone"
     },
     {
-      "id": "407c178f-0fad-4319-a00b-02aa705a8e52",
+      "id": "d3fe26eb-3e2e-41bf-94f0-d8ade3f76f72",
       "name": "folder-remove",
       "assign": "before",
       "duotone": false,
@@ -5403,7 +5403,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a7a6b5dd-443f-467e-831a-d8900f6ac872",
+      "id": "0b208d66-04a8-451e-9eae-7fb699dc8935",
       "name": "forward",
       "assign": "before",
       "duotone": false,
@@ -5415,7 +5415,7 @@
       "cat": "singletone"
     },
     {
-      "id": "7c32f561-b67b-4d54-9379-f89b09963bbe",
+      "id": "3467abcc-c107-4fd5-ad74-c0658083138f",
       "name": "gift",
       "assign": "before",
       "duotone": false,
@@ -5428,7 +5428,7 @@
       "alias": "gift-box"
     },
     {
-      "id": "e59fe752-0a6f-4d61-bd4a-97b8a219d03c",
+      "id": "824f0def-0af3-4525-a1b7-b4b002c0fc0d",
       "name": "global",
       "assign": "before",
       "duotone": false,
@@ -5441,7 +5441,7 @@
       "alias": "language,globe"
     },
     {
-      "id": "764af4b0-4ecf-41b4-b7c5-95ea162ad073",
+      "id": "94a63895-4c8c-404e-913f-d9826aae5cd4",
       "name": "grayscale",
       "assign": "before",
       "duotone": false,
@@ -5453,7 +5453,7 @@
       "cat": "singletone"
     },
     {
-      "id": "1c815867-da24-498a-8597-68c50ce1c5eb",
+      "id": "b1a1388f-f0c0-4a8e-a89f-d1c3405a2e0a",
       "name": "grid-advance",
       "assign": "before",
       "duotone": false,
@@ -5465,7 +5465,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9e15e582-5ee1-406a-ab87-9fe884ff263d",
+      "id": "7a6266b0-a3de-4693-abcc-917587f2137c",
       "name": "grid-view",
       "assign": "before",
       "duotone": false,
@@ -5477,7 +5477,7 @@
       "cat": "singletone"
     },
     {
-      "id": "feb025a5-ce11-4ece-a94d-d0cf4a53ef60",
+      "id": "36eb56ff-bc34-4804-8934-870fbf7dab35",
       "name": "grid",
       "assign": "before",
       "duotone": false,
@@ -5490,7 +5490,7 @@
       "alias": "grid-view"
     },
     {
-      "id": "11165773-64b6-4201-848e-394c3f72e744",
+      "id": "1931b58b-b190-4308-8c90-fb1b489122b4",
       "name": "groups",
       "assign": "before",
       "duotone": false,
@@ -5502,7 +5502,7 @@
       "cat": "singletone"
     },
     {
-      "id": "822e48b5-e11f-45fa-8b91-d53710b48aa5",
+      "id": "92d0d0b4-2478-426f-a961-5526be09107f",
       "name": "health",
       "assign": "before",
       "duotone": false,
@@ -5514,7 +5514,7 @@
       "cat": "singletone"
     },
     {
-      "id": "d0f5da4a-96d3-44e2-8921-eb70c1202360",
+      "id": "71cc6a19-424d-4160-9e45-bd7688c41f9c",
       "name": "heart-stroke",
       "assign": "before",
       "duotone": false,
@@ -5526,7 +5526,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a0fe82be-edc4-4dfe-8f94-1657c20c3c70",
+      "id": "2afcc346-0015-4722-863e-1891d5d76129",
       "name": "heart",
       "assign": "before",
       "duotone": false,
@@ -5538,7 +5538,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8429a4db-fe0a-43db-aa55-de52e7212718",
+      "id": "f311834a-3216-441c-afc7-2c7d0ec2d60b",
       "name": "home",
       "assign": "before",
       "duotone": false,
@@ -5550,7 +5550,7 @@
       "cat": "singletone"
     },
     {
-      "id": "d29e5cd9-58fb-4259-8bd3-8b9eccd012c2",
+      "id": "157e9ba7-8810-44cf-b374-1971fd681335",
       "name": "html",
       "assign": "before",
       "duotone": false,
@@ -5562,7 +5562,7 @@
       "cat": "singletone"
     },
     {
-      "id": "54841e10-2c38-4302-82c8-64ad38f38768",
+      "id": "cd02002e-5ed9-4f35-b85e-c6df0edccc91",
       "name": "increase-contrast",
       "assign": "before",
       "duotone": false,
@@ -5574,7 +5574,7 @@
       "cat": "singletone"
     },
     {
-      "id": "530345fe-cd5f-43c7-9526-f314c0cb1273",
+      "id": "9f7ee653-b044-4ff4-b2c3-2d82d9161ea6",
       "name": "info-bubble",
       "assign": "before",
       "duotone": false,
@@ -5587,7 +5587,7 @@
       "alias": "help,help-2"
     },
     {
-      "id": "5598583f-a918-43da-ae9b-e8d65d98e6c0",
+      "id": "fa03d49e-fe2b-4450-8aa8-732a83f9f636",
       "name": "info-circle",
       "assign": "before",
       "duotone": false,
@@ -5599,7 +5599,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a2a04b6a-56be-4462-9113-d75b0b3513e5",
+      "id": "61f66857-0bd3-4772-88c1-d1c0f69e30d0",
       "name": "info",
       "assign": "before",
       "duotone": false,
@@ -5611,7 +5611,7 @@
       "cat": "singletone"
     },
     {
-      "id": "cbf02d4f-9d32-47b7-b7bc-f157d838bcae",
+      "id": "0e174fb0-274c-4135-ba27-d5665b2ea7ed",
       "name": "joomla",
       "assign": "before",
       "duotone": false,
@@ -5623,7 +5623,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e14a9a8b-fb3c-4745-ad53-65c742b95f14",
+      "id": "ffb30f42-8c02-4816-868f-0f19bde2e6d3",
       "name": "lamp",
       "assign": "before",
       "duotone": false,
@@ -5636,7 +5636,7 @@
       "alias": "light,light-bulb"
     },
     {
-      "id": "0e7d4bab-6a7e-457b-9631-a6fc7fde2033",
+      "id": "3900c3b8-6dc2-43c5-85a2-485dabfa47c4",
       "name": "last",
       "assign": "before",
       "duotone": false,
@@ -5648,7 +5648,7 @@
       "cat": "singletone"
     },
     {
-      "id": "0f825c25-0429-47a4-8aa9-efc050835b34",
+      "id": "310739f8-4bae-4ab7-898a-556795f4cea7",
       "name": "learn",
       "assign": "before",
       "duotone": false,
@@ -5661,7 +5661,7 @@
       "alias": "education"
     },
     {
-      "id": "4493f92b-aa68-4179-90d5-5837033fde18",
+      "id": "07b5cdf1-c4e5-49db-a010-43f0026645b6",
       "name": "lighting",
       "assign": "before",
       "duotone": false,
@@ -5673,7 +5673,7 @@
       "cat": "singletone"
     },
     {
-      "id": "0f92c548-4d25-4abc-9431-6c82711a14e4",
+      "id": "1bf12eec-0c1e-45c5-a0f2-b6e5e5c8bd3e",
       "name": "link",
       "assign": "before",
       "duotone": false,
@@ -5685,7 +5685,7 @@
       "cat": "singletone"
     },
     {
-      "id": "c14b58b8-900a-4979-811a-d5564abcfc75",
+      "id": "285b89d4-b5fa-4b61-9915-ee94e79174fa",
       "name": "list-thin",
       "assign": "before",
       "duotone": false,
@@ -5697,7 +5697,7 @@
       "cat": "singletone"
     },
     {
-      "id": "d3df418b-edcb-482d-8993-091a1c473f0d",
+      "id": "f654b680-9ab5-4d11-8159-0822bb963278",
       "name": "list",
       "assign": "before",
       "duotone": false,
@@ -5710,7 +5710,7 @@
       "alias": "list-view"
     },
     {
-      "id": "fc9f92fe-60af-4f7b-8068-1f11c3311b49",
+      "id": "3877c8dd-1f55-497e-b41a-6633a4285864",
       "name": "location-alt",
       "assign": "before",
       "duotone": false,
@@ -5723,7 +5723,7 @@
       "alias": "location-2"
     },
     {
-      "id": "b0dc0968-00fb-416a-ad46-a826163b7843",
+      "id": "be541d78-61f7-480a-8a61-99c6bc1f7801",
       "name": "location",
       "assign": "before",
       "duotone": false,
@@ -5736,7 +5736,7 @@
       "alias": "map"
     },
     {
-      "id": "7dd2a235-dead-46e9-9c9b-d197feff8f2e",
+      "id": "dc2a8b82-8549-4c88-841b-ea99bbb751a5",
       "name": "lock",
       "assign": "before",
       "duotone": false,
@@ -5748,7 +5748,7 @@
       "cat": "singletone"
     },
     {
-      "id": "d1d7d5be-413e-47bc-892d-b5ff4fe6b068",
+      "id": "12631927-163e-4735-a666-0af74d2d5505",
       "name": "logs",
       "assign": "before",
       "duotone": false,
@@ -5761,7 +5761,7 @@
       "alias": "activity-log,user-activity-log"
     },
     {
-      "id": "313943f6-6648-417f-951c-5381e12b8d56",
+      "id": "0c69a883-bc32-440c-8536-929e0563a436",
       "name": "loop",
       "assign": "before",
       "duotone": false,
@@ -5773,7 +5773,7 @@
       "cat": "singletone"
     },
     {
-      "id": "eec5ff2c-0064-4114-9c97-ac0a02b25d35",
+      "id": "2597acb2-376f-465c-8c89-d5d66cdaf97b",
       "name": "magnifier",
       "assign": "before",
       "duotone": false,
@@ -5785,7 +5785,7 @@
       "cat": "singletone"
     },
     {
-      "id": "290fa75f-1c97-42e1-b43e-18e0d3c8f36f",
+      "id": "68fb1b67-11f1-4c7b-b770-ac1b0f29e573",
       "name": "manage-user",
       "assign": "before",
       "duotone": false,
@@ -5797,7 +5797,7 @@
       "cat": "singletone"
     },
     {
-      "id": "f9923006-4569-4b4f-97f7-5a048e9a8c3e",
+      "id": "a9c8507e-5650-4366-b5e6-ddc322fb12d6",
       "name": "manage",
       "assign": "before",
       "duotone": false,
@@ -5809,7 +5809,7 @@
       "cat": "singletone"
     },
     {
-      "id": "d9f8f26a-1aaf-4510-9cc5-b7a406e3db9b",
+      "id": "928e3720-c951-43f1-b1e9-0b2217e03572",
       "name": "mass-mail",
       "assign": "before",
       "duotone": false,
@@ -5821,7 +5821,7 @@
       "cat": "singletone"
     },
     {
-      "id": "08b6cb30-22ca-4cb2-a15c-d2f7ae3e116e",
+      "id": "bec283f6-42c2-448c-bd00-ce44ae807864",
       "name": "media",
       "assign": "before",
       "duotone": false,
@@ -5833,7 +5833,7 @@
       "cat": "singletone"
     },
     {
-      "id": "419a13e0-49d0-481a-bdec-4aefcd956020",
+      "id": "3656adbc-2a0a-4ac6-bcc1-25beaf8c423a",
       "name": "menu",
       "assign": "before",
       "duotone": false,
@@ -5845,7 +5845,7 @@
       "cat": "singletone"
     },
     {
-      "id": "33d010da-f31f-431b-80d3-f34037415228",
+      "id": "23fe9885-329d-41bc-a7b1-5555a170024a",
       "name": "messaging",
       "assign": "before",
       "duotone": false,
@@ -5857,7 +5857,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6c5660ed-e78e-4b0c-a9d6-f265dad50f6b",
+      "id": "d72d75aa-7aae-4f31-bc54-3be39de42b8b",
       "name": "minus-circle",
       "assign": "before",
       "duotone": false,
@@ -5869,7 +5869,7 @@
       "cat": "singletone"
     },
     {
-      "id": "7d5ffd2f-44ba-4a6c-99b3-72739d8e0787",
+      "id": "a91338cb-0946-4969-b385-b855793d2deb",
       "name": "minus-sign",
       "assign": "before",
       "duotone": false,
@@ -5882,7 +5882,7 @@
       "alias": "minus-2,minus"
     },
     {
-      "id": "38e9dc45-d03d-4a9e-9bad-02a32bb3ddc1",
+      "id": "d708e09f-f3f5-47e1-acab-17c763fde5ad",
       "name": "mobile",
       "assign": "before",
       "duotone": false,
@@ -5895,7 +5895,7 @@
       "alias": "phone-2"
     },
     {
-      "id": "acac29a7-a4b8-4c8c-9dba-a9220225dcb6",
+      "id": "7c3eb1a6-587c-4895-b173-7b81f608d84c",
       "name": "modules",
       "assign": "before",
       "duotone": false,
@@ -5908,7 +5908,7 @@
       "alias": "puzzle"
     },
     {
-      "id": "83c4c443-8457-4b97-81b0-450000b15c95",
+      "id": "cd2617ca-d584-439c-b42e-4d156ca5a91f",
       "name": "mouse-pointer-highlighter",
       "assign": "before",
       "duotone": false,
@@ -5920,7 +5920,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8f0d6411-f7b2-4025-b74d-312b73fb81b4",
+      "id": "bc220242-4586-4e84-8329-7d7e51758d37",
       "name": "move-v",
       "assign": "before",
       "duotone": false,
@@ -5933,7 +5933,7 @@
       "alias": "move-2"
     },
     {
-      "id": "c5aee025-15c9-41ea-ac5f-6829f0bbca18",
+      "id": "00595e88-1d9a-4c91-a212-56e213c08d2b",
       "name": "move",
       "assign": "before",
       "duotone": false,
@@ -5946,7 +5946,7 @@
       "alias": "control"
     },
     {
-      "id": "c01d9112-e424-44a2-a097-0c98dd3140a7",
+      "id": "00ec3da8-a32c-415a-92e2-3fc0375185b5",
       "name": "multilingual",
       "assign": "before",
       "duotone": false,
@@ -5958,7 +5958,7 @@
       "cat": "singletone"
     },
     {
-      "id": "79d56adc-8a74-4879-9bff-d96f2d419c4c",
+      "id": "c71eb9c1-4077-49c9-a965-87e2cd98e9a4",
       "name": "music",
       "assign": "before",
       "duotone": false,
@@ -5970,7 +5970,7 @@
       "cat": "singletone"
     },
     {
-      "id": "39d91d60-357e-42f4-8b4d-5d0d692d0548",
+      "id": "317b2f77-29f8-4fd8-9e45-3920a53d8d80",
       "name": "navigation",
       "assign": "before",
       "duotone": false,
@@ -5982,7 +5982,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9bcc5d26-7ba9-4c02-9a5c-90fc4f2b4a2b",
+      "id": "76f4ed64-4b12-43bc-8489-b76d6376efac",
       "name": "next",
       "assign": "before",
       "duotone": false,
@@ -5995,7 +5995,7 @@
       "alias": "forward"
     },
     {
-      "id": "447d03b4-b57f-4dfb-953e-5e59524379d9",
+      "id": "23c2d942-fb78-4b68-b0fa-19000ca75fa3",
       "name": "notification-circle",
       "assign": "before",
       "duotone": false,
@@ -6007,7 +6007,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8c78427a-5162-4b2a-9998-8666c61ccb3b",
+      "id": "e27b14a4-a936-46d1-9bfd-85c083dd9853",
       "name": "notification",
       "assign": "before",
       "duotone": false,
@@ -6019,7 +6019,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a2fcc49b-ac71-41de-8476-fe2ac7dbfd05",
+      "id": "4670cc98-b7fa-4baa-a1ee-659e916592fd",
       "name": "paint-brush",
       "assign": "before",
       "duotone": false,
@@ -6031,7 +6031,7 @@
       "cat": "singletone"
     },
     {
-      "id": "ae93c1a5-436a-4999-ba0a-ddab949e4a2f",
+      "id": "1d98455d-5b14-413c-baf3-18fff54b0809",
       "name": "palette",
       "assign": "before",
       "duotone": false,
@@ -6044,7 +6044,7 @@
       "alias": "color-palette"
     },
     {
-      "id": "390394a6-0daf-4ea3-9c0d-50272b70b0d9",
+      "id": "b2bba94c-dd93-4cf5-a146-c6691e2ac7ca",
       "name": "paragraph-bullete",
       "assign": "before",
       "duotone": false,
@@ -6056,7 +6056,7 @@
       "cat": "singletone"
     },
     {
-      "id": "62ccba33-41a7-473c-a487-26f52496bb0f",
+      "id": "7103878d-1b87-4712-b2cd-4b4ab1da7c66",
       "name": "paragraph-center",
       "assign": "before",
       "duotone": false,
@@ -6068,7 +6068,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9569b73e-8d5d-4fc6-8391-0e09a700420f",
+      "id": "f87d0bda-c64d-4fee-a13e-8b5fecaacb4e",
       "name": "paragraph-justify",
       "assign": "before",
       "duotone": false,
@@ -6080,7 +6080,7 @@
       "cat": "singletone"
     },
     {
-      "id": "82ca716b-af4b-411f-862e-9ff2cbc3fe6e",
+      "id": "29042cb5-29c0-4fc4-812f-4d96a8373e76",
       "name": "paragraph-left",
       "assign": "before",
       "duotone": false,
@@ -6092,7 +6092,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a5519a7a-892e-4933-91c5-f4fc8ba4c039",
+      "id": "a54c22df-38ef-40ab-a733-34517e4498ad",
       "name": "paragraph-numbered",
       "assign": "before",
       "duotone": false,
@@ -6104,7 +6104,7 @@
       "cat": "singletone"
     },
     {
-      "id": "38810b30-0824-4acd-b70b-b23b098bad32",
+      "id": "1a610bf5-1d97-4e46-9bd8-75b187cbe042",
       "name": "paragraph-right",
       "assign": "before",
       "duotone": false,
@@ -6116,7 +6116,7 @@
       "cat": "singletone"
     },
     {
-      "id": "45537278-08ee-4034-8f3a-08d46e3510c5",
+      "id": "d7d3965a-7a2d-4396-bf14-3bcf7bd9b5aa",
       "name": "pause",
       "assign": "before",
       "duotone": false,
@@ -6128,7 +6128,7 @@
       "cat": "singletone"
     },
     {
-      "id": "f1c12093-7ad9-437f-9792-ee3f5f20a463",
+      "id": "7495e531-494a-4b56-b0ca-48af0fffbff9",
       "name": "pencil",
       "assign": "before",
       "duotone": false,
@@ -6140,7 +6140,7 @@
       "cat": "singletone"
     },
     {
-      "id": "84a327af-94a1-4b1e-a32a-ca092ff66d26",
+      "id": "a292075b-8b18-45fa-8a43-4517e077f7e5",
       "name": "pending",
       "assign": "before",
       "duotone": false,
@@ -6153,7 +6153,7 @@
       "alias": "warning"
     },
     {
-      "id": "48715712-088c-416d-a985-ba26375a5f0b",
+      "id": "6034a990-3229-48cc-b010-aa853e10eeb3",
       "name": "permission",
       "assign": "before",
       "duotone": false,
@@ -6165,7 +6165,7 @@
       "cat": "singletone"
     },
     {
-      "id": "53326225-2f42-4ef6-b9ab-0c6a505d6d5e",
+      "id": "c9e16ac9-894e-4909-9cc9-18ad518427ce",
       "name": "phone",
       "assign": "before",
       "duotone": false,
@@ -6177,7 +6177,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9f525233-e319-4d8a-aaea-83e9a5a5b687",
+      "id": "680f7a38-ce71-4874-beb9-691aad8db0b0",
       "name": "php",
       "assign": "before",
       "duotone": false,
@@ -6189,7 +6189,7 @@
       "cat": "singletone"
     },
     {
-      "id": "76db2348-8045-4ad1-bf26-27f6428d0f76",
+      "id": "af3b8d18-2d3d-410f-a0d5-4e94ac1f92e0",
       "name": "pictures",
       "assign": "before",
       "duotone": false,
@@ -6202,7 +6202,7 @@
       "alias": "images"
     },
     {
-      "id": "8b91e531-bb25-4fc4-bc52-2fe77adf540f",
+      "id": "9a22715b-8674-4342-a645-3985ebf8db00",
       "name": "pie",
       "assign": "before",
       "duotone": false,
@@ -6215,7 +6215,7 @@
       "alias": "chart-2"
     },
     {
-      "id": "fef32b3d-5435-46d3-842e-6225b7cba70e",
+      "id": "55774620-bf0a-4b34-83b7-91f89a8b9cbe",
       "name": "pin",
       "assign": "before",
       "duotone": false,
@@ -6228,7 +6228,7 @@
       "alias": "pushpin"
     },
     {
-      "id": "2c5b8c21-42ab-4de7-b577-6d33351386f7",
+      "id": "72df6372-d82b-4048-b3f1-ea1088d5eab5",
       "name": "play-circle",
       "assign": "before",
       "duotone": false,
@@ -6240,7 +6240,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6c9b1519-e367-46d3-bc5b-547cf89e0378",
+      "id": "1700d1c7-5620-4e85-b3ba-b0c0c3146d00",
       "name": "play",
       "assign": "before",
       "duotone": false,
@@ -6253,7 +6253,7 @@
       "alias": "video-2,youtube"
     },
     {
-      "id": "f3b95497-9f21-4be7-b971-0710986d18a9",
+      "id": "9f7ee14d-3d66-42eb-90a2-65cf3ce5cb00",
       "name": "plug",
       "assign": "before",
       "duotone": false,
@@ -6265,7 +6265,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9b1eba89-f7fe-477f-94ee-1b41fbbb7dca",
+      "id": "a9cb05b6-42e8-4c43-9061-e02441f2c321",
       "name": "plugins",
       "assign": "before",
       "duotone": false,
@@ -6278,7 +6278,7 @@
       "alias": "plug"
     },
     {
-      "id": "ccbafc74-4856-4082-8bc0-4818a7776b8b",
+      "id": "22a6e92b-9105-4c9f-8127-719b86c61576",
       "name": "plus-circle",
       "assign": "before",
       "duotone": false,
@@ -6290,7 +6290,7 @@
       "cat": "singletone"
     },
     {
-      "id": "42e79688-d57d-4c05-81be-6e2969cb6303",
+      "id": "e09658e1-d147-4f5b-99bf-8426b1a93e8b",
       "name": "previous",
       "assign": "before",
       "duotone": false,
@@ -6303,7 +6303,7 @@
       "alias": "backward"
     },
     {
-      "id": "018f6eac-70f7-465b-8b55-4678e3b5bf31",
+      "id": "17b7a600-feaa-47b3-bb30-de5fd73165ab",
       "name": "print",
       "assign": "before",
       "duotone": false,
@@ -6316,7 +6316,7 @@
       "alias": "printer"
     },
     {
-      "id": "ac0191e3-4253-46a0-8cae-b8f23b37c0d6",
+      "id": "dea1276d-2f8e-4eed-9a1e-55040bb28729",
       "name": "privacy",
       "assign": "before",
       "duotone": false,
@@ -6328,7 +6328,7 @@
       "cat": "singletone"
     },
     {
-      "id": "0f83bbc2-0d92-4ca1-bfd5-8ce1784ce26b",
+      "id": "c76361db-9aa7-4177-9d51-6e2e5045a475",
       "name": "publish",
       "assign": "before",
       "duotone": false,
@@ -6341,7 +6341,7 @@
       "alias": "save,ok,checkmark"
     },
     {
-      "id": "f780407c-3b7a-4e85-9965-96232a54f1aa",
+      "id": "d9c17bc9-0ea4-4c24-ace5-a3dae3c552dc",
       "name": "question-circle",
       "assign": "before",
       "duotone": false,
@@ -6354,7 +6354,7 @@
       "alias": "question-sign-circle,question-2"
     },
     {
-      "id": "c3b159a7-2dfb-41b4-9023-c8831437ca58",
+      "id": "ee4d278a-74f1-4082-a309-4d724a59f670",
       "name": "question-sign",
       "assign": "before",
       "duotone": false,
@@ -6366,7 +6366,7 @@
       "cat": "singletone"
     },
     {
-      "id": "819a2fc0-b5cd-40a4-8777-2490ccf2a788",
+      "id": "39190338-3645-4ab0-9d05-0ab3b23a797b",
       "name": "quote-left",
       "assign": "before",
       "duotone": false,
@@ -6378,7 +6378,7 @@
       "cat": "singletone"
     },
     {
-      "id": "695797d8-0c60-4e3d-b14a-e36be3791307",
+      "id": "2ee59536-d3c6-4b2c-9047-1941a15525ed",
       "name": "quote-right",
       "assign": "before",
       "duotone": false,
@@ -6390,7 +6390,7 @@
       "cat": "singletone"
     },
     {
-      "id": "4f00a3cd-8aae-40bc-8c41-853a6da1ad16",
+      "id": "a6c14ba4-c197-43f4-8729-129b7ec3b278",
       "name": "radio-checked",
       "assign": "before",
       "duotone": false,
@@ -6403,7 +6403,7 @@
       "alias": "generic"
     },
     {
-      "id": "ee03a34c-a175-4918-8922-52db5f7f2753",
+      "id": "b5d69cf7-a56a-4ee2-8396-8631bf4f393c",
       "name": "radio-unchecked",
       "assign": "before",
       "duotone": false,
@@ -6415,7 +6415,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a39cddb4-0e63-4e3d-8251-8e9089bec01e",
+      "id": "d7360201-81e3-4bfa-a87e-dd43413bf18d",
       "name": "rebuild",
       "assign": "before",
       "duotone": false,
@@ -6427,7 +6427,7 @@
       "cat": "singletone"
     },
     {
-      "id": "0ce06f19-cb7b-4c59-9fff-2be53897f22c",
+      "id": "c76e9459-1184-4d44-b393-6a6e55541ef0",
       "name": "repeat",
       "assign": "before",
       "duotone": false,
@@ -6439,7 +6439,7 @@
       "cat": "singletone"
     },
     {
-      "id": "04c6a4eb-1f3c-4c34-8c1a-9b69048049c9",
+      "id": "d26b6467-b9c4-43bf-b10a-4cff3ce90395",
       "name": "reply",
       "assign": "before",
       "duotone": false,
@@ -6452,7 +6452,7 @@
       "alias": "backward-2,reply-all"
     },
     {
-      "id": "7a53ca34-beb6-4c53-9851-3f81f85d9c1d",
+      "id": "d9dc0021-dc39-43eb-928b-0eb8537ba365",
       "name": "save-copy",
       "assign": "before",
       "duotone": false,
@@ -6465,7 +6465,7 @@
       "alias": "copy"
     },
     {
-      "id": "6c457b71-edad-451e-a92d-eb2059cc6fc2",
+      "id": "f260aa25-d2e7-4667-beda-b29201ddfe79",
       "name": "save-new",
       "assign": "before",
       "duotone": false,
@@ -6478,7 +6478,7 @@
       "alias": "plus-2,new,plus,add"
     },
     {
-      "id": "59f31c00-1a2f-4787-a44f-878b31a1bdfb",
+      "id": "4f002562-04ea-4fd5-b0c2-9cf48566a25e",
       "name": "scissors",
       "assign": "before",
       "duotone": false,
@@ -6490,7 +6490,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6b271182-a40b-408f-924b-13f5d568620a",
+      "id": "8546e329-e17d-4769-9708-516c2742a7d0",
       "name": "screen",
       "assign": "before",
       "duotone": false,
@@ -6503,7 +6503,7 @@
       "alias": "monitor,desktop"
     },
     {
-      "id": "6870a524-d841-42ee-9e97-4233d9b4e4fe",
+      "id": "1beddff2-c561-4c41-adb4-aae89aff3589",
       "name": "screwdriver",
       "assign": "before",
       "duotone": false,
@@ -6516,7 +6516,7 @@
       "alias": "tools"
     },
     {
-      "id": "bf697a68-3365-46e6-8ba8-b68eceab6e42",
+      "id": "457f1a1e-28a5-48a0-9172-70d9e997adf8",
       "name": "search",
       "assign": "before",
       "duotone": false,
@@ -6528,7 +6528,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e8cdb5f3-36bb-4f85-b252-a78cceb7bfa9",
+      "id": "eed7096b-b24e-44a4-bd01-59bf9e36ff92",
       "name": "select",
       "assign": "before",
       "duotone": false,
@@ -6540,7 +6540,7 @@
       "cat": "singletone"
     },
     {
-      "id": "520dcdb1-a818-4477-a166-3ccf21816d80",
+      "id": "52f51266-3b1c-4c0e-af0c-82a026856efa",
       "name": "settings",
       "assign": "before",
       "duotone": false,
@@ -6552,7 +6552,7 @@
       "cat": "singletone"
     },
     {
-      "id": "20d0cb3c-9e79-4f1f-97a4-23b2617a12ca",
+      "id": "37986c0e-850a-4eb7-a503-e707de5b1be6",
       "name": "share-alt",
       "assign": "before",
       "duotone": false,
@@ -6565,7 +6565,7 @@
       "alias": "out"
     },
     {
-      "id": "80f949ba-fbea-4217-aa56-cedad6d96a93",
+      "id": "32a59363-d6a0-4546-b990-f379db94b278",
       "name": "share-redo",
       "assign": "before",
       "duotone": false,
@@ -6577,7 +6577,7 @@
       "cat": "singletone"
     },
     {
-      "id": "fad49451-d1d9-4f7e-9384-4b544da509e9",
+      "id": "cffb8221-3d21-4118-a543-89f6c5e58cb6",
       "name": "shield",
       "assign": "before",
       "duotone": false,
@@ -6590,7 +6590,7 @@
       "alias": "protect,security"
     },
     {
-      "id": "7860f747-58d3-4d98-b375-21dec9620d9f",
+      "id": "7c415683-db2a-4f72-8301-1bf46a108ba2",
       "name": "shuffle",
       "assign": "before",
       "duotone": false,
@@ -6602,7 +6602,7 @@
       "cat": "singletone"
     },
     {
-      "id": "74e3609f-758d-49ec-8066-59dd9a1e31c3",
+      "id": "fbe1166a-29d8-4e7e-b680-a09e3f1cf4df",
       "name": "sign-in",
       "assign": "before",
       "duotone": false,
@@ -6614,7 +6614,7 @@
       "cat": "singletone"
     },
     {
-      "id": "664cfffb-3b0f-47f6-81d7-d8a583c8fe4c",
+      "id": "dde60eda-62c9-4f00-941b-5c59a33c8512",
       "name": "sign-out",
       "assign": "before",
       "duotone": false,
@@ -6626,7 +6626,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e08fff59-7b52-45a2-b088-b1768086ded7",
+      "id": "56555082-f26b-4ef4-954e-7857e2c0720d",
       "name": "smart-search",
       "assign": "before",
       "duotone": false,
@@ -6638,7 +6638,7 @@
       "cat": "singletone"
     },
     {
-      "id": "da90c4d3-be0c-4087-bcdd-605ec3abf3a6",
+      "id": "a6e113f7-64ce-4682-b921-f2e726fc12f0",
       "name": "smiley-neutral",
       "assign": "before",
       "duotone": false,
@@ -6650,7 +6650,7 @@
       "cat": "singletone"
     },
     {
-      "id": "0e8cb39e-6124-4550-ae1c-bd9be55d7055",
+      "id": "6033e12e-06b3-4746-a977-8da70e402ab9",
       "name": "smiley-sad",
       "assign": "before",
       "duotone": false,
@@ -6662,7 +6662,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a652f20a-aeb2-4761-8854-088efaffbb8d",
+      "id": "79a2c0ee-4ab3-4442-ae67-1b3d011d7d41",
       "name": "smiley",
       "assign": "before",
       "duotone": false,
@@ -6675,7 +6675,7 @@
       "alias": "smiley-happy"
     },
     {
-      "id": "60199e70-53e4-4ebf-b007-c023c38629a3",
+      "id": "4393cf20-4015-47b8-8270-ed1d6d0e0ec3",
       "name": "sort",
       "assign": "before",
       "duotone": false,
@@ -6687,7 +6687,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8a2b67aa-a9f8-4262-bffc-38bd347b8742",
+      "id": "0d4e519b-ee3e-486d-a599-294fb841969d",
       "name": "sourcetree",
       "assign": "before",
       "duotone": false,
@@ -6700,7 +6700,7 @@
       "alias": "tree"
     },
     {
-      "id": "ccae717d-3855-4b57-86c9-43095ff49b6e",
+      "id": "41458313-5ebf-4933-b0a6-69afdd7b087e",
       "name": "spinner",
       "assign": "before",
       "duotone": false,
@@ -6712,7 +6712,7 @@
       "cat": "singletone"
     },
     {
-      "id": "83b06dc7-a6f6-41a1-a263-ab25b96c9374",
+      "id": "d5638891-681b-4112-9821-01a5053ba74a",
       "name": "square",
       "assign": "before",
       "duotone": false,
@@ -6724,7 +6724,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8491c2f0-dad7-4a2c-a21f-2879bbe46362",
+      "id": "02779646-b9b6-4927-b3be-4d8765c8734d",
       "name": "star-half",
       "assign": "before",
       "duotone": false,
@@ -6736,7 +6736,7 @@
       "cat": "singletone"
     },
     {
-      "id": "12866214-dbd9-4b6c-8f95-3c8c946dc32b",
+      "id": "951e9655-67e7-4882-aab9-0b847f938f9a",
       "name": "step-forward",
       "assign": "before",
       "duotone": false,
@@ -6749,7 +6749,7 @@
       "alias": "arrow-last"
     },
     {
-      "id": "b66ee8f7-c34a-4737-8fd9-c697cd590d26",
+      "id": "ec3217d1-5442-4942-ae80-25fb9a9fe855",
       "name": "stop",
       "assign": "before",
       "duotone": false,
@@ -6761,7 +6761,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8c80d208-6e7d-46dc-8fbe-705f4eb49b23",
+      "id": "425116ad-43c6-414b-b612-0c6d585d3584",
       "name": "success",
       "assign": "before",
       "duotone": false,
@@ -6774,7 +6774,7 @@
       "alias": "check-circle"
     },
     {
-      "id": "f9b8b941-8b23-4d71-bbc6-3d51a646f614",
+      "id": "e7878ddc-96bb-46b0-aec2-90fcb5cf054e",
       "name": "support",
       "assign": "before",
       "duotone": false,
@@ -6786,7 +6786,7 @@
       "cat": "singletone"
     },
     {
-      "id": "03900cc1-42a4-46b3-b25a-b1d3d6460577",
+      "id": "46dad4b1-ca8f-453d-b5cc-c0bae3a8f977",
       "name": "table",
       "assign": "before",
       "duotone": false,
@@ -6798,7 +6798,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e58e268f-8f3b-4c03-8e5d-2f8108e78d7d",
+      "id": "49f2cdd1-b9ea-46cf-9f2a-593991960d21",
       "name": "tag",
       "assign": "before",
       "duotone": false,
@@ -6811,7 +6811,7 @@
       "alias": "offer"
     },
     {
-      "id": "c72ec7ca-123a-4695-9839-04369090f3a7",
+      "id": "163d1f76-7408-4f59-978e-8674a00b61a8",
       "name": "tags-squared",
       "assign": "before",
       "duotone": false,
@@ -6824,7 +6824,7 @@
       "alias": "styles"
     },
     {
-      "id": "efdf85e0-8722-4edb-82fa-e5ae0689ad68",
+      "id": "a611fcb3-e755-4b56-86fb-df95984f4ffe",
       "name": "tags-trio",
       "assign": "before",
       "duotone": false,
@@ -6836,7 +6836,7 @@
       "cat": "singletone"
     },
     {
-      "id": "c30b5185-5daf-41f6-8589-f54a7c699179",
+      "id": "8e1cd8ef-3236-440c-9b21-c907aa692a4f",
       "name": "tags",
       "assign": "before",
       "duotone": false,
@@ -6849,7 +6849,7 @@
       "alias": "tag-double"
     },
     {
-      "id": "82bb0f1f-eb5c-445f-bca4-c66259c722bd",
+      "id": "1c03bb6c-f7f1-4199-b338-52fb66d8aa18",
       "name": "thumbs-down",
       "assign": "before",
       "duotone": false,
@@ -6861,7 +6861,7 @@
       "cat": "singletone"
     },
     {
-      "id": "df7b5be3-77f2-4826-acf6-d547637500a3",
+      "id": "b12c07db-c33c-4485-b799-47f282d30f0e",
       "name": "thumbs-up",
       "assign": "before",
       "duotone": false,
@@ -6873,7 +6873,7 @@
       "cat": "singletone"
     },
     {
-      "id": "2e44684c-d724-46ec-a05e-9d61f9924f45",
+      "id": "9c0aed77-d72b-4d2f-a994-c8a8cdf5c315",
       "name": "times",
       "assign": "before",
       "duotone": false,
@@ -6886,7 +6886,7 @@
       "alias": "cancel,close,delete-2"
     },
     {
-      "id": "2acb0f40-0a3b-433c-aed2-e3cf1c7d3b13",
+      "id": "758700fe-affd-400f-926d-cebc010372bc",
       "name": "toggle-off",
       "assign": "before",
       "duotone": false,
@@ -6898,7 +6898,7 @@
       "cat": "singletone"
     },
     {
-      "id": "2d7740fb-6102-4347-b985-d652a2c8b56d",
+      "id": "776863c9-4ec7-4f9f-873b-3cc7846bab49",
       "name": "toggle-on",
       "assign": "before",
       "duotone": false,
@@ -6910,7 +6910,7 @@
       "cat": "singletone"
     },
     {
-      "id": "fae20063-22fa-4711-a603-3c0af6f7ef3d",
+      "id": "75f2b784-4d5c-4fa5-93a7-aca99b365157",
       "name": "trash",
       "assign": "before",
       "duotone": false,
@@ -6923,7 +6923,7 @@
       "alias": "delete,purge"
     },
     {
-      "id": "bd3bc1b9-879a-4998-a82c-1376b933d515",
+      "id": "6fcb224b-148b-47a5-8f1f-2be46ee7a286",
       "name": "tree-hub",
       "assign": "before",
       "duotone": false,
@@ -6935,7 +6935,7 @@
       "cat": "singletone"
     },
     {
-      "id": "6a020b34-5458-4b2c-901e-6f780a2fac92",
+      "id": "600077ba-ab61-4e76-98c6-2296358fb1aa",
       "name": "unblock",
       "assign": "before",
       "duotone": false,
@@ -6948,7 +6948,7 @@
       "alias": "refresh,redo-2"
     },
     {
-      "id": "6ce7a361-a7f2-4e36-9486-393224d67965",
+      "id": "d3da4b9d-327f-420e-a29e-06a4a43eab9a",
       "name": "undo-back",
       "assign": "before",
       "duotone": false,
@@ -6960,7 +6960,7 @@
       "cat": "singletone"
     },
     {
-      "id": "f973c725-6b80-46ac-ade2-ed2dff1a8922",
+      "id": "18d177a7-8031-4360-b9bc-e2b056169e6f",
       "name": "undo",
       "assign": "before",
       "duotone": false,
@@ -6972,7 +6972,7 @@
       "cat": "singletone"
     },
     {
-      "id": "dc8e89c0-a255-455b-8c2b-64a9a41f7e62",
+      "id": "a9e082a5-3b6a-4046-8a26-df0a0a9537c1",
       "name": "unfeatured",
       "assign": "before",
       "duotone": false,
@@ -6985,7 +6985,7 @@
       "alias": "asterisk,star-empty"
     },
     {
-      "id": "079389e0-8f4b-47f4-8194-ddd0b135efe7",
+      "id": "b4c930b4-064b-4e1c-aa98-f22a9f4fa869",
       "name": "unlock",
       "assign": "before",
       "duotone": false,
@@ -6997,7 +6997,7 @@
       "cat": "singletone"
     },
     {
-      "id": "a2109a81-3a27-4c57-91e2-a17360954f23",
+      "id": "9b9aa877-bc3b-4ca0-a885-b821e7dc66d1",
       "name": "unpublish",
       "assign": "before",
       "duotone": false,
@@ -7009,7 +7009,7 @@
       "cat": "singletone"
     },
     {
-      "id": "4e41d2ae-3238-44c5-a7d0-0e1c14c162a0",
+      "id": "fb738090-53ba-4cfc-8ad6-31bcf531e0ea",
       "name": "upload",
       "assign": "before",
       "duotone": false,
@@ -7021,7 +7021,7 @@
       "cat": "singletone"
     },
     {
-      "id": "2225e3d6-30b9-4e31-85e8-c994fc3d3f44",
+      "id": "701582d4-1144-4f34-89b4-43396152528e",
       "name": "user-notes",
       "assign": "before",
       "duotone": false,
@@ -7034,7 +7034,7 @@
       "alias": "notes"
     },
     {
-      "id": "52d0b488-d04e-40e4-b39c-258064371877",
+      "id": "48dc6a56-6069-46f1-9d7c-4da0e389f607",
       "name": "user",
       "assign": "before",
       "duotone": false,
@@ -7046,7 +7046,7 @@
       "cat": "singletone"
     },
     {
-      "id": "011f6e6e-fa8c-4eaa-8347-d36de0969245",
+      "id": "7c4732e1-15d4-413d-b7dd-cb03e7731eb3",
       "name": "users",
       "assign": "before",
       "duotone": false,
@@ -7058,7 +7058,7 @@
       "cat": "singletone"
     },
     {
-      "id": "7d2a6c86-6c3e-4d6b-af3e-884b84311859",
+      "id": "4ea7f3d0-3037-4f4c-a53e-795b69780506",
       "name": "vcard",
       "assign": "before",
       "duotone": false,
@@ -7070,7 +7070,7 @@
       "cat": "singletone"
     },
     {
-      "id": "8b41e105-dfd3-4012-8dbb-847372627fc1",
+      "id": "b8cbf4c9-66bc-4e11-8cf2-11174d0085fb",
       "name": "video",
       "assign": "before",
       "duotone": false,
@@ -7083,7 +7083,7 @@
       "alias": "camera-2"
     },
     {
-      "id": "f9966dee-344c-4e7c-8bda-eed62b959728",
+      "id": "bbb7c883-28b1-4c6b-a413-aae7b8936a33",
       "name": "wand",
       "assign": "before",
       "duotone": false,
@@ -7095,7 +7095,7 @@
       "cat": "singletone"
     },
     {
-      "id": "ee5dbca2-fefc-44b0-aedf-36817e9050d7",
+      "id": "315208c9-7b55-4ca4-b451-6c7833cd2736",
       "name": "warning-circle",
       "assign": "before",
       "duotone": false,
@@ -7107,7 +7107,7 @@
       "cat": "singletone"
     },
     {
-      "id": "5e6ebaa1-12e4-4422-ac66-0af1c1c22de4",
+      "id": "1f28440d-3b28-4736-ac9a-69183da59b19",
       "name": "warning",
       "assign": "before",
       "duotone": false,
@@ -7119,7 +7119,7 @@
       "cat": "singletone"
     },
     {
-      "id": "9d31caf9-153a-4ec3-8277-73569165708a",
+      "id": "b5a9c879-f12b-44bd-9167-0ec6e1f9f69d",
       "name": "workflows",
       "assign": "before",
       "duotone": false,
@@ -7131,7 +7131,7 @@
       "cat": "singletone"
     },
     {
-      "id": "ac7ebb6b-f344-4d9b-805d-786a40a52c21",
+      "id": "6bbec4ee-d381-4165-ba68-eb0c11724049",
       "name": "wrench",
       "assign": "before",
       "duotone": false,
@@ -7144,7 +7144,7 @@
       "alias": "build"
     },
     {
-      "id": "35735ab9-716f-4bb6-aece-20e768d30072",
+      "id": "c2ce4014-f2a3-4b1a-9c9f-677588c21558",
       "name": "zoom-in",
       "assign": "before",
       "duotone": false,
@@ -7156,7 +7156,7 @@
       "cat": "singletone"
     },
     {
-      "id": "e2885301-51d8-41b0-a66f-534ebe179e59",
+      "id": "27f51511-eec2-4a56-9458-c8fc71aeb752",
       "name": "zoom-out",
       "assign": "before",
       "duotone": false,
