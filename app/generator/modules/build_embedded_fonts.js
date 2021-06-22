@@ -204,8 +204,8 @@ const IcoGenerator = {
     convertSvgToWebFont: () => {
         if(!module.exports.svgToTtf())
             module.exports.errorLog("svg2ttf generate problem ");
-        if(!module.exports.ttfToEot())
-            module.exports.errorLog("ttfToEot generate problem ");        
+        // if(!module.exports.ttfToEot())
+        //     module.exports.errorLog("ttfToEot generate problem ");        
         if(!module.exports.ttfToWoff())
             module.exports.errorLog("ttfToWoff generate problem ");
         if(!module.exports.ttfToWoff2())

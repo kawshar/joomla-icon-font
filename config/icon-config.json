@@ -1,21 +1,21 @@
 {
   "font": {
-    "author": "Joomla",
-    "email": "admin@joomla.org",
+    "author": "Builderx",
+    "email": "admin@joomshaper.org",
     "ascent": 850,
     "descent": -150,
     "code": 59392,
-    "updateCode": 81172,
-    "fontfamily": "JoomlaFont",
-    "prefix": "icon",
-    "filename": "joomla-fonts",
-    "packageName": "joomla",
+    "updateCode": 82917,
+    "fontfamily": "BuilderxFont",
+    "prefix": "bx-icon",
+    "filename": "builderx-fonts",
+    "packageName": "builderx",
     "version": "4.0.0",
     "weight": "Normal",
     "style": "Regular",
-    "metadata": "Joomla Icons Font",
+    "metadata": "Builderx Icons Font",
     "copyright": "Copyright (C) 2005 - 2019 Open Source Matters, Inc. All rights reserved.",
-    "url": "https://joomla.org",
-    "license": "https://tm.joomla.org/trademark-license.html"
+    "url": "https://joomshaper.com",
+    "license": "https://tm.joomshaper.com/trademark-license.html"
   }
 }
